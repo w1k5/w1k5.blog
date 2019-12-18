@@ -4,7 +4,7 @@ layout: default
 <title>template</title>
 <body>
 <structure>
-	<header><p>Welcome to the site! You are a visitor! I'd tell you which number you are, but I don't know JS well enough for that.</p></header>
+	{%- include header.html -%}
 
 	<article><h1>{{ page.title | escape }}</h1>
 		<p><time class="dt-published" datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">
@@ -20,7 +20,7 @@ layout: default
 
 	<nav>
 		<h1 id="LOGO">w&#865;&#783;&#772;&#775;&#775;&#799;&#812;&#845;&#813;&#853;&#802;&#802;&#809;i&#774;&#843;&#835;&#859;&#838;&#795;&#853;&#793;&#797;&#846;&#857;&#800;&#823;k&#862;&#864;&#785;&#779;&#843;&#773;&#786;&#782;&#813;&#799;&#803;&#860;&#827;&#811;&#797;s&#776;&#864;&#770;&#786;&#862;&#781;&#777;&#777;&#836;&#827;&#866;&#845;&#858;&#807;&#845;&#839;&#801;&#822;.&#772;&#833;&#830;&#844;&#785;&#855;&#839;&#857;&#814;&#805;&#851;&#804;&#804;&#820;w&#834;&#788;&#849;&#849;&#842;&#774;&#835;&#844;&#864;&#857;&#814;&#800;&#790;&#800;&#802;&#858;i&#772;&#855;&#850;&#784;&#856;&#783;&#850;&#837;&#806;&#863;&#827;&#811;&#821;k&#787;&#781;&#864;&#862;&#830;&#772;&#813;&#827;&#826;&#854;&#826;&#851;&#853;&#811;&#800;&#803;&#824;i&#848;&#776;&#842;&#771;&#768;&#849;&#812;&#813;&#801;&#851;&#846;&#866;&#797;&#858;&#857;&#823;</h1>
-		<a href="https://wiks.wiki/"><img src="images/waiting.gif" width="100%"></a><br>
+		<a href="https://wiks.wiki/"><img src="{{ site.baseurl }}/images/waiting.gif" width="100%"></a><br>
 		<p class="center">𝖓𝖆𝖛𝖎𝖌𝖆𝖙𝖎𝖔𝖓</p>
 		<ul class="nav">
 			<li><a href="https://wiks.wiki/real-talk">politics</a></li>
@@ -36,6 +36,7 @@ layout: default
 				{%- endif -%}
 	</p></viewerresponse>
 
-<footer><p>I still need to think of something to put here.</p></footer>
+<end><p>I still need to think of something to put here.</p></end>
 </structure>
+{%- include footer.html -%}
 </body>

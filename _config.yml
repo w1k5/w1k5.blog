@@ -19,7 +19,10 @@
 # in the templates via {{ site.myvariable }}.
 
 title: wiks.wiki
-description: hi. the internet has indulged every single one of our hedonist whims, and i think i was shaped by it, completely and fully. from stupid flash games flooded with malware, to the sweet, loving embrace of unsettingly invasive advertising on the web, the web has changed through the years, shaping the kids who were born with it. nothing you look at nowadays is private. i'm just here to hang out, though. the experience of being a person varies so aggressively— i want to use the internet for one of its most innocent and pure purposes: to learn about one another and to gradually accept and understand the common truths between our lives.
+description: hi. the internet has indulged every single one of our hedonist whims, and i think i was shaped by it, 
+completely and fully. from stupid flash games flooded with malware, to the sweet, loving embrace of unsettingly invasive 
+advertising on the web, the web has changed through the years, shaping the kids who were born with it. nothing you look
+ at nowadays is private. i'm just here to hang out, though.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: http://wiks.wiki
 github_username:  w1k5

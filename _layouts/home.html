@@ -36,7 +36,7 @@ nothing you look at nowadays is private. i'm just here to hang out, though. the 
 		</ul class="nav">
 	</nav>
 		<div class="newsflow2">
-		{%- for post in site.posts offset:1 limit:2 -%}
+		{%- for post in site.posts offset:1 limit:1 -%}
 				<h1> <a class="post-link" href="{{ post.url | relative_url }}">
 				{{ post.title | escape }}
 				</a> </h1>

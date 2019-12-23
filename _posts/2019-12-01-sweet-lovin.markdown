@@ -3,6 +3,7 @@ layout: page
 title:  sweet lovin'
 tag: catagories
 permalink: /matters-of-the-heart/
+hidden: true
 ---
 
 <h1>{{ page.title }}</h1>

@@ -8,7 +8,7 @@
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # 'bundle exec jekyll serve'. If you change this file, please restart the server process.
 #
-# If you need help with YAML syntax, here are some quick references for you: 
+# If you need help with YAML syntax, here are some quick references for you:
 # https://learn-the-web.algonquindesign.ca/topics/markdown-yaml-cheat-sheet/#yaml
 # https://learnxinyminutes.com/docs/yaml/
 #
@@ -23,6 +23,7 @@ description: hi. the internet has indulged every single one of our hedonist whim
 baseurl: "" # the subpath of your site, e.g. /blog
 url: http://wiks.wiki
 github_username:  w1k5
+excerpt_separator: <!--more-->
 
 # Build settings
 theme: minima

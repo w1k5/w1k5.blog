@@ -1,6 +1,6 @@
 ---
 layout: page
-title:  self care
+title:  Being a Person is Hard.
 tag: catagories
 permalink: /treat-yo-self/
 hidden: true

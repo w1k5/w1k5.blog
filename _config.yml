@@ -23,7 +23,7 @@ description: hi. the internet has indulged every single one of our hedonist whim
 baseurl: "" # the subpath of your site, e.g. /blog
 url: http://wiks.wiki
 github_username:  w1k5
-
+excerpt_separator: "<!-- more -->"
 # Build settings
 theme: minima
 plugins:

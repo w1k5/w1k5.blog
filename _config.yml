@@ -8,7 +8,7 @@
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # 'bundle exec jekyll serve'. If you change this file, please restart the server process.
 #
-# If you need help with YAML syntax, here are some quick references for you: 
+# If you need help with YAML syntax, here are some quick references for you:
 # https://learn-the-web.algonquindesign.ca/topics/markdown-yaml-cheat-sheet/#yaml
 # https://learnxinyminutes.com/docs/yaml/
 #
@@ -23,15 +23,9 @@ description: hi. the internet has indulged every single one of our hedonist whim
 baseurl: "" # the subpath of your site, e.g. /blog
 url: http://wiks.wiki
 github_username:  w1k5
-excerpt_separator: "<!-- more -->"
+excerpt_separator: <!--more-->
 
 # Build settings
-exclude: [assets/css, gruntfile.js, package.json, node_modules]
-keep_files: [assets/css]
-include: ["_pages"]
-markdown: kramdown
-port: 4000
-livereload: false
 theme: minima
 plugins:
   - jekyll-feed
@@ -55,3 +49,26 @@ plugins:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+
+#Comments Section
+emptyArray: []
+
+comments:
+receiver: https://{{your-receiver-site}}/api/PostComment}}
+defaults:
+  -
+    scope:
+      path: ''
+      type: pages
+    values:
+      layout: page
+      author: wiks
+      commenting: open
+  -
+    scope:
+      path: '_posts'
+      type: posts
+    values:
+      layout: post
+      author: wiks
+      commenting: open

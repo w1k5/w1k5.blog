@@ -20,9 +20,7 @@ layout: default
 	{%- include nav.html -%}
 
 	<viewerresponse><p>Someday you'll be able to respond to these posts here.
-				{%- if site.disqus.shortname -%}
-				{%- include disqus_comments.html -%}
-				{%- endif -%}
+			{% include comments.html %}
 	</p></viewerresponse>
 
 <end><p>I still need to think of something to put here.</p></end>

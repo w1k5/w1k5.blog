@@ -1,6 +1,6 @@
 ---
 layout: page
-title:  sweet lovin'
+title:  Sweet Lovin'
 tag: catagories
 permalink: /matters-of-the-heart/
 hidden: true

@@ -1,7 +1,7 @@
 ---
 layout: page
 title:  Being a person is hard
-tag: catagories
+tag: categories
 permalink: /treat-yo-self/
 hidden: true
 ---
@@ -9,5 +9,5 @@ hidden: true
 <h1>{{ page.title }}</h1>
 {% for post in site.categories.self-care %}
 <p><a href="{{ post.url }}">{{ post.title }}</a><br>
-<span>{{ post.date | date_to_string }}</span></p>
+<span>{{ post.date | date_to_string: "ordinal", "US" }}</span></p>
 {% endfor %}

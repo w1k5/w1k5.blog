@@ -24,10 +24,15 @@ Alright, so if you edit the text in the &lt;p&gt; or &lt;h1&gt;, you can by just
 </code></pre></li>
 <li>Consider that &lt;p&gt; or &lt;h1&gt; are both pieces of texts, &lt;p&gt; being a <a href="https://www.w3schools.com/html/html_paragraphs.asp" target="_blank">paragraph</a> and &lt;h1&gt; being a <a href="https://www.w3schools.com/html/html_headings.asp" target="_blank">header</a>. Click the associated links to find out more. To make them less bland than the pre-set black Arial or Times New Roman font, you can attribute specific characteristics to each type using your Cascading Style Sheet! Go back into <i>name</i>.css and try this, saving it after you've added it:
 <pre><code>p {
-  font-family: Segoe UI;
-  font-style: normal;
-  font-weight: 400;
-  font-size: 16pt;
+padding: 10px;
+border-style: solid;
+border-color: blue;
+border-width: 2px;
+background-color: #9EC7EB;
+color: white;
+font-family: arial,helvetica;
+font-size: 11px;
+font-weight: bold;
 	}
 </code></pre></li>
 <li>Commit and push this code in your Github repository, and within a few minutes, see the changes on your page when you hit refresh on your browser!</li></ol>

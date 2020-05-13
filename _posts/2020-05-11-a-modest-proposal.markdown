@@ -6,7 +6,7 @@ categories: "politics"
 ---
 <i>This is an unpublished op-ed. Here it is, published on my website.</i>
 
-<center>A MODEST PROPOSAL</center>
+<a href="https://en.wikipedia.org/wiki/A_Modest_Proposal" target="_blank"><center>A MODEST PROPOSAL</center></a>
 
 We live in a society. It seems to be in a rather unfortunate state at the moment. Fortunately, I am here to propose a modest solution. The privileged elite enjoy the luxury of escaping to their summer homes when a break from normal life is needed, and perhaps, we could take inspiration from them and emulate our own break from normal life en masse. My suggestion is that we should break from the tragedy of civilization: although it has always been plagued with problems, I firmly hold the belief that now, with the interconnectedness that globalization has blessed us, it is the perfect time for all of us to agree upon returning to our natural state, throwing away all of our material possessions and moral standings, and existing as homo sapiens did before the rise of civilization.
 

@@ -1,18 +1,8 @@
 ---
 layout: default
 ---
-<title>template</title>
-<body>
-<searchresults>
-	{%- include header.html -%}
 
-	<article>
-		<p>{{ content }}</p>
-	</article>
-
-	{%- include nav.html -%}
-
-<end><p>I still need to think of something to put here.</p></end>
-</searchresults>
-{%- include footer.html -%}
-</body>
+<div class="page">
+  <h1 class="page-title">{{ page.title }}</h1>
+  {{ content }}
+</div>

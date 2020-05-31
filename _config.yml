@@ -1,58 +1,26 @@
-# Welcome to Jekyll!
-#
-# This config file is meant for settings that affect your whole blog, values
-# which you are expected to set up once and rarely edit after that. If you find
-# yourself editing this file very often, consider using Jekyll's data files
-# feature for the data you need to update frequently.
-#
-# For technical reasons, this file is *NOT* reloaded automatically when you use
-# 'bundle exec jekyll serve'. If you change this file, please restart the server process.
-#
-# If you need help with YAML syntax, here are some quick references for you: 
-# https://learn-the-web.algonquindesign.ca/topics/markdown-yaml-cheat-sheet/#yaml
-# https://learnxinyminutes.com/docs/yaml/
-#
-# Site settings
-# These are used to personalize your new site. If you look in the HTML files,
-# you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
-# You can create any custom variable you would like, and they will be accessible
-# in the templates via {{ site.myvariable }}.
+# Dependencies
+markdown:         kramdown
+highlighter:      pygments
 
-title: wiks.wiki
-description: Hedonist whims and intellectual value.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: http://wiks.wiki
-github_username:  w1k5
+# Permalinks
+permalink:        pretty
+
+# Setup
+title:            wiks.wiki
+tagline:          "The personal is <del>political</del> personal."
+description:      "The experience of being a person varies so aggressively— I want to use the internet for one of its more innocent purposes: to learn about one another and to gradually accept and understand the common truths between our lives."
+url:              http://wiks.pics
+baseurl:          /
+author:           ""
+name:             "WIKS"
+url:              https://twitter.com/R4D1ANT_W1K5
 excerpt_separator: "<!-- more -->"
 
-# Build settings
-exclude: [assets/css, gruntfile.js, package.json, node_modules]
-keep_files: [assets/css]
-include: ["_pages"]
-markdown: kramdown
-port: 4000
-livereload: false
-theme: minima
-plugins:
-  - jekyll-feed
-  - simple-jekyll-search
+paginate:         3
 
-# Exclude from processing.
-# The following items will not be processed, by default.
-# Any item listed under the `exclude:` key here will be automatically added to
-# the internal "default list".
-#
-# Excluded items can be processed by explicitly listing the directories or
-# their entries' file path in the `include:` list.
-#
-# exclude:
-#   - .sass-cache/
-#   - .jekyll-cache/
-#   - gemfiles/
-#   - Gemfile
-#   - Gemfile.lock
-#   - node_modules/
-#   - vendor/bundle/
-#   - vendor/cache/
-#   - vendor/gems/
-#   - vendor/ruby/
+# Custom vars
+version:          2.1.0
+repo:           https://github.com/poole/hyde
+
+# Plugins/Gems
+plugins:          [jekyll-paginate]

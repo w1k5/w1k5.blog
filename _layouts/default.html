@@ -1,11 +1,15 @@
 <!DOCTYPE html>
-<html lang="{{ page.lang | default: site.lang | default: "en" }}">
-{%- include head.html -%}
-<body>
-	<script>var clicky_site_ids = clicky_site_ids || []; clicky_site_ids.push(101242648);</script>
-	<script async src="//static.getclicky.com/js"></script>
-	<noscript><p><img alt="Clicky" width="1" height="1" src="//in.getclicky.com/101242648ns.gif" /></p></noscript>
-	{{ content }}
-</body>
+<html lang="en-us">
 
+  {% include head.html %}
+
+  <body>
+
+    {% include sidebar.html %}
+
+    <div class="content container">
+      {{ content }}
+    </div>
+<script id="dsq-count-scr" src="//wiks-wiki.disqus.com/count.js" async></script>
+  </body>
 </html>

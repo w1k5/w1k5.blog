@@ -4,7 +4,7 @@ title:  "Boiling Water"
 date:   2018-12-18 00:00:02 -0500
 categories: "sweet-lovin"
 ---
-
+<!-- more -->
 You close your eyes:<br>
 A momentary peace.<br>
 Everything fits together all too perfectly<br>

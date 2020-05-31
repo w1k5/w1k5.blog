@@ -86,13 +86,13 @@ html {
   }
 }
 
-@media (min-width: 56em) {
+@media (min-width: 64em) {
   .sidebar {
     position: fixed;
     top: 0;
     left: 0;
     bottom: 0;
-    width: 20rem;
+    width: 25rem;
     text-align: left;
   }
 }
@@ -158,10 +158,10 @@ a.sidebar-nav-item:focus {
   }
 }
 
-@media (min-width: 56em) {
+@media (min-width: 64em) {
   .content {
-    margin-right: 4rem;
-    margin-left: 22rem;
+    margin-right: 3rem;
+    margin-left: 27rem;
   }
 }
 

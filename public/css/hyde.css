@@ -91,18 +91,6 @@ html {
   }
 }
 
-@media (min-width: 72em) {
-  .sidebar {
-    position: fixed;
-    top: 0;
-    left: 0;
-    bottom: 0;
-    width: 22rem;
-    text-align: left;
-  }
-}
-
-
 /* Sidebar links */
 .sidebar a {
   color: #fff;
@@ -168,13 +156,6 @@ a.sidebar-nav-item:focus {
   .content {
     margin-left: 22rem;
     margin-right: 4rem;
-  }
-}
-
-@media (min-width: 72em) {
-  .content {
-    margin-left: 26rem;
-    margin-right: 3rem;
   }
 }
 

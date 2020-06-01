@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "A 21st Century Modest Proposal"
-date:   2020-05-11 01:27:02 -0500
+title:  "A (21st Century) Modest Proposal"
+date:   2020-05-10 01:27:02 -0500
 categories: "politics"
 comments: true
 ---

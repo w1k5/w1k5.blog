@@ -6,10 +6,12 @@
           {{ site.title }}
         </a>
       </h1>
+      {% if page.title != "About" %}
       {% if page.title == "Home" %}
       <p class="lead" id="mobile">{{ site.description }}</p>
       {% endif %}
       <p class="lead" id="nomobile">{{ site.description }}</p>
+      {% endif %}
     </div>
 
     <nav class="sidebar-nav">

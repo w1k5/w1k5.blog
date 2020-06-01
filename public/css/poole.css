@@ -62,11 +62,11 @@ body {
       -ms-text-size-adjust: 100%;
 }
 
-@media (min-width: 48em) {
+@media (max-width: 48em) {
   #nomobile {display: none;}
 }
 
-@media (max-width: 48em) {
+@media (min-width: 48em) {
   #mobile {display: none;}
 }
 

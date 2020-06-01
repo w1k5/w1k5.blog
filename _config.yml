@@ -13,7 +13,6 @@ url:              https://wiks.wiki
 baseurl:          
 author:           ""
 name:             "WIKS"
-twitter_url:              https://twitter.com/R4D1ANT_W1K5
 excerpt_separator: "<!-- more -->"
 
 paginate:         3

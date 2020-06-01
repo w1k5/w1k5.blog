@@ -59,12 +59,29 @@ html {
 	font-family: sugarcubes;
 	src: url(assets/sugarcubes.ttf);
   }
+
+  .center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+  }
 /*
  * Sidebar
  *
  * Flexible banner for housing site name, intro, and "footer" content. Starts
  * out above content in mobile and later moves to the side with wider viewports.
  */
+
+ #directory a{font-family: gentle;
+   color: white;
+ margin: auto;
+text-decoration: underline;}
+
+#directory a:hover{font-family: gentle;
+  color: #bac5dd;
+margin: auto;
+text-decoration: underline;}
 
 .sidebar {
   text-align: center;

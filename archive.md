@@ -2,7 +2,21 @@
 layout: page
 title: Directory
 ---
-<img src="/images/cat.gif">
+
+<h2 id="directory">Browse by Category
+<br>
+{% assign pages_list = site.pages %}
+{% for node in pages_list %}
+{% if node.tag == "categories" %}
+{% if node.title != null %}
+{% if node.layout == "page" %}
+<a id="directory" href="{{ node.url }}">{{ node.title }}<br></a>
+{% endif %}
+{% endif %}
+{% endif %}
+{% endfor %}
+<br>
+All Posts</h2>
 {% for post in site.posts %}
 <h2 class="post-title">
 	<a href="{{ post.url }}">

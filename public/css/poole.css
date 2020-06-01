@@ -62,7 +62,7 @@ body {
       -ms-text-size-adjust: 100%;
 }
 
-@media (min-width: 48em) {
+@media (max-width: 48em) {
   #nomobile {display: none;}
 }
 

@@ -3,6 +3,7 @@ layout: post
 title:  "Don't know much about coding"
 date:   2020-03-20 00:01:49 -0500
 categories: "self-care"
+comments: true
 ---
 
 Most tech blogs are pretty intimidating and only give you a snippet of what you’re supposed to do. I love my handmade website, and while services using pre-built website templates and drag and drop elements have become increasingly popular, I think they’re boring and limiting. They slap their brand all over your own personal site, and if I were you, I wouldn’t be a fan of it. I think creating a website using your own CSS and HTML is a fun, expressive way to introduce somebody to coding, so here, I’m going to show you how to do it! Note that it’ll be static, so the pages won’t change between user visits, but that’s perfect for a blog or photo gallery because in most cases, you wouldn’t even want that to change! I’ll be linking websites to specific terms if you’d like to do further research. Honestly, a lot of coding is just knowing how to look up the right thing on the web to find the solution to your problem.

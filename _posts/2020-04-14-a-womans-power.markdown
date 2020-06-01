@@ -3,6 +3,7 @@ layout: post
 title:  "A Woman's Power"
 date:   2020-04-14 00:23:15 -0500
 categories: "politics"
+comments: true
 ---
 
 I’m told that I’m very open about my thoughts and feelings when I write. I guess that’s true and I guess I don’t know how else I could possibly write. I once posted a comment on <a href="https://www.reddit.com/r/PurplePillDebate/" target="_blank">r/PurplePillDebate</a> and when a man I knew looked through my posts on Reddit, that’s what he said about a <a href="https://www.reddit.com/r/PurplePillDebate/comments/e4htnm/women_are_oversaturating_themselves/f9ermpv?utm_source=share&utm_medium=web2x" target="_blank">specific comment</a>. Here’s what I had written:

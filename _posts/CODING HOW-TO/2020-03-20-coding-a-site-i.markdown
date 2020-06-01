@@ -25,6 +25,6 @@ This is a basic introduction to creating a website using Github pages (which is 
 &lt;/html&gt;
 </code></pre></li>
 <li>Then, after saving your file with the above code, go back to Github Desktop, press "Commit" on the bottom left to add these changes to your local repo, and then press "Push Origin" to upload these changes to the repository hosted by Github on the web.</li>
-<li>Now all you need to do to see your website is to go to https://<i>username</i>.github.io, replacing <i>username</i> with your username! Isn't it cool? I remember being so delighted when I first got it working. Stay tuned for <a href="https://wiks.wiki/self-care/2020/03/25/coding-a-site-ii.html">the next part</a> of <em>Don't know much about coding</em>, where we begin to decorate your new site! xxx</li></ol>
+<li>Now all you need to do to see your website is to go to https://<i>username</i>.github.io, replacing <i>username</i> with your username! Isn't it cool? I remember being so delighted when I first got it working. Stay tuned for <a href="https://wiks.wiki/self-care/2020/03/25/coding-a-site-ii/">the next part</a> of <em>Don't know much about coding</em>, where we begin to decorate your new site! xxx</li></ol>
 
 Let me know of your website's URL if you used this tutorial!

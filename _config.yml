@@ -10,10 +10,10 @@ title:            wiks.wiki
 tagline:          "The personal is <del>political</del> personal."
 description:      "The experience of being a person varies so aggressively— I want to use the internet for one of its more innocent purposes: to learn about one another and to gradually accept and understand the common truths between our lives."
 url:              https://wiks.wiki
-baseurl:          https://wiks.wiki
+baseurl:          
 author:           ""
 name:             "WIKS"
-url:              https://twitter.com/R4D1ANT_W1K5
+twitter_url:              https://twitter.com/R4D1ANT_W1K5
 excerpt_separator: "<!-- more -->"
 
 paginate:         3

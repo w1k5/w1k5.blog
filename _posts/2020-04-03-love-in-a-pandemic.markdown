@@ -3,6 +3,7 @@ layout: post
 title:  "What is love without touch? (A Ramble about Tinder)"
 date:   2020-04-03 23:52:49 -0500
 categories: "sweet-lovin"
+comments: true
 ---
 
 We’re in a pandemic right now. It seems like everybody knows that. I’m in Queens, located in New York City, believe it or not-- that’s for y’all Manhattanites that love to hit me with the, “Queens isn’t New York City”. The city is nearing 1,400 deaths from the virus, with nearly 48,000 cases overall. My parents aren’t really letting me out of the house, and I’m kind of okay with it. I know I wouldn’t be very good with social distancing otherwise.

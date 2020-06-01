@@ -3,6 +3,7 @@ layout: post
 title:  "Movie Recommendations"
 date:   2020-03-22 12:38:15 -0500
 categories: "self-care"
+comments: true
 ---
 
 My friend got dumped recently so I made them a list of movies that they could watch to occupy themselves. I think we all need something to occupy ourselves nowadays, considering the lockdowns, social distancing, and quarantines. Staying home is boring. Here are some movie recommendations from me. They’re mostly old movies, but I like old movies.

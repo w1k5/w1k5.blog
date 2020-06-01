@@ -3,6 +3,7 @@ layout: post
 title:  "Clearing COVID-19 from Campus"
 date:   2020-03-18 00:01:49 -0500
 categories: "sweet-lovin"
+comments: true
 ---
 
 “Do I know you?”

@@ -3,6 +3,7 @@ layout: post
 title:  "A Place to Exist"
 date:   2020-01-06 22:48:15 -0500
 categories: "self-care"
+comments: true
 ---
 
 At Williams, a place that can easily allow an individual to deteriorate in the social isolation of a single dorm room, it is necessary to find a place to work (because it seems like that’s all we do here), that allows a student to have opportunities to gently and momentarily socialize, breaking out of their focused labor. We’re habitual creatures: it’s comfortable this way.

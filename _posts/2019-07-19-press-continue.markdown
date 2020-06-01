@@ -3,6 +3,7 @@ layout: post
 title:  "Press Continue"
 date:   2019-07-19 14:54:33 -0500
 categories: "contact"
+comments: true
 ---
 
 Wordpress.org's initial installation readme.html file describes the process as taking approximately 5-minutes. It had taken me nearly an hour to complete because I was genuinely too nervous to make the commitment of buying a domain name for a month. It wouldn't be too much, but I knew I'd hate myself if I didn't capitalize on it and actually enjoy the purchase I had made.<!-- more -->

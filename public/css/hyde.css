@@ -67,12 +67,12 @@ html {
  * out above content in mobile and later moves to the side with wider viewports.
  */
 
- #directory a{font-family: gentle;
+ #directory a:hover{font-family: gentle;
    color: white;
  margin: auto;
-text-decoration: underline;}
+text-decoration: none;}
 
-#directory a:hover{font-family: gentle;
+#directory a{font-family: gentle;
   color: #bac5dd;
 margin: auto;
 text-decoration: underline;}

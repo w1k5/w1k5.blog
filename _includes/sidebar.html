@@ -6,7 +6,10 @@
           {{ site.title }}
         </a>
       </h1>
+      {% if page.title == "Home" %}
       <p class="lead">{{ site.description }}</p>
+      {% endif %}
+      <p class="lead" id="nomobile">{{ site.description }}</p>
     </div>
 
     <nav class="sidebar-nav">
@@ -24,7 +27,7 @@
           {% endif %}
         {% endif %}
       {% endfor %}
-	  
+
     </nav>
 
     <p style="color: #b599b0;">&copy; {{ site.time | date: '%Y' }}. All rights reserved.</p>

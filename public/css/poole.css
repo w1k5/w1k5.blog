@@ -62,6 +62,10 @@ body {
       -ms-text-size-adjust: 100%;
 }
 
+@media (min-width: 48em) {
+  #nomobile {display: none;}
+}
+
 /* No `:visited` state is required by default (browsers will use `a`) */
 a {
   color: #7a93bd;

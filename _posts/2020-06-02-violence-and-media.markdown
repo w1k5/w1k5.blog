@@ -3,7 +3,7 @@ layout: post
 title:  "On Protests and Violence"
 date:   2020-06-02 11:27:02 -0500
 categories: "politics"
-tags: [race, riot, media, journalism, george floyd, violence, suffering]
+tags: [race, riot, media, journalism, george floyd, violence, suffering, covid-19, coronavirus]
 comments: true
 ---
 Life has been cut short. We are now left with a world completely shaped by the media. Who knows what’s really going on out there if you can’t even step outside to see it? It felt like we used to maintain a certain distance within view of the real world, but now, forbidden from stepping outside, we either choose to completely cut ourselves off or to immerse ourselves in news of the outside world.

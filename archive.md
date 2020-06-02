@@ -1,6 +1,8 @@
 ---
 layout: page
 title: Directory
+permalink: /directory/
+hidden: true
 ---
 
 <h2 id="directory">Browse by Category
@@ -8,22 +10,13 @@ title: Directory
 {% assign pages_list = site.pages %}
 {% for node in pages_list %}
 {% if node.tag == "categories" %}
-{% if node.title != null %}
+{% if node.title != "Archive" %}
 {% if node.layout == "page" %}
-<a id="directory" href="{{ node.url }}">{{ node.title }}<br></a>
+<a id="post-title" href="{{ node.url }}">{{ node.title }}<br></a>
 {% endif %}
 {% endif %}
 {% endif %}
 {% endfor %}
 <br>
-All Posts</h2>
-{% for post in site.posts %}
-<h2 class="post-title">
-	<a href="{{ post.url }}">
-		{{ post.title }}
-	</a>
-</h2>
+<a href="{{ site.url }}/archive/" style="color: #b599b0;">All Posts</a></h2>
 
-<span class="post-date">{{ post.date | date_to_string }}</span>
-{% endfor %}
-<img style="margin: auto;" src="/images/rosedivider.gif">

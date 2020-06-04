@@ -1,6 +1,7 @@
 ---
 layout: post
-title:  "How to be Somebody Else, Someplace Else<br>(A List of My Favorite Video Games)"
+title:  "How to be Somebody Else, Someplace Else"
+subtitle: "(A List of My Favorite Video Games)"
 date:   2020-06-03 11:27:02 -0500
 categories: "self-care"
 tags: [video games]

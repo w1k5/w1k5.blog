@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "What is love without touch? (A Ramble about Tinder)"
+title:  "What is love without touch?<br>(A Ramble about Tinder)"
 date:   2020-04-03 23:52:49 -0500
 categories: "sweet-lovin"
 comments: true

@@ -1,0 +1,21 @@
+---
+layout: post
+title:  "As I Always Say..."
+date:   2020-06-09 14:54:33 -0500
+categories: "contact"
+comments: true
+---
+
+I’m pretty unreligious. But without a religion, one is left susceptible to the temptations of nihilism, which can easily send somebody down a rabbit hole based in Bad Faith. And that sort of thought allows one’s heart to succumb to hate. That isn’t fun. So, I’ve started cultivating my own little list of values. My Catholic friend called them my Commandments. I think that name is too authoritative, though. It’s never that serious. So, I call them mottos, just something to repeat and believe as the days pass by. This list will be worked on and cultivated over the progression of this website, hopefully. Here’s what I have so far. <!-- more -->
+
+<ul style="font-family: gentle;"><li>“Life is too short to be boring.”</li>
+<li>“People only do what they want.”</li>
+<li>“People make sacrifices for the things they want.”</li>
+<li>“Tread carefully and carry a big stick.”</li>
+<li>“Even the dumbest person in the room can have something smart to say.”</li>
+<li>“It’s lonely on top.”</li>
+<li>“People are people too.”</li>
+<li>“It’s only life.”</li>
+<li>"The nature of life is suffering."</li>
+<li>"We're only animals, aren't we?"</li>
+<li>"Did you <a href="/self-care/2019/07/10/on-desire/">cave</a>?"</li></ul>

@@ -25,3 +25,11 @@
   <!-- RSS -->
 <link rel="alternate" type="application/rss+xml" title="RSS" href="/atom.xml">
 </head>
+
+  <!-- METADATA -->
+{% if post.excerpt %}
+<meta name="description" content="{{ post.excerpt | escape }}">
+{% endif %}
+{%if post.tags %}
+<meta name="keywords" content="{{ post.tags | join: ', ' | escape }}"/>
+{%endif %}

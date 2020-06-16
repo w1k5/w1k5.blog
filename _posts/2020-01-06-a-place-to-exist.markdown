@@ -2,7 +2,7 @@
 layout: post
 title:  "A Place to Exist"
 date:   2020-01-06 22:48:15 -0500
-categories: "self-care"
+categories: "contact"
 comments: true
 ---
 

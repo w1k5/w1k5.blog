@@ -79,6 +79,7 @@ a strong {
   color: inherit;
 }
 /* `:focus` is linked to `:hover` for basic accessibility */
+
 a:hover,
 a:focus {
   text-decoration: underline;
@@ -100,6 +101,7 @@ h2 {
   margin-top: 1rem;
   -size: 1.5rem;
 }
+
 h3 {
   margin-top: 1.5rem;
   -size: 1.25rem;
@@ -354,14 +356,13 @@ tbody tr:nth-child(odd) th {
 }
 .page-title,
 .post-title {
-  margin-top: 0;
+  margin: 0;
   text-decoration: none;
 }
 
 /* Meta data line below post title */
 .post-date {
   display: block;
-  margin-top: -.5rem;
   margin-bottom: 1rem;
   color: #b599b0;
   font-weight: bolder;

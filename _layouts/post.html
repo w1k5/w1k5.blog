@@ -5,7 +5,7 @@ layout: default
 <div class="post">
   <h1 class="post-title">{{ page.title }}
   {% if page.subtitle != null %}
-  <br>{{ page.subtitle }}
+  <h2 id="none" style="text-decoration: none; padding: 0; margin: 0;">{{ page.subtitle }}</h2>
   {% endif %}</h1>
   <span class="post-date">{{ page.date | date_to_string }}</span>
   {{ content }}

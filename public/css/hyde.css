@@ -78,6 +78,17 @@ text-decoration: none;}
 margin: auto;
 text-decoration: underline;}
 
+.sticky-announcement {
+  width: 100%;
+position: fixed;
+background-color: white;
+color: black;
+z-index: 1;
+text-align: center;
+font-family: gentle;
+font-size: larger;
+}
+
 .sidebar {
   text-align: center;
   padding: 1rem 2rem 0.5rem;
@@ -110,6 +121,14 @@ text-decoration: underline;}
 }
 
 /* Sidebar links */
+.pink a {
+  color: #b599b0;
+}
+
+.pink a:hover {
+  color: white;
+}
+
 .sidebar a {
   color: #fff;
 }
@@ -118,7 +137,7 @@ text-decoration: underline;}
 .sidebar-about h1 {
   color: #fff;
   font-size: 3rem;
-  margin-top: 0;
+  margin-top: 0.5em;
 }
 
 /* Sidebar nav */

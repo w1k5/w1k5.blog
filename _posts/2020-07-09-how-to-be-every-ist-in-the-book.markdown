@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "How to be Every -ist in the Book"
+title:  "How to be Every \"-ist\" in the Book"
 subtitle: "A Retrospective on the Slutty Bitch Saga"
 date:   2020-07-09 07:00:02 -0500
 categories: "politics"

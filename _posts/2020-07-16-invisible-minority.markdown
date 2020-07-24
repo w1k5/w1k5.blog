@@ -1,7 +1,7 @@
 ---
 layout: post
 subtitle: "A Journal Post on Being An Invisible Minority"
-title: '"White People Have No Culture"'
+title: "&quot;White People Have No Culture&quot;"
 date:   2020-07-15 11:27:02 -0500
 categories: "politics"
 tags: [poland, marcuse, polska, critical theory]

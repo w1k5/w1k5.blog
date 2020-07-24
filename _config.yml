@@ -7,7 +7,7 @@ permalink:        pretty
 
 # Setup
 title:            wiks.wiki
-tagline:          "The personal is <del>political</del> personal."
+tagline:          "The personal is personal."
 description:      "The experience of being a person varies so aggressively— I want to use the internet for one of its more innocent purposes: to learn about one another and to gradually accept and understand the common truths between our lives."
 url:              https://wiks.wiki
 baseurl:          
@@ -22,7 +22,9 @@ version:          2.1.0
 repo:           https://github.com/poole/hyde
 
 # Plugins/Gems
-plugins:          [jekyll-paginate]
+plugins:          [jekyll-paginate, jekyll-seo-tag, jekyll-last-modified-at, jekyll-sitemap]
+last-modified-at:
+    date-format: '%d-%b-%y'
 
 # Disqus Comments
 disqus:

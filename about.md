@@ -9,4 +9,4 @@ The internet has indulged every single one of our hedonist whims, and I think I 
 
 Thanks for reading.
 
-<img style="margin: auto;" src="/images/i-am.gif">
+<img alt="I AM LOGGED IN, THEREFORE I AM." style="margin: auto;" src="/images/i-am.gif">

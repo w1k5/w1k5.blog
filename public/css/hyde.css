@@ -40,6 +40,12 @@ html {
   }
 }
 
+summary {
+  outline: none;
+  padding: auto;
+  margin: auto;
+}
+
 /* Fonts */
 @font-face {
 	font-family: ovo;

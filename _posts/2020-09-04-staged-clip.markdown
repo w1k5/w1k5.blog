@@ -6,7 +6,7 @@ categories: "contact"
 tags: [poverty, money, nyc, life, stories, clips]
 comments: true
 ---
-Today, I was walking with my female friend in the Lower East Side, and this very thin, very tan lady bumped into her very roughly. It was a beautiful, sunny day, and we had decided to go for a walk. The lady dropped the food she was carrying and then tried to pressure my friend into giving her money for more food because she was homeless and didn’t have any money to go buy another meal. It looked like some sort of sandwich with naan bread on the grond. I didn’t really like that this woman was pressuring us to give her money. She had a man with her, but I don’t really remember what he looked like.<!-- more -->
+Today, I was walking with my female friend in the Lower East Side, and this very thin, very tan lady bumped into her very roughly. It was a beautiful, sunny day, and we had decided to go for a walk. The lady dropped the food she was carrying and then tried to pressure my friend into giving her money for more food because she was homeless and didn’t have any money to go buy another meal. It looked like some sort of sandwich with naan bread on the ground. I didn’t really like that this woman was pressuring us to give her money. She had a man with her, but I don’t really remember what he looked like.<!-- more -->
 
 About four paces before the woman had aggressively walked into my friend, some ginger man in his late twenties or early thirties had shouted at me that I’m beautiful and I, for my own amusement, shouted back, “Thank you, I get that a lot, believe it or not!”
 

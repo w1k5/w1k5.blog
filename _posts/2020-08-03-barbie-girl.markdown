@@ -1,7 +1,7 @@
 ---
 layout: post
 subtitle: "Models, Morals, and Role Models"
-title: "I <3 Barbie"
+title: "I 	&lt;3 Barbie"
 date:   2020-08-02 11:27:02 -0500
 categories: "self-care"
 tags: [barbie, fashion, children, femininity]

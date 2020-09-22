@@ -8,14 +8,12 @@ permalink:        pretty
 # Setup
 title:            wiks.wiki
 tagline:          "The personal is personal."
-description:      "The experience of being a person varies so aggressively— I want to use the internet for one of its more innocent purposes: to learn about one another and to gradually accept and understand the common truths between our lives."
+description:      "The public, practical, personal, and political journal of your favorite high IQ bitty."
 url:              https://wiks.wiki
-baseurl:          
+baseurl:
 author:           ""
 name:             "WIKS"
 excerpt_separator: "<!-- more -->"
-twitter :		  R4D14NT_W1K5
-
 paginate:         3
 
 # Custom vars

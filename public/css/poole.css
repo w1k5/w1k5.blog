@@ -242,7 +242,6 @@ img {
   display: block;
   max-width: 100%;
   margin: 0 0 1rem;
-  border-radius: 5px;
 }
 
 /* Tables */
@@ -411,8 +410,8 @@ tbody tr:nth-child(odd) th {
 .pagination-item {
   display: block;
   padding: 1rem;
-  border: 1px solid #eee;
   font-family: gentle;
+  border-radius: 20px;
 }
 .pagination-item:first-child {
   margin-bottom: -1px;
@@ -427,7 +426,7 @@ a.pagination-item:hover {
 
 @media (min-width: 30em) {
   .pagination {
-    margin: 3rem 0;
+    margin: 0.5rem 0;
   }
   .pagination-item {
     float: left;

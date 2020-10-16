@@ -404,18 +404,19 @@ tbody tr:nth-child(odd) th {
   overflow: hidden; /* clearfix */
   color: #ccc;
   text-align: center;
-  margin: 2rem 0;
+  margin: 1rem 0;
 }
 
 /* Pagination items can be `span`s or `a`s */
 .pagination-item {
   display: block;
   padding: 1rem;
+  margin-bottom: 1rem;
   font-family: gentle;
   border-radius: 20px;
+  border: 0.25em dotted white;
 }
 .pagination-item:first-child {
-  margin-bottom: 1rem;
 }
 
 /* Only provide a hover state for linked pagination items */
@@ -428,9 +429,11 @@ a.pagination-item:hover {
 @media (min-width: 30em) {
   .pagination {
     margin: 0.5rem 0;
+    display: flex;
+    justify-content: space-between;
+    flex-flow: wrap;
   }
   .pagination-item {
-    float: left;
-    width: 50%;
+    width: 48%;
   }
 }

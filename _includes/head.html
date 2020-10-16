@@ -29,20 +29,19 @@
 <link rel="alternate" type="application/rss+xml" title="RSS" href="/atom.xml">
 <link rel="canonical" href="{{ page.url | prepend: site.url }}">
 
-
-
 <!-- SOCIAL MEDIA NONSENSE -->
 <meta property="og:locale" content="en_US"/>
 <meta property="og:type" content="article"/>
 <meta property="og:title" content="{%if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}"/>
 <meta property="og:url" content="{{ site.url }}{{ page.url }}"/>
-<meta property="og:image" content="{{ site.url }}/images/pfp.png" />
+<meta property="og:image" content="{%if page.image %}{{ site.url }}{{ page.image }}{% else %}{{ site.url }}/images/pfp.png{% endif %}" />
 <meta property="og:site_name" content="{{ site.title }}"/>
 <meta property="article:published_time" content="{{ page.date }}" />
 <meta name="twitter:card" content="summary" />
-<meta name="twitter:image" content="{{ site.url }}/images/pfp.png"/>
+<meta name="twitter:image" content="{%if page.image %}{{ site.url }}{{ page.image }}{% else %}{{ site.url }}/images/pfp.png{% endif %}"/>
 <meta name="twitter:title" content="{%if page.title %}{{ page.title }}{% else %}{{ post.title }}{% else %}{{ site.title }}{% endif %}" />
 <meta name="twitter:text:title" content="{%if page.title %}{{ page.title }}{% else %}{{ post.title }}{% else %}{{ site.title }}{% endif %}" />
 <meta name="twitter:description" content="{% if page.excerpt %}{{ page.excerpt | escape }}{% else %}{{ site.description | escape }}{% endif %}" />
 <meta name="twitter:site" content="@{{ site.twitter }}" />
+<webfeeds:cover image="{%if page.image %}{{ site.url }}{{ page.image }}{% else %}{{ site.url }}/images/pfp.png{% endif %}"/>
 </head>

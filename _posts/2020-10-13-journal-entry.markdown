@@ -5,6 +5,7 @@ date: 2020-10-13 14:27:02 -0500
 subtitle: "I'm pretty sad right now, but I'll bounce back eventually. I always do... Don't really have a choice, now do we?"
 categories: "contact"
 tags: [journal, entry, diary, school, college]
+image: /images/thumbnails/couldbeworse.png
 comments: true
 ---
 <!-- more -->I miss the real and tangible. I feel like I am drowning in nothingness. Essentially all I do nowadays is homework and swipe on dating apps hoping I’ll run into somebody who resonates with and brings out the best in me. It’s not like you can meet anybody anywhere anymore, now can you? I love <a href="https://knowyourmeme.com/memes/gamer-joker-gamers-rise-up-we-live-in-a-society" target="_blank">the walls driven between people</a> by fear. <a href="https://youtu.be/nvesu6oK4rU" target="_blank">It so practical and healthy</a>. The friends I have in the city live far away and are preoccupied with their own lives. We hang out when it’s convenient: but unfortunately, it seldom is.

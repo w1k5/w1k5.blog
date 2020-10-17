@@ -428,12 +428,13 @@ a.pagination-item:hover {
 
 @media (min-width: 30em) {
   .pagination {
-    margin: 0.5rem 0;
+    margin: 0;
     display: flex;
     justify-content: space-between;
     flex-flow: wrap;
   }
   .pagination-item {
     width: 48%;
+    margin-bottom: 0.5rem;
   }
 }

@@ -41,7 +41,6 @@
 <meta name="twitter:image" content="{%if page.image %}{{ site.url }}{{ page.image }}{% else %}{{ site.url }}/images/pfp.png{% endif %}"/>
 <meta name="twitter:title" content="{%if page.title %}{{ page.title }}{% else %}{{ post.title }}{% else %}{{ site.title }}{% endif %}" />
 <meta name="twitter:text:title" content="{%if page.title %}{{ page.title }}{% else %}{{ post.title }}{% else %}{{ site.title }}{% endif %}" />
-<meta name="twitter:description" content="{% if page.excerpt %}{{ page.excerpt | escape }}{% else %}{{ site.description | escape }}{% endif %}" />
 <meta name="twitter:site" content="@{{ site.twitter }}" />
 <webfeeds:cover image="{%if page.image %}{{ site.url }}{{ page.image }}{% else %}{{ site.url }}/images/pfp.png{% endif %}"/>
 </head>

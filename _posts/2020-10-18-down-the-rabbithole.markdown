@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Down the Rabbit Hole"
-date: 2020-10-13 14:27:02 -0500
+date: 2020-10-19 00:00:02 -0500
 subtitle: "&quot;Bouncing and bubbling between things I should and shouldn’t read, occasionally falling off the deep end and then crawling back out...&quot;"
 categories: "politics"
 tags: [altright, politics, Internet, school, college, cancel]

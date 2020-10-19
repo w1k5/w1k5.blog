@@ -258,7 +258,7 @@ th {
 }
 tbody tr:nth-child(odd) td,
 tbody tr:nth-child(odd) th {
-  background-color: #f9f9f9;
+  background-color: black;
 }
 
 
@@ -414,7 +414,7 @@ tbody tr:nth-child(odd) th {
   margin-bottom: 1rem;
   font-family: gentle;
   border-radius: 20px;
-  border: 0.25em dotted white;
+  border: 2px dotted white;
 }
 .pagination-item:first-child {
 }

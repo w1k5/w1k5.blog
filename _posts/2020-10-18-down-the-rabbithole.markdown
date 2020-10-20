@@ -22,4 +22,4 @@ I started spending a lot of time in the depths of the Internet because political
 
 <a href="https://www.youtube.com/watch?v=pHte24GGHD4" target="_blank">And so I fell down the rabbit hole</a>, bouncing and bubbling between things I should and shouldn’t read, occasionally falling off the deep end and then crawling back out, always trusting my skepticism to lead me out of the dark safely. I read lots of books and got into libertarianism (not Libertarianism— the actual party is kind of a mess if you ask me; it’s like the Anti-Party Party), and while I know my ideas are still shifting and changing, and I might look back on this writing with shame someday, at least it’s written well and I’m always doing as I please. I hope you are too.
 
-<img src="/images/downtherabbithole.png" style="margin: auto;">
+<img src="/images/downtherabbithole.png" style="margin: auto; max-width: 50%;">

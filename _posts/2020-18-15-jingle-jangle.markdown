@@ -15,4 +15,4 @@ And it’s not like you have to tell the world about your sadness: you honestly 
 
 I’m always down to listen and nod and bounce around ideas with you... I like you, and I like listening to you, and I care about you.. I want you to be happy. While time heals all wounds, I can’t imagine you wanting it to heal in the wrong way. My mom once cut her finger to the bone when she was my age; she had made plans to go on a field trip, and really wanted to go, so instead of going to the hospital, so she wrapped it herself in gauze and now it’s permanently bent at one of the joints. Not too pretty.
 
-End note: this is a shorter piece, but like Einstein once said, if you can't explain it simply, you don't understand it well enough.
+End note-- this is a shorter piece, but like Einstein once said, if you can't explain it simply, you don't understand it well enough.

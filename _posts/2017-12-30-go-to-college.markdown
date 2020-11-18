@@ -7,7 +7,7 @@ categories: "contact"
 tags: [SAT, exams, poland, school, college, cancel, nationalism, tradition]
 comments: true
 ---
-I spoke with a surprising amount of clarity. We were arguing over something political, or maybe something about a family friend of ours? I can’t remember. But I do clearly recall my mother’s eyes laying on me, a small smile of amusement on her familiar face.
+I spoke with a surprising amount of clarity. We were arguing over something political, or maybe something about a family friend of ours? I can’t remember. But I do clearly recall my mother’s eyes laying on me, a small smile of amusement on her familiar face.<!-- more -->
 
 Good parents are benevolent gods to their children. I most definitely believed this about my own. My parents gave me a home. I believed in them; that they wanted what was best for me. Retrospectively, I realize that as a child, I wasn’t able to imagine my parents being wrong. I took their immigrant, unassimilated Polish perspectives and ran with them as if they were my own.
 

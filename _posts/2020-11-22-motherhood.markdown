@@ -2,7 +2,7 @@
 layout: post
 title: "To Be or Not To Be A Mother"
 date: 2020-11-22 14:27:02 -0500
-subtitle: "On having somebody to hold onto, or something... I think a somebody is better than a something"
+subtitle: "It's important to hold onto somebody, or something... I think a somebody is better than a something"
 tags: [love, motherhood, affection, moms, pregnancy, suffering, purpose]
 comments: true
 categories: "sweet-lovin"

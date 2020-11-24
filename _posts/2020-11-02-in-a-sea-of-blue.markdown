@@ -3,7 +3,7 @@ layout: post
 title: "A Blip in a Sea of Blue"
 date: 2020-11-02 00:00:02 -0500
 categories: "politics"
-subtitle: "I was born and raised in Queens. I love Queens! I even have a patch with the name on the sleeve of my denim jacket."
+subtitle: "I was born and raised in Queens. I even have a patch with the name on the sleeve of my denim jacket."
 tags: [altright, politics, Internet, election, 20202, criticaltheory, cancel]
 comments: true
 ---

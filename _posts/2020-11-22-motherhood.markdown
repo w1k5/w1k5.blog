@@ -17,4 +17,4 @@ After deep consideration, I think I’d like to age gracefully, instead of surgi
 
 She tells me I should hold off on having kids. I don’t think that’s a very good idea. I don’t want to. The more time I invest in a career, the more tightly I’d hold onto it. I’d rather hold on tightly to my children. They’re the future, aren’t they? People worry about not leaving their mark on the world. What other more potent mark can you leave than raising a child truly, fundamentally as your own, stretch marks 'nd all?
 
-<img src="/images/mom.png" style="margin: auto; max-width: 350px;">
+<img src="/images/mom.png" style="margin: auto; max-width: 300px;">

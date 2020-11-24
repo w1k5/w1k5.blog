@@ -17,4 +17,4 @@ I don’t really feel anxiety or fear very much. I dream a lot, though. Last nig
 
 Writing gives me a feeling of control. It puts my feelings into words I can look at and understand. Right now, I write because it’s like stirring the pot in my heart, hopefully trying to revoke an emotion I’ve felt in the past; something concrete and something different from my everyday life, at least. I’m a visual creature, and I need my candy for the eyes. I become increasingly apathetic as time goes on. I’m left holding onto whatever I’ve got. And those are words. I’d read, but I mostly just want to live my own life, outside, with other people, desperately. I'm so tired of the screens... And here, at this moment, I'd just like to remind you to keep putting one foot in front of the other, no matter how tired you may be. It's what I tell myself, at least.
 
-<img src="/images/nonsense/typingcourage.gif" style="margin: auto; max-width: 350px; border: 0.24em dotted white;">
+<img src="/images/nonsense/typingcourage.gif" style="margin: auto; max-width: 300px; border: 0.24em dotted white;">

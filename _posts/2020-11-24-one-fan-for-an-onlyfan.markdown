@@ -5,7 +5,7 @@ date: 2020-11-25 14:27:02 -0500
 title: "The Deterioration of Man"
 tags: [porn, playboy, emotion, feeling, sex, feminism, onlyfans, incel]
 comments: true
-categories: "sweet-love"
+categories: "sweet-lovin"
 ---
 While men may be the head of the family, in most situations, women are the neck. Men are rather simple creatures, motivated by a nut. If the nut’s good enough, they’ll stick around and hover. Through this, a woman can find herself in a very <a href="{{ site.url }}/politics/2020/04/14/a-womans-power/" target="_blank">powerful position</a>, getting to nag and help the man improve himself. Maybe she isn’t always actually helping, but <a href="{{ site.url }}/contact/2020/06/09/mottos/" target="_blank">people only do what they want</a>. But now technology has enabled us alternatives: when you give men the opportunity to buy that nut, giving them the rush similar to the one they get from a real woman, it can lead to poor results.<!-- more -->
 

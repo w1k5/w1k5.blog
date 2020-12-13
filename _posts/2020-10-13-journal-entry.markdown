@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Journal Entry"
+title: "Journal Entry: Midterms"
 date: 2020-10-13 14:27:02 -0500
 subtitle: "I'm pretty sad right now, but I'll bounce back eventually. I always do... Don't really have a choice, now do we?"
 categories: "contact"

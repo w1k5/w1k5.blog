@@ -1,0 +1,10 @@
+---
+layout: post
+title: "The Story of Dee"
+date: 2020-01-29 14:27:02 -0500
+subtitle: "My First Piece of Dynamic Code"
+tags: [coding, code, cs, computer science, video games, hobby]
+comments: true
+categories: "contact"
+---
+<center><iframe src="https://www.lexaloffle.com/bbs/widget.php?pid=thestoryofdee" allowfullscreen width="621" height="513" style="border:none; overflow:hidden"></iframe></center>

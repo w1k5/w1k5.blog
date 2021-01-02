@@ -1,0 +1,16 @@
+---
+layout: post
+title: "Journal Entry: Silence of a Lamb"
+date: 2021-01-01 14:27:02 -0500
+subtitle: "Bye-bye, black sheep! (Maybe.)"
+tags: [diary, journal, emotion, feeling, social media, depressed, depression, covid, coronavirus, quarantine, news, politics, movie, movies, film, films]
+comments: true
+categories: "contact"
+---
+Y’know, <a href="https://en.wikipedia.org/wiki/The_Silence_of_the_Lambs_(film)" target="_blank">Silence of the Lambs</a> is a weird movie. It’s cool, but weird. According to <a href="https://bipolarphysician.com/mental-health-and-the-silence-of-the-lambs/#:~:text=The%20lesson%20learned,us%20to%20speak%20our%20truths." target="_blank">one blog</a>, the moral of the movie is that "it so courageous to peer into our psyches and dare to share our authentic selves. Our truths don’t kill us, our secrets do.” I don’t think I have many secrets. I’m technically an open book. Or, at least, an open website. And it has made me vulnerable. That’s scary. I’m not sure if I really like this.<!-- more -->
+
+It’s the lack of knowledge as to who, how, and for what reason people choose to look at my site. I thought about revamping the way it looks at one point or another recently, but I couldn’t get myself to actually go about it. It was almost like I was compensating for my lack of things to say on a new post. But even then, I still couldn’t get it done. I just didn’t care enough, really. I don’t have much to say on the subject of politics or government anymore. It’s lots of authoritarian, shill nonsense on both sides, if you ask me. The few stories that stand out to me are just the odd one off occasions involving individuals’ self-destructive behavior. It’s probably because these stories sort of resonate with me: from <a href="https://abc7ny.com/staten-island-bar-autonomous-zone-shuts-down-restaurant/8425537/" target="_blank">a bar owner choosing to keep his business open</a>, to <a href="https://www.reuters.com/article/us-new-york-shooting-cathedral-idUSKBN28N0TO" target="_blank">a man who chose to commit suicide by police</a>, to the <a href="https://www.cnn.com/2020/12/30/us/nashville-christmas-bombing-wednesday/index.html" target="_blank">recent Nashville bombing</a>. These choices all required initiative. I have none. Instead, I have a sort of macabre fascination that lead me to wonder what factors led to these events occurring.
+
+The events I listed aren’t really directly systematic things. Maybe in some disconnected, far-off way, they might be, but end all be all, these were all driven by individuals: one specific person who got up and decided to do something. The most I’d do is make this website implode, I think. I could just delete all the information on it. That’d be alright. I talk too much anyway. The archived version of it would still exist somewhere on the Internet, but accessing that would require one extra step, which I can’t imagine anybody ever wanting to do. Who cares, after all?
+
+I recently met a man who said his goal in life is to not leave a mark on the world. Maybe he's right. Maybe it’s better to just keep quiet. Be an NPC, or something. I've had too many people bother me because of this website. I guess creating my own platform wasn't enough. Is this why people keep their diaries private? Probably.

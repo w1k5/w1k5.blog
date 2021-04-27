@@ -21,7 +21,7 @@ version:          2.1.0
 repo:           https://github.com/poole/hyde
 
 # Plugins/Gems
-plugins:          [jekyll-paginate, jekyll-seo-tag, jekyll-last-modified-at, jekyll-sitemap, jekyll-feed]
+plugins:          [jekyll-paginate, jekyll-seo-tag, jekyll-last-modified-at, jekyll-sitemap, jekyll-feed, jekyll-algolia]
 last-modified-at:
     date-format: '%d-%b-%y'
 
@@ -30,3 +30,9 @@ disqus:
     # Leave shortname blank to disable comments site-wide.
     # Disable comments for any post by adding `comments: false` to that post's YAML Front Matter.
     shortname: wiks-wiki
+
+# Algolia
+algolia:
+  application_id: 3LIPBJALCC
+  index_name:     dev_wikswiki # You can replace that with whatever name you want
+  search_only_api_key: 589ecf509adf643496923be4a01fe8c7

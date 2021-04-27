@@ -1,9 +1,11 @@
 ---
 layout: page
-title: Directory
+title: Search
 permalink: /directory/
 hidden: true
 ---
+
+{% include algolia.html %}
 
 <h2 id="directory">Browse by Category
 <br>
@@ -19,4 +21,3 @@ hidden: true
 {% endfor %}
 <br>
 <a href="{{ site.url }}/archive/" style="color: #b599b0;">All Posts</a></h2>
-

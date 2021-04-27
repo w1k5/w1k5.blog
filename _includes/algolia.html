@@ -43,7 +43,7 @@ const hitTemplate = function(hit) {
 search.addWidget(
   instantsearch.widgets.searchBox({
     container: '#search-searchbar',
-    placeholder: 'Search into posts...',
+    placeholder: 'Type in key word or phrase...',
     poweredBy: true // This is required if you're on the free Community plan
   })
 );
@@ -67,6 +67,16 @@ search.start();
 }
 .post-item {
   margin-bottom: 30px;
+}
+.post-breadcrumb .ais-Highlight {
+  font-weight: bold;
+  font-style: normal;
+}
+.post-snippet .ais-Highlight {
+  background-color: white;
+  color: black;
+  font-style: normal;
+  font-weight: bolder;
 }
 .post-snippet img {
   display: none;

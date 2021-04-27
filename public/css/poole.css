@@ -141,7 +141,7 @@ dd {
 hr {
   position: relative;
   color: #bac5dd;
-  margin: 0;
+  margin: 0 0 2em 0;
   border: 0;
   border-top: 0.5vh dotted #bac5dd;
 }

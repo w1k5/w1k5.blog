@@ -7,10 +7,10 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1">
   <script id="mcjs">!function(c,h,i,m,p){m=c.createElement(h),p=c.getElementsByTagName(h)[0],m.async=1,m.src=i,p.parentNode.insertBefore(m,p)}(document,"script","https://chimpstatic.com/mcjs-connected/js/users/b6e31ba0254a769226acaa2b3/047936a7dd890bff74118c1f1.js");</script>
   <title>
-    {% if page.title == "Home" %}
-      WIKS.WIKI
+    {% if page.title == "WIKS.WIKI" %}
+      {{ page.title }}
     {% else %}
-		{{ page.title | replace: "[hidden]", "" }} | WIKS.WIKI
+		  {{ page.title | replace: "[hidden]", "" }} | WIKS.WIKI
     {% endif %}
   </title>
 

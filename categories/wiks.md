@@ -1,6 +1,6 @@
 ---
 layout: page
-title:  WHO IS WIKS
+title:  WHO IS WIKS [hidden]
 tags: [categories, algolia-ignore]
 permalink: /who-is-knockout-wiks/
 hidden: true

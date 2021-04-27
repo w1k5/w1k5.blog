@@ -1,6 +1,6 @@
 ---
 layout: page
-title:  Sunshine for the Soul
+title:  Sunshine for the Soul [hidden]
 tags: [categories, algolia-ignore]
 permalink: /are-you-learning-yet/
 hidden: true

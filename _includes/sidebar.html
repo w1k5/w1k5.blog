@@ -25,13 +25,13 @@
 
       {% assign pages_list = site.pages %}
       {% for node in pages_list %}
-	   {% if node.tag != "categories" %}
+	    {% unless node.tags contains "categories" %}
         {% if node.title != null %}
           {% if node.layout == "page" %}
             <a class="sidebar-nav-item{% if page.url == node.url %} active{% endif %}" href="{{ node.url }}">{{ node.title }}</a>
           {% endif %}
-		 {% endif %}
-        {% endif %}
+		    {% endif %}
+        {% endunless %}
       {% endfor %}
 
 	  {% if page.title == "About" %}

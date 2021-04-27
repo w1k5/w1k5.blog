@@ -10,7 +10,7 @@
     {% if page.title == "Home" %}
       WIKS.WIKI
     {% else %}
-		{{ page.title }} | WIKS.WIKI
+		{{ page.title | replace: "[hidden]", "" }} | WIKS.WIKI
     {% endif %}
   </title>
 

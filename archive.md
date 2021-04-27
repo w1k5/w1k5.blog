@@ -31,10 +31,10 @@ hidden: true
 <br>
 {% assign pages_list = site.pages %}
 {% for node in pages_list %}
-{% if node.tag == "categories" %}
-{% if node.title != "Archive" %}
+{% if node.tags contains "categories" %}
+{% if node.title != "Archive [hidden]" %}
 {% if node.layout == "page" %}
-<a id="post-title" href="{{ node.url }}">{{ node.title }}<br></a>
+<a id="post-title" href="{{ node.url }}">{{ node.title | replace: "[hidden]", "" }}<br></a>
 {% endif %}
 {% endif %}
 {% endif %}

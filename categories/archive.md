@@ -1,6 +1,6 @@
 ---
 layout: page
-title:  Archive
+title:  Archive [hidden]
 tags: [categories, algolia-ignore]
 permalink: /archive/
 hidden: true

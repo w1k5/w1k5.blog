@@ -31,8 +31,8 @@ const hitTemplate = function(hit) {
 
   return `
     <div class="post-item">
-      <span class="post-meta">${date}</span>
-      <h2><a class="post-link" href="${url}">${title}</a></h2>
+      <h2 class="post-title"><a href="${url}">${title}</a></h2>
+      <span class="post-date">${date}</span>
       {{#breadcrumbs}}<a href="${url}" class="post-breadcrumbs">${breadcrumbs}</a>{{/breadcrumbs}}
       <div class="post-snippet">${content}</div>
     </div>
@@ -72,7 +72,7 @@ search.start();
   font-weight: bold;
   font-style: normal;
 }
-.post-snippet .ais-Highlight {
+.ais-Highlight {
   background-color: white;
   color: black;
   font-style: normal;

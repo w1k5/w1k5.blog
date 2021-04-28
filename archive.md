@@ -3,6 +3,7 @@ layout: page
 title: Search
 permalink: /directory/
 hidden: true
+tags: [categories, algolia-hidden]
 ---
 
 <div id="search-searchbar"></div>

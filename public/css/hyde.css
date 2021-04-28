@@ -97,13 +97,14 @@ font-size: larger;
 
 .sidebar {
   text-align: center;
-  padding: 1rem 2rem 0.5rem;
+  padding: 1.5rem 2rem 0.5rem;
   color: white;
   background: url(assets/starsbackground.gif);
 	background-repeat: repeat;
 	backgorund-position: right bottom;
 	background-size: 100%;
 }
+
 @media (min-width: 48em) {
   .sidebar {
     position: fixed;
@@ -112,6 +113,9 @@ font-size: larger;
     bottom: 0;
     width: 24rem;
     text-align: left;
+  }
+  .whatsnew {
+    margin: 0.5em 0 0 0;
   }
 }
 

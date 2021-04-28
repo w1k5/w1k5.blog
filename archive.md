@@ -32,13 +32,13 @@ tags: [categories, algolia-hidden]
 <br>
 {% assign pages_list = site.pages %}
 {% for node in pages_list %}
-{% if node.tags contains "categories" %}
-{% if node.title != "Archive [hidden]" %}
-{% if node.layout == "page" %}
+  {% if node.tags contains "algolia-ignore" %}
+    {% if node.title != "Search" and node.title != "Archive"%}
+      {% if node.layout == "page" %}
 <a id="post-title" href="{{ node.url }}">{{ node.title | replace: "[hidden]", "" }}<br></a>
-{% endif %}
-{% endif %}
-{% endif %}
+      {% endif %}
+    {% endif %}
+  {% endif %}
 {% endfor %}
 <br>
 <a href="{{ site.url }}/archive/" style="color: #b599b0;">All Posts</a></h2>

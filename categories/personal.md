@@ -1,6 +1,6 @@
 ---
 layout: page
-title:  Sweet Love [hidden]
+title:  Sweet Love
 tags: [categories, algolia-ignore]
 permalink: /matters-of-the-heart/
 hidden: true

@@ -1,6 +1,6 @@
 ---
 layout: page
-title:  The Political [hidden]
+title:  The Political
 tags: [categories, algolia-ignore]
 permalink: /personal-is-political/
 hidden: true

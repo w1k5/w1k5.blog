@@ -40,8 +40,8 @@
 <meta property="article:published_time" content="{{ page.date }}" />
 <meta name="twitter:card" content="summary" />
 <meta name="twitter:image" content="{%if page.image %}{{ site.url }}{{ page.image }}{% else %}{{ site.url }}/images/pfp.png{% endif %}"/>
-<meta name="twitter:title" content="{%if page.title %}{{ page.title }}{% else %}{{ post.title }}{% else %}{{ site.title }}{% endif %}" />
-<meta name="twitter:text:title" content="{%if page.title %}{{ page.title }}{% else %}{{ post.title }}{% else %}{{ site.title }}{% endif %}" />
+<meta name="twitter:title" content="{%if page.title %}{{ page.title }} | WIKS.WIKI{% else %}{{ post.title }}{% else %}{{ site.title }}{% endif %}" />
+<meta name="twitter:text:title" content="{%if page.title %}{{ page.title }} | WIKS.WIKI{% else %}{{ post.title }}{% else %}{{ site.title }}{% endif %}" />
 <meta name="twitter:site" content="@{{ site.twitter }}" />
 <webfeeds:cover image="{%if page.image %}{{ site.url }}{{ page.image }}{% else %}{{ site.url }}/images/pfp.png{% endif %}"/>
 </head>

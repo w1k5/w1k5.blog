@@ -4,6 +4,7 @@ title:  "My Favorite TV Shows"
 date:   2021-04-29 12:38:15 -0500
 categories: "self-care"
 tags: [television, media, nerd, geek, tv, series]
+subtitle: "Just in case you were wondering..."
 comments: true
 ---
 

@@ -18,7 +18,7 @@ paginate:         5
 
 # Custom vars
 version:          2.1.0
-repo:           https://github.com/poole/hyde
+repo:           https://github.com/w1k5/w1k5.github.io
 
 # Plugins/Gems
 plugins:          [jekyll-paginate, jekyll-seo-tag, jekyll-last-modified-at, jekyll-sitemap, jekyll-feed, jekyll-algolia]

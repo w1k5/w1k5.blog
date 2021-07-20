@@ -47,25 +47,26 @@ summary {
 }
 
 .typewriter {
-  overflow: hidden; /* Ensures the content is not revealed until the animation */
-  border-right: .15em solid white; /* The typwriter cursor */
-  white-space: nowrap; /* Keeps the content on a single line */
-  margin: 0 auto; /* Gives that scrolling effect as the typing happens */
-  animation:
-    typing 100s steps(10, end),
-    blink-caret 1s step-end infinite;
+  position: relative;
+  max-width: min-content;
+  border-right: 0.1em solid white;
+  white-space: nowrap;
+  overflow: hidden;
+  padding-right: 0.1em;
 }
 
-/* The typing effect */
-@keyframes typing {
-  from { width: 0% }
-  to { width: 100% }
+/* Animation */
+.anim-typewriter{
+  animation: typewriter 4s steps(44) 1s 1 normal both,
+             blinkTextCursor 500ms steps(44) infinite normal;
 }
-
-/* The typewriter cursor effect */
-@keyframes blink-caret {
-  from, to { border-color: transparent }
-  50% { border-color: white; }
+@keyframes typewriter{
+  from{width: 0;}
+  to{width: 100%;}
+}
+@keyframes blinkTextCursor{
+  from{border-right-color: white;}
+  to{border-right-color: transparent;}
 }
 
 /* Fonts */
@@ -194,6 +195,12 @@ a.sidebar-nav-item:focus {
   }
 }
 
+@media (max-width: 48em) {
+  .sidebar-about h1 {
+    margin-inline: auto;
+    padding-right: 0.1em;
+  }
+}
 
 /* Container
  *

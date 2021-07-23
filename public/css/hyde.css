@@ -52,7 +52,7 @@ summary {
   border-right: 0.1em solid white;
   white-space: nowrap;
   overflow: hidden;
-  padding-right: 0.1em;
+  padding-right: 0.025em;
 }
 
 /* Animation */
@@ -115,7 +115,7 @@ color: black;
 z-index: 1;
 text-align: center;
 font-family: gentle;
-font-size: larger;
+font-size: x-large;
 }
 
 .sidebar {

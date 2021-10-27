@@ -5,6 +5,7 @@ source "https://rubygems.org"
 git_source(:github) {|r00bywiks| "https://github.com/w1k5/r00bywiks" }
 
 gem "jekyll"
+gem "nokogiri", ">= 1.12.5"
 
 group :jekyll_plugins do
   gem "jekyll-feed"

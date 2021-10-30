@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Nightmare on Park Street"
-date: 2021-10-25 14:27:02 -0500
+date: 2021-10-30 00:27:02 -0500
 subtitle: "My Thoughts on the 1984 Cult Horror Classic"
 tags: [movies, films, horror, retro, review, halloween]
 comments: true

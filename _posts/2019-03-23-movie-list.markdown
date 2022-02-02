@@ -54,6 +54,8 @@ My friend got dumped recently so I made them a list of movies that they could wa
 <li><a href="https://en.wikipedia.org/wiki/A_Nightmare_on_Elm_Street" target="_blank">A Nightmare on Elm Street (1984)</a></li>
 <li><a href="https://en.wikipedia.org/wiki/The_Mask_(1994_film)" target="_blank">The Mask (1994)</a></li>
 <li><a href="https://en.wikipedia.org/wiki/American_Beauty_(1999_film)" target="_blank">American Beauty (1999)</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Warm_Bodies_(film)" target="_blank">Warm Bodies (2013)</a></li>
+<li><a href="https://en.wikipedia.org/wiki/A_Nightmare_on_Elm_Street" target="_blank">Nightmare on Elm Street (1984)</a></li>
 </ul>
 
 I used to go to Blockbuster's a lot as a little girl, long before they were run out of business by Netflix. I'd go with my mom all the time during the summer and she'd let me pick out any three movies I wanted. I think they had a special deal for three movies or something. I'd just go home and watch them, absolutely delighted in the personal opportunity to escape my present time and place. I still love movies and TV for the escapism of it. I notice the details now, though. The devil's in the details.

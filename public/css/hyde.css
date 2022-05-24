@@ -134,7 +134,7 @@ font-size: x-large;
     top: 0;
     left: 0;
     bottom: 0;
-    width: 24rem;
+    width: 35%;
     text-align: left;
   }
   .whatsnew {
@@ -158,8 +158,8 @@ font-size: x-large;
 /* About section */
 .sidebar-about h1 {
   color: #fff;
-  font-size: 3rem;
-  margin-top: 0.5em;
+  font-size: xx-large;
+  margin-top: 5%;
   margin-bottom: 0;
 }
 
@@ -216,8 +216,8 @@ a.sidebar-nav-item:focus {
 @media (min-width: 48em) {
   .content {
     padding-top:  4rem;
-    margin-right: 3rem;
-    margin-left: 27rem;
+    margin-right: 5%;
+    margin-left: 40%;
   }
 }
 

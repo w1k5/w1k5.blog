@@ -254,6 +254,12 @@ img {
   margin-right: auto;
 }
 
+img[src*="#rounded-white-bkg"] {
+    padding: 3%;
+    background: white;
+    border-radius: 10px;
+}
+
 /* Tables */
 table {
   margin-bottom: 1rem;

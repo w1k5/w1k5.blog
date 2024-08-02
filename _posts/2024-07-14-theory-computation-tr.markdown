@@ -11,7 +11,7 @@ I wrote this paper in college with a really good friend of mine. Shout out to th
 
 Tomb Raider, a late-90s video game featuring the iconic character Lara Croft, presents players with the adventurous pursuits of an athletic British archaeologist navigating treacherous environments with mortal health and breath. Having been reimagined and remastered a total of three times, the gameplay has always encompassed exploration, platforming, combat, and puzzle-solving. The game, when stripped of its exploration and combat, can be articulated as gadgets, described by Jayson Lynch\[1], leading to the classification of Tomb Raider as PSPACE-complete.<!-- more -->
 
-# _Introduction_
+## _Introduction_
 
 The evolution of the Tomb Raider game series, spanning three distinct iterations, reflects technological advancements and shifts in the video game industry. Each rendition, shaped by its unique constraints and temporal context, offers players a different experience. The initial two versions emphasized puzzle-solving within environmental constraints, while the 2013 reboot introduced a survival gameplay mechanic and a heightened focus on third-person shooting, departing from the original emphasis on puzzles.
 
@@ -24,9 +24,9 @@ In the following sections, we explore the implementation of a non-crossing toggl
 The primary objective of these puzzles is to guide Lara to the exit. However, navigating through these challenges is not without peril. The game introduces hazards that pose a threat to Lara's health. Should her health be depleted, reaching zero, the consequence is swift and absolute – the game concludes, and Lara respawns in her initial position. To safeguard against undesirable moves that could potentially disrupt the intricate gadgets described in the ensuing sections, any mechanism inflicting damage proves fatal, abruptly terminating the game. Notably, there are also no shootable enemies, thereby eliminating the combat aspect from the game equation. Additionally, Lara's grapple lacks attachment points in the levels. As a result of these guarantees, she is unable to induce any side effects on the level, emphasizing the strategic focus on puzzle-solving.
 
 
-# _Differences & Similarities of Game Development in the Mid-90s and Mid-2000s_
+## _Differences & Similarities of Game Development in the Mid-90s and Mid-2000s_
 
-## The Beginning of 3D Environments
+### The Beginning of 3D Environments
 
 The original Tomb Raider was one of the first popular games to feature a completely 3D-generated model in a 3D-generated world. Due to the processing constraints of the Sega Saturn (for which the game was originally created), a very specific feature was used to enable the creation of the huge 3D environments– all of the levels were created on a [grid system](https://www.pcgamer.com/the-history-of-tomb-raider/). This virtual world was constructed using basic geometric shapes or "blocks", that formed the fundamental building units for creating environments and structures within the game, and Lara’s movements were all constrained to specific block counts: Lara could vertically jump and reach a ledge exactly one block above her, horizontally jump two blocks, and with a running start, could jump three blocks. 
 
@@ -35,7 +35,7 @@ Due to the limitations of hardware and graphics technology in the mid-'90s, crea
 This interplay, within the constraints of a grid system, led to a decision space in which players navigated the virtual world. However, by 2006, advancements in GPUs allowed for higher-resolution textures, eliminating the focus on the grid system and expanding the decision space. This shift marked a significant increase in the number of possible choices available to players within the game's environment, reflecting the expanding complexity of decision spaces in the computational domain of PSPACE.
 
 
-## Increased Fidelity, Control, and Cinematic Quality of the Sixth Generation
+### Increased Fidelity, Control, and Cinematic Quality of the Sixth Generation
 
 As machines gained more and more processing power, the evolution of gaming systems became evident in the 2006 Tomb Raider reboot. The increased processing power allowed for the generation of more polygons at any given point, which was pivotal in creating a more dynamic and immersive gaming experience, as it facilitated the implementation of new and intricate movements, diverse player positions, and the introduction of new kinds of objects with properties never seen before in the series.
 
@@ -48,16 +48,16 @@ Furthermore, the style of controllers has also changed between the time of Core 
 Note that increased fidelity and immersive gaming experience made games more cinematic than before; inspired by this, Quick Time Events were introduced in pursuit of a more immersive gameplay experience. QTEs (Quick Time Events) are interactive sequences in video games where players must follow on-screen prompts or press specific buttons within a limited time frame to execute actions or respond to events. The incorporation of QTEs enhances the cinematic quality of the game, making players feel like they are actively participating in the unfolding story. However, in the context of proving TR’s PSPACE-completeness, these QTEs have no decision-making influence relating to coming up with a solution to the game’s puzzles, and will therefore not be used in the context of the puzzles described in the following sections.
 
 
-# ____
+## ____
 
-# _Tomb Raider: Legend (2006)_
+## _Tomb Raider: Legend (2006)_
 
-## Non-crossing Toggle Lock
+### Non-crossing Toggle Lock
 
 This gadget implements a non-crossing toggle lock using game elements from the [Ghana](https://youtu.be/CG-xGB2OY10?t=195) level of Tomb Raider: Legend. Below is the top-down view of the gadget. We will first explain the specifics of each tunnel and then demonstrate the gadget. 
 
 
-### Tunnel #1: Toggle
+#### Tunnel #1: Toggle
 
 The primary features of tunnel #1 are a movable box, a corridor filled with swinging blades, and spikes. Its locations are A and B. Lara can enter either location from the planar overworld through a thin cutout in the wall. The opening is narrow enough that only Lara can fit through, i.e. no blocks can be brought through. These cutouts are located on the floor of the tunnel so Lara can enter and exit through them freely.![](https://lh7-us.googleusercontent.com/docsz/AD_4nXdKh6Uscmd2PgrrcVY2E37LOO-EJMBSZ2eJqAqsoNnqQdurj9PfdXDB1-msrighEMoOPOpWJ84bLcerknjaBhAdMAy5JpGbu4fh08kqVhaf3w2vmAdbYeRskt1lo_hXJTPZjkqgl6l37vmJLXDM4MtG_EY?key=gsd_dwRg7Ob3d3qc7sHmeA)
 
@@ -80,12 +80,12 @@ Between the rotating blades and the spikes, there is a pressure plate. When pres
 Upon an A→B traversal, the tunnel is now only traversable from B → A. This is because in order to make it past the blades, you need to push the box as a shield. With the box located on the ‘B’ side, you can only traverse from B → A. In essence, whichever side the block is located on determines the traversability of the tunnel. One modification to how the blades are is necessary to ensure that it is traversable from whichever side the block is located on. From the video, you can see that the blades are rotating as they move back and forth. This also happens in our version with a single pair of large blades. However, once the blades hit one side of the track, they will change the direction of their rotation such that a player pushing a block in the opposite direction the blades are moving will be able to catch the blades. In other words, in order for the block to catch the blades, they need to hit the block from the front. The blades need to rotate towards the box. If the blades are rotating in the same direction as the box is being pushed, then the blades will cut Lara from behind. To fix this, the pair of blades will change the direction of their rotation once they hit either end of the track. When the blades move towards side A, they will be rotating in the same direction. When they mode towards side B, they will also rotate towards B. This ensures that whichever side the box is on, the player is able to make a proper traversal to the other side using the box. This is a small but necessary modification. By making sure the direction of rotation switches, we ensure that only the location of the box determines the traversability of the tunnel. 
 
 
-### Tunnel #2: Lock
+#### Tunnel #2: Lock
 
 Tunnel #2 is a lock. When it is open, it is traversable in both directions. Otherwise, it is not traversable in any direction. Remember that the spikes emanating from tunnel #1 reach the full width of tunnel #2. So, when the spikes are in motion, tunnel #2 is blocked, i.e. no traversal is possible from C → D or D → C. This is because, as discussed before, the 3 sets of spikes occupy a long enough part of the tunnel, each spike is thick enough, and all spikes are moving rapidly such that Lara cannot pass across the tunnel without being hit by a spike and pushed off the tunnel and dying.
 
 
-### Operating the Gadget: Non-crossing toggle lock
+#### Operating the Gadget: Non-crossing toggle lock
 
    
 
@@ -94,13 +94,13 @@ There are two states to this gadget. In state #1, tunnel #1 is only travserable 
 We can show that our level of Tomb Raider is in PSPACE by using a nondeterministic guessing algorithm. In addition to the possible guesses of moving forward, backward, left, and right, we will add the possible guesses of attempt to push a block forward and attempt to release a block. We use the word ‘attempt’ because there may not be a box for Lara to move. These six guesses cover all the possible actions Lara can take in the game. To encode our game level, we need to be a little clever because the different mechanisms, i.e. the rotating blades and moving spikes, don’t have an obvious encoding. However, when these mechanisms are in operation, it basically means that Lara can’t be on those grind cells. So, we can simply encode whether a grid cell is occupied or unoccupied and be agnostic to the specifics as to why a particular cell is occupied. If we let n be the number of grid cells in our game level, then we can encode the status of each cell and store the game-level data in polynomial space. Now, we can use a state counter to nondeterministically guess a move for Lara to make, check if Lara has reached the end, and stop once we start repeating states. This puts our Tomb Raider level in NPSPACE but by Savitch's theorem, PSPACE = NPSPACE. Since our game level is both in PSPACE and PSPACE-hard, it is PSPACE-complete. 
 
 
-# ____
+## ____
 
-# _Tomb Raider I (1996)_
+## _Tomb Raider I (1996)_
 
-## Tripwire
+### Tripwire
 
-### Tunnel: Lever Say Lever
+#### Tunnel: Lever Say Lever
 
 **The following explains how a tripwire tunnel can be constructed using** [**doors**](https://www.wikiraider.com/index.php/Doors) **and** [**levers**](https://www.wikiraider.com/index.php/Trigger#Levers)**, which are heavily featured in the game, focusing on the use of** [**timed doors**](https://www.wikiraider.com/index.php/Timed_Door)**.**
 
@@ -123,12 +123,12 @@ By having all of the doors included in the tunnel abide by this property in resp
 
 ##
 
-## Locks
+### Locks
 
 In Level 8: The Cistern of the original 1996 Tomb Raider game, adjusting the water level of a room is used to facilitate Lara reaching different parts of the room that she cannot reach in a given state: whether it be due to the area not being within platforming reach or due to the area being underwater and too far away for Lara to reach without running out of breath. Another example of this being used specifically in Tomb Raider can be seen in Level 5: Saint Francis’ Folly. This feature inspired the creation of two kinds of locks in this paper.
 
 
-### Tunnel: Water Level Lock I
+#### Tunnel: Water Level Lock I
 
 **The following explains how a locking tunnel can be constructed exploiting Tomb Raider’s** [**fall damage**](https://www.tombraiderforums.com/showthread.php?t=225255)**, which can be completely circumvented by having Lara fall into a body of water.**
 
@@ -137,7 +137,7 @@ There are two small rooms (_A_ and _B_), which are the endpoints of a single tun
 **Profile View**
 
 
-### Tunnel: Water Level Lock II
+#### Tunnel: Water Level Lock II
 
 **The following explains how a locking tunnel can be constructed by exploiting Tomb Raider’s** [**Oxygen Bar**](https://www.wikiraider.com/index.php/Breath_Bar)**, which limits the amount of time Lara can spend underwater.**
 
@@ -146,7 +146,7 @@ There are two small rooms (A and B), which are the endpoints of a single tunnel.
 **Profile View**
 
 
-## Creating a Non-Crossing Wire Lock
+### Creating a Non-Crossing Wire Lock
 
 The Lever Say Lever tripwire can be used with one of the described locks in order to create a Non-Crossing Wire Lock (NWL). The button _c_ in the Lever Say Lever tripwire can still retain its original functionality with the addition of locking or unlocking one of the lock tunnels: every time button _c_ is pressed and either _a_ or _b_ is also set to True, the state of the lock switches. In the case of Water Level Lock I, unlocking the tunnel involves opening a pipe that fills the corridor to the brim with water, while locking it would involve a drain opening in the floor of the corridor and then leaving; for Water Level Lock II, it would be the opposite. If neither a or b is set to True, then hitting the button will not change the status of the lock, preventing the player from sitting in the corridor and just constantly hitting _c_; this move is furthermore not optimal because hitting the button and not going through a doorway will result in Lara being stuck in the corridor, so in the case of our guessing algorithm would not be played.
 
@@ -154,7 +154,7 @@ Putting either of the water locks with the tripwire creates a non-crossing wire 
 
 We can also show that this level is in PSPACE. Similar to Tomb Raider: Legend, we can be agnostic as to what exactly is occupying a cell of the game level, i.e. water or a closed door, and just encode whether Lara can occupy that cell or not, whether it be standing, climbing, or floating above. Instead, we will just encode for each cell of the game level whether it can be occupied by Lara or not. So, we can store each game level in polynomial size with respect to the input size n, where n is the number of grid cells. Remember that we are restricting our game level to be grid-based so the only possible moves for Lara are to attempt to move forward, backward, left, right, push a lever, push a button, jump forward, and grab. So, we can use a state counter to nondeterministically guess one of these moves for Lara to make, check if Lara has reached the end, and stop once we start repeating states. This puts our Tomb Raider level in NPSPACE but by Savitch's theorem, PSPACE = NPSPACE. Since our game level is both in PSPACE and PSPACE-hard, it is PSPACE-complete.  
 
-# _Conclusion_
+## _Conclusion_
 
 The evolution of the Tomb Raider series highlights a paradoxical trend: despite the escalating PSPACE complexity driven by technological advancements, the puzzles presented to players in the most recent iterations of the game have become increasingly simplistic. This trend became particularly evident with the release of the 2013 reimagining of Tomb Raider by Square Enix. Critics widely noted that this version departed from the original spirit of the series, which was renowned for its intricate and challenging puzzles. Instead, the 2013 release featured puzzles of a more straightforward, almost childlike nature, diverging from Lara's signature platforming challenges.
 
@@ -168,12 +168,12 @@ The demand for more sophisticated graphics, expansive environments, and intricat
 
 In conclusion, the evolution of the Tomb Raider series illustrates the complex interplay between technological advancements, market forces, and industry practices. While the increasing PSPACE complexity in the game's mechanics showcases the potential for intricate gameplay, the trend toward simpler puzzles underscores the influence of large corporations and the realities of game development. The decisions made by developers, driven by the need to appeal to a broad audience, maintain narrative flow, and manage resource constraints, highlight the multifaceted nature of modern game design. As the gaming industry continues to evolve, the balance between complexity and accessibility will remain a key consideration, shaping the future of beloved franchises like Tomb Raider.
 
-# _References_
+## _References_
 
 E. D. Demaine, D. H. Hendrickson, and J. Lynch, “Toward a General Complexity Theory of Motion Planning: Characterizing Which Gadgets Make Games Hard,” 2020. doi: 10.4230/LIPICS.ITCS.2020.62
 
 
-# _Other Additional In-Game Mechanisms that Could Warrant Further Exploration_
+## _Other Additional In-Game Mechanisms that Could Warrant Further Exploration_
 
 [Tomb Raider (1996)](https://www.youtube.com/watch?v=H8MHP1zBv_8)
 

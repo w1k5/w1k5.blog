@@ -121,7 +121,7 @@ Timed doors that abide by this property force Lara to either stay in her current
 
 By having all of the doors included in the tunnel abide by this property in respect to the button/lever that are directly adjacent to it, one of which must be c, then all of the doors begin to function as one-way doors, and in the context of the tunnel, force the player to complete the traversal before being able to return to the original starting point.
 
-Top Down View
+### Top Down View
 
 ![](https://docs.google.com/drawings/d/scUCtGlzwlOOrkjaTgSivIQ/image?parent=1vmBdRT06e1dxrt_70WYto4xSS6jQSJMAOht83ASN-G8&rev=1&drawingRevisionAccessToken=xPrdD0WGIbM1dA&h=290&w=472&ac=1){: .rounded-white-bkg}
 
@@ -138,7 +138,7 @@ The following explains how a locking tunnel can be constructed exploiting Tomb R
 
 There are two small rooms (A and B), which are the endpoints of a single tunnel. Each of these rooms contains a hole in the floor which drops down to a tunnel filled with water, leading to the other room. This tunnel has an elevation high enough such that if the tunnel is not filled with water, Lara will hit the ground and not survive the fall. If the tunnel is filled with water, then Lara will drop gracefully into the hole without hitting the ground and then swim across the tunnel and can come out of the other side. This tunnel is therefore unlocked when it is filled with water, and locked when it is empty. Because Lara can hold her breath for long enough to swim through the tunnel, the tunnel is traversable and can be traversed an infinite number of times as long as she has enough air to do so. If Lara spawns on either side when there is no water in the tunnel, she will be unable to reach either endpoint due to the ledges for the holes which allow her to enter a given room being too high off the ground for her to reach, so she will be unable to progress.
 
-Profile View
+### Profile View
 
 ![](https://docs.google.com/drawings/d/sYl683fZmCdtZL_7qmlasmw/image?parent=1vmBdRT06e1dxrt_70WYto4xSS6jQSJMAOht83ASN-G8&rev=1&drawingRevisionAccessToken=cox_Ek6_G88t6A&h=241&w=358&ac=1){: .rounded-white-bkg}
 
@@ -148,7 +148,7 @@ The following explains how a locking tunnel can be constructed by exploiting Tom
 
 There are two small rooms (A and B), which are the endpoints of a single tunnel. Each of these rooms contains a hole in the floor which drops down to a tunnel filled with water, leading to the other room. The key difference with this corridor is that it is too long for Lara to swim. She doesn’t have enough oxygen to allow her to swim the distance between A and B, even if the shortest possible path is taken. This makes it such that when the tunnel is filled with water, it is not traversable and therefore locked. In the tunnel, beneath the hole leading to A and B, respectively, there is a platform that Lara can jump onto without taking any damage from the hole in a given room. If she is standing on a platform, then she can jump and grab onto the edge of the hole leading to A or B, depending on which of the two platforms she is standing on. To traverse the tunnel when it is in an unlocked state, she would drop down through the hole of a given room, land safely on the platform, get down from the platform, walk through the tunnel, and then climb onto the other platform, jump and grab onto the edge of the corresponding hole, and then climb up. Because the platforms are stationary and Lara has infinite energy, she can traverse the tunnel an infinite number of times in the case that the tunnel is unlocked.
 
-Profile View
+### Profile View
 
 ![](https://docs.google.com/drawings/d/sVWMlds2gMxR4Pby4jxZ6Wg/image?parent=1vmBdRT06e1dxrt_70WYto4xSS6jQSJMAOht83ASN-G8&rev=1&drawingRevisionAccessToken=aQTm1Ywjx9MP6g&h=224&w=430&ac=1){: .rounded-white-bkg}
 

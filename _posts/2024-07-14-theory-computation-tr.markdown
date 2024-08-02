@@ -7,12 +7,7 @@ categories: "self-care"
 tags: [tech, programming, theory, cs, computer_science]
 comments: true
 ---
-
-Victoria Michalska and Saul Richardson
-
-Spring 2022
-
-# _Abstract_
+I wrote this paper with a really good friend of mine. Shout out to that guy.
 
 Tomb Raider, a late-90s video game featuring the iconic character Lara Croft, presents players with the adventurous pursuits of an athletic British archaeologist navigating treacherous environments with mortal health and breath. Having been reimagined and remastered a total of three times, the gameplay has always encompassed exploration, platforming, combat, and puzzle-solving. The game, when stripped of its exploration and combat, can be articulated as gadgets, described by Jayson Lynch\[1], leading to the classification of Tomb Raider as PSPACE-complete.<!-- more -->
 

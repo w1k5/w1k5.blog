@@ -7,7 +7,7 @@ categories: "self-care"
 tags: [tech, programming, theory, cs, computer_science]
 comments: true
 ---
-I wrote this paper in college with a really good friend of mine. Shout out to that guy. Let me know if you want your name on this.
+I wrote this paper in college with a really good friend of mine during the Spring of 2022. Shout out to that guy. Let me know if you want your name on this.
 
 * * *
 

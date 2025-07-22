@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Toaster Girl"
-date: 2025-07-21 13:46:02 -0500
+date: 2025-07-14 13:46:02 -0500
 categories: "sweet-lovin"
 tags: [Transformation, Identity, Reflection, Self-Discovery, Vulnerability, Introspection, Existentialism, Personal Growth, Emotional Clarity]
 comments: false

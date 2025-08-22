@@ -1,0 +1,171 @@
+/* Theme Variables and Dark/Light Mode Switching */
+
+:root {
+  /* Dark Mode Colors (Current Theme) */
+  --bg-primary: #050e21;
+  --bg-secondary: #00030a;
+  --bg-sidebar: url(assets/starsbackground.gif);
+  --bg-sidebar-fallback: #1a1a2e;
+  
+  --text-primary: #bbc6dd;
+  --text-secondary: #bac5dd;
+  --text-heading: #b599b0;
+  --text-muted: #7a93bd;
+  --text-white: #ffffff;
+  
+  --link-primary: #7a93bd;
+  --link-hover: #ffffff;
+  --link-sidebar: #ffffff;
+  --link-sidebar-hover: #ffffff;
+  
+  --border-primary: #7a93bd;
+  --border-secondary: #bac5dd;
+  --border-dotted: #bac5dd;
+  
+  --code-bg: #f9f9f9;
+  --code-text: #bf616a;
+  --pre-bg: #00030a;
+  --pre-border: #7a93bd;
+  
+  --blockquote-text: #7a7a7a;
+  --blockquote-border: #e5e5e5;
+  
+  --table-border: #e5e5e5;
+  --table-odd-bg: #000000;
+  
+  --pagination-bg: #f5f5f5;
+  --pagination-text: #000000;
+  --pagination-border: #ffffff;
+  
+  --message-bg: #f9f9f9;
+  --message-text: #717171;
+  
+  --masthead-text: #505050;
+  --masthead-muted: #c0c0c0;
+  
+  --strong-text: #303030;
+  
+  --sidebar-announcement-bg: #ffffff;
+  --sidebar-announcement-text: #000000;
+  
+  --sidebar-footer-text: #b599b0;
+}
+
+[data-theme="light"] {
+  /* Light Mode Colors - Using Your Original Palette Rearranged */
+  --bg-primary: #f9f9f9;
+  --bg-secondary: #ffffff;
+  --bg-sidebar: linear-gradient(135deg, #b599b0 0%, #8b6b8a 100%);
+  --bg-sidebar-fallback: #b599b0;
+  
+  --text-primary: #050e21;
+  --text-secondary: #00030a;
+  --text-heading: #b599b0;
+  --text-muted: #7a93bd;
+  --text-white: #ffffff;
+  
+  --link-primary: #7a93bd;
+  --link-hover: #050e21;
+  --link-sidebar: #ffffff;
+  --link-sidebar-hover: #f9f9f9;
+  
+  --border-primary: #bac5dd;
+  --border-secondary: #7a93bd;
+  --border-dotted: #7a93bd;
+  
+  --code-bg: #ffffff;
+  --code-text: #bf616a;
+  --pre-bg: #f9f9f9;
+  --pre-border: #bac5dd;
+  
+  --blockquote-text: #7a93bd;
+  --blockquote-border: #bac5dd;
+  
+  --table-border: #bac5dd;
+  --table-odd-bg: #f9f9f9;
+  
+  --pagination-bg: #ffffff;
+  --pagination-text: #050e21;
+  --pagination-border: #bac5dd;
+  
+  --message-bg: #f9f9f9;
+  --message-text: #050e21;
+  
+  --masthead-text: #050e21;
+  --masthead-muted: #7a93bd;
+  
+  --strong-text: #050e21;
+  
+  --sidebar-announcement-bg: #050e21;
+  --sidebar-announcement-text: #ffffff;
+  
+  --sidebar-footer-text: #050e21;
+}
+
+/* Sidebar Footer Styling */
+.sidebar-footer {
+  color: var(--sidebar-footer-text);
+  margin-bottom: 0.5rem;
+  font-size: 0.9rem;
+  opacity: 0.9;
+}
+
+.sidebar-footer a {
+  color: inherit;
+  text-decoration: none;
+}
+
+.sidebar-footer a:hover {
+  opacity: 0.8;
+}
+
+/* Theme Toggle Button */
+.theme-toggle {
+  position: fixed;
+  top: 20px;
+  right: 20px;
+  z-index: 1000;
+  background: var(--bg-secondary);
+  border: 2px solid var(--border-primary);
+  border-radius: 50%;
+  width: 50px;
+  height: 50px;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 20px;
+  color: var(--text-primary);
+  transition: all 0.3s ease;
+  box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+}
+
+.theme-toggle:hover {
+  transform: scale(1.1);
+  box-shadow: 0 4px 20px rgba(0,0,0,0.2);
+}
+
+.theme-toggle::before {
+  content: "🌙";
+  transition: content 0.3s ease;
+}
+
+[data-theme="light"] .theme-toggle::before {
+  content: "☀️";
+}
+
+/* Smooth transitions for theme switching */
+* {
+  transition: background-color 0.3s ease, color 0.3s ease, border-color 0.3s ease;
+}
+
+/* Hide theme toggle on mobile */
+@media (max-width: 48em) {
+  .theme-toggle {
+    top: 10px;
+    right: 10px;
+    width: 40px;
+    height: 40px;
+    font-size: 16px;
+  }
+}

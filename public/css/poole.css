@@ -56,8 +56,8 @@ html {
 }
 
 body {
-  color: #bbc6dd;
-  background-color: #050e21;
+  color: var(--text-primary);
+  background-color: var(--bg-primary);
   -webkit-text-size-adjust: 100%;
       -ms-text-size-adjust: 100%;
 }
@@ -73,7 +73,7 @@ body {
 
 /* No `:visited` state is required by default (browsers will use `a`) */
 a {
-  color: #7a93bd;
+  color: var(--link-primary);
   text-decoration: none;
 }
 a strong {
@@ -91,7 +91,7 @@ h1, h2, h3, h4, h5, h6 {
   margin-bottom: .5rem;
   -weight: bold;
   line-height: 1.25;
-  color: #b599b0;
+  color: var(--text-heading);
   text-rendering: optimizeLegibility;
   font-family: gentle;
 }
@@ -125,10 +125,10 @@ p {
   font-size: large;
 }
 p a {text-decoration: underline;}
-p a:hover {color: white;}
+p a:hover {color: var(--link-hover);}
 
 strong {
-  color: #303030;
+  color: var(--strong-text);
 }
 
 
@@ -148,10 +148,10 @@ dd {
 /* Misc */
 hr {
   position: relative;
-  color: #bac5dd;
+  color: var(--border-dotted);
   margin: 0 0 2em 0;
   border: 0;
-  border-top: 0.5vh dotted #bac5dd;
+  border-top: 0.5vh dotted var(--border-dotted);
 }
 
 abbr {
@@ -173,8 +173,8 @@ pre {
 code {
   padding: .25em .5em;
   -size: 85%;
-  color: #bf616a;
-  background-color: #f9f9f9;
+  color: var(--code-text);
+  background-color: var(--code-bg);
   border-radius: 3px;
 }
 pre {
@@ -187,8 +187,8 @@ pre {
   white-space: pre-wrap;
   word-break: break-all;
   word-wrap: break-word;
-  background-color: #00030a;
-  border: groove #7a93bd;
+  background-color: var(--pre-bg);
+  border: groove var(--pre-border);
   border-radius: 3px
 }
 pre code {
@@ -233,8 +233,8 @@ pre code {
 blockquote {
   padding: .5rem 1rem;
   margin: .8rem 0;
-  color: #7a7a7a;
-  border-left: .25rem solid #e5e5e5;
+  color: var(--blockquote-text);
+  border-left: .25rem solid var(--blockquote-border);
 }
 blockquote p:last-child {
   margin-bottom: 0;
@@ -264,17 +264,17 @@ img {
 table {
   margin-bottom: 1rem;
   width: 100%;
-  border: 1px solid #e5e5e5;
+  border: 1px solid var(--table-border);
   border-collapse: collapse;
 }
 td,
 th {
   padding: .25rem .5rem;
-  border: 1px solid #e5e5e5;
+  border: 1px solid var(--table-border);
 }
 tbody tr:nth-child(odd) td,
 tbody tr:nth-child(odd) th {
-  background-color: black;
+  background-color: var(--table-odd-bg);
 }
 
 
@@ -300,8 +300,8 @@ tbody tr:nth-child(odd) th {
 .message {
   margin-bottom: 1rem;
   padding: 1rem;
-  color: #717171;
-  background-color: #f9f9f9;
+  color: var(--message-text);
+  background-color: var(--message-bg);
 }
 
 
@@ -333,15 +333,15 @@ tbody tr:nth-child(odd) th {
 .masthead-title {
   margin-top: 0;
   margin-bottom: 0;
-  color: #505050;
+  color: var(--masthead-text);
 }
 .masthead-title a {
-  color: #505050;
+  color: var(--masthead-text);
 }
 .masthead-title small {
   -size: 75%;
   -weight: 400;
-  color: #c0c0c0;
+  color: var(--masthead-muted);
   letter-spacing: 0;
 }
 
@@ -362,11 +362,11 @@ tbody tr:nth-child(odd) th {
 .page-title,
 .post-title,
 .post-title a {
-  color: #bac5dd;
+  color: var(--text-secondary);
   text-decoration: underline;
 }
 .post-title a:hover {
-  color: white;
+  color: var(--link-hover);
   text-decoration: underline;
 }
 .page-title,
@@ -379,7 +379,7 @@ tbody tr:nth-child(odd) th {
 .post-date {
   display: block;
   margin-bottom: 1rem;
-  color: #b599b0;
+  color: var(--text-heading);
   font-weight: bolder;
 }
 
@@ -396,15 +396,15 @@ tbody tr:nth-child(odd) th {
 }
 .related-posts li small {
   -size: 75%;
-  color: #b599b0;
+  color: var(--text-heading);
   font-family: ovo;
 }
 .related-posts li a:hover {
-  color: white;
+  color: var(--link-hover);
   text-decoration: none;
 }
 .related-posts li a:hover small {
-  color: #b599b0;
+  color: var(--text-heading);
   font-family: ovo;
 }
 
@@ -418,7 +418,7 @@ tbody tr:nth-child(odd) th {
 
 .pagination {
   overflow: hidden; /* clearfix */
-  color: #ccc;
+  color: var(--text-muted);
   text-align: center;
   margin: 1rem 0;
 }
@@ -430,15 +430,15 @@ tbody tr:nth-child(odd) th {
   margin-bottom: 1rem;
   font-family: gentle;
   border-radius: 20px;
-  border: 2px dotted white;
+  border: 2px dotted var(--pagination-border);
 }
 .pagination-item:first-child {
 }
 
 /* Only provide a hover state for linked pagination items */
 a.pagination-item:hover {
-  background-color: #f5f5f5;
-  color: black;
+  background-color: var(--pagination-bg);
+  color: var(--pagination-text);
   text-decoration: none;
 }
 

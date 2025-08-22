@@ -15,6 +15,7 @@
 
   <!-- Enable responsiveness on mobile devices-->
   <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1">
+  <meta name="color-scheme" content="dark light">
   <script id="mcjs">!function(c,h,i,m,p){m=c.createElement(h),p=c.getElementsByTagName(h)[0],m.async=1,m.src=i,p.parentNode.insertBefore(m,p)}(document,"script","https://chimpstatic.com/mcjs-connected/js/users/b6e31ba0254a769226acaa2b3/047936a7dd890bff74118c1f1.js");</script>
   <title>
     {% if page.title == "WIKS.WIKI" %}
@@ -29,6 +30,7 @@
   <link rel="stylesheet" href="/public/css/syntax.css">
   <link rel="stylesheet" href="/public/css/hyde.css">
   <link rel="stylesheet" href="/public/css/grid.css">
+  <link rel="stylesheet" href="/public/css/themes.css">
 
   <!-- Icons -->
 <link rel="icon" type="image/png" href="{{ site.url }}/public/favicon.png">
@@ -39,6 +41,29 @@
   <!-- RSS -->
 <link rel="alternate" type="application/rss+xml" title="RSS" href="/atom.xml">
 <link rel="canonical" href="{{ page.url | prepend: site.url }}">
+
+  <!-- Theme Switcher JavaScript -->
+  <script>
+    // No-flash theme switching - runs immediately before page renders
+    (function() {
+      try {
+        const savedTheme = localStorage.getItem('theme');
+        if (savedTheme === 'light') {
+          document.documentElement.setAttribute('data-theme', 'light');
+        } else if (!savedTheme && window.matchMedia && window.matchMedia('(prefers-color-scheme: light)').matches) {
+          // If no saved preference, check system preference
+          document.documentElement.setAttribute('data-theme', 'light');
+        } else {
+          // Default to dark theme (your current theme)
+          document.documentElement.setAttribute('data-theme', 'dark');
+        }
+      } catch (e) {
+        // Silently fail if localStorage isn't available, default to dark
+        document.documentElement.setAttribute('data-theme', 'dark');
+      }
+    })();
+  </script>
+  <script src="/public/js/theme-switcher.js"></script>
 
 <!-- SOCIAL MEDIA NONSENSE -->
 <meta property="og:locale" content="en_US"/>

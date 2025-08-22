@@ -49,7 +49,7 @@ summary {
 .typewriter {
   position: relative;
   max-width: min-content;
-  border-right: 0.1em solid white;
+  border-right: 0.1em solid var(--text-white);
   white-space: nowrap;
   overflow: hidden;
   padding-right: 0.025em;
@@ -65,7 +65,7 @@ summary {
   to{width: 100%;}
 }
 @keyframes blinkTextCursor{
-  from{border-right-color: white;}
+  from{border-right-color: var(--text-white);}
   to{border-right-color: transparent;}
 }
 
@@ -98,20 +98,20 @@ summary {
 #gentlefont {font-family: gentle;}
 
  #directory a:hover{font-family: gentle;
-   color: white;
+   color: var(--link-hover);
  margin: auto;
 text-decoration: none;}
 
 #directory a{font-family: gentle;
-  color: #bac5dd;
+  color: var(--text-secondary);
 margin: auto;
 text-decoration: underline;}
 
 .sticky-announcement {
   width: 100%;
 position: fixed;
-background-color: white;
-color: black;
+background-color: var(--sidebar-announcement-bg);
+color: var(--sidebar-announcement-text);
 z-index: 1;
 text-align: center;
 font-family: gentle;
@@ -121,8 +121,8 @@ font-size: x-large;
 .sidebar {
   text-align: center;
   padding: 1.5rem 2rem 0.5rem;
-  color: white;
-  background: url(assets/starsbackground.gif);
+  color: var(--link-sidebar);
+  background: var(--bg-sidebar);
 	background-repeat: repeat;
 	backgorund-position: right bottom;
 	background-size: 100%;
@@ -144,20 +144,20 @@ font-size: x-large;
 
 /* Sidebar links */
 .pink a {
-  color: #b599b0;
+  color: var(--text-heading);
 }
 
 .pink a:hover {
-  color: white;
+  color: var(--text-white);
 }
 
 .sidebar a {
-  color: #fff;
+  color: var(--link-sidebar);
 }
 
 /* About section */
 .sidebar-about h1 {
-  color: #fff;
+  color: var(--link-sidebar);
   font-size: xx-large;
   margin-top: 1em;
   margin-bottom: 0;

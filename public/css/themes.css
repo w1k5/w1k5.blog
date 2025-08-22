@@ -159,6 +159,24 @@
   }
 }
 
+/* Fix Disqus comment visibility */
+#disqus_thread,
+#disqus_thread *,
+.disqus-comment-count,
+.disqus-comment-count * {
+  background-color: transparent !important;
+  color: inherit !important;
+}
+
+/* Ensure Disqus text is visible in both themes */
+[data-theme="dark"] #disqus_thread {
+  color: var(--text-primary) !important;
+}
+
+[data-theme="light"] #disqus_thread {
+  color: var(--text-primary) !important;
+}
+
 /* Mobile theme toggle positioning */
 @media (max-width: 768px) {
   .theme-toggle {

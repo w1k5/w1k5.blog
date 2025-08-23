@@ -55,8 +55,8 @@
   /* Light Mode Colors - Using Your Original Palette Rearranged */
   --bg-primary: #f9f9f9;
   --bg-secondary: #ffffff;
-  --bg-sidebar: linear-gradient(135deg, #b599b0 0%, #8b6b8a 100%);
-  --bg-sidebar-fallback: #b599b0;
+  --bg-sidebar: linear-gradient(135deg, #7a93bd 0%, #5a7a9d 100%);
+  --bg-sidebar-fallback: #7a93bd;
   
   --text-primary: #050e21;
   --text-secondary: #00030a;

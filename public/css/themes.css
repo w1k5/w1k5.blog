@@ -55,7 +55,7 @@
   /* Light Mode Colors - Using Your Original Palette Rearranged */
   --bg-primary: #f9f9f9;
   --bg-secondary: #ffffff;
-  --bg-sidebar: linear-gradient(135deg, #7a93bd 0%, #5a7a9d 100%);
+  --bg-sidebar: url(assets/lightbackground.webp);
   --bg-sidebar-fallback: #7a93bd;
   
   --text-primary: #050e21;
@@ -66,8 +66,8 @@
   
   --link-primary: #7a93bd;
   --link-hover: #050e21;
-  --link-sidebar: #ffffff;
-  --link-sidebar-hover: #f9f9f9;
+  --link-sidebar: #000000;
+  --link-sidebar-hover: #333333;
   
   --border-primary: #bac5dd;
   --border-secondary: #7a93bd;
@@ -99,7 +99,7 @@
   --sidebar-announcement-bg: #050e21;
   --sidebar-announcement-text: #ffffff;
   
-  --sidebar-footer-text: #050e21;
+  --sidebar-footer-text: #000000;
 }
 
 /* Sidebar Footer Styling */
@@ -171,6 +171,42 @@
     height: 40px;
     font-size: 16px;
   }
+}
+
+/* Light mode sidebar background image styling */
+[data-theme="light"] .sidebar {
+  background-size: cover !important;
+  background-position: center bottom !important;
+  background-repeat: no-repeat !important;
+}
+
+/* Light mode specific text colors */
+[data-theme="light"] .whatsnew {
+  color: #7a93bd !important;
+}
+
+[data-theme="light"] .post-title,
+[data-theme="light"] .post-title a {
+  color: #000000 !important;
+}
+
+[data-theme="light"] .post-title a:hover {
+  color: #7a93bd !important;
+}
+
+/* Light mode typewriter cursor */
+[data-theme="light"] .typewriter {
+  border-right-color: #000000 !important;
+}
+
+/* Light mode post date */
+[data-theme="light"] .post-date {
+  color: #7a93bd !important;
+}
+
+/* Light mode RSS symbol - make it black */
+[data-theme="light"] .sidebar-footer img {
+  filter: brightness(0) saturate(100%) !important;
 }
 
 /* Fix comment section backgrounds */

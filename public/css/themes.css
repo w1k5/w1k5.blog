@@ -99,7 +99,7 @@
   --sidebar-announcement-bg: #050e21;
   --sidebar-announcement-text: #ffffff;
   
-  --sidebar-footer-text: #000000;
+  --sidebar-footer-text: #ffffff;
 }
 
 /* Sidebar Footer Styling */
@@ -206,7 +206,8 @@
 
 /* Light mode RSS symbol - make it black */
 [data-theme="light"] .sidebar-footer img {
-  filter: brightness(0) saturate(100%) !important;
+  /* Make RSS icon white in light mode */
+  filter: brightness(0) invert(1) !important;
 }
 
 /* Fix comment section backgrounds */

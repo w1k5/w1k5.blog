@@ -63,12 +63,29 @@
       }
     }
 
+    // Reload Disqus to pick up theme changes
+    reloadDisqus() {
+      if (window.DISQUS) {
+        DISQUS.reset({
+          reload: true,
+          config: function () {
+            // Keep the same identifier and URL
+            this.page.identifier = window.disqus_identifier || window.location.pathname;
+            this.page.url = window.disqus_url || window.location.href;
+          }
+        });
+      }
+    }
+
     // Apply theme to the document
     applyTheme(theme) {
       console.log('ThemeSwitcher: applying theme', theme);
       document.documentElement.setAttribute('data-theme', theme);
       this.currentTheme = theme;
       this.storeTheme(theme);
+
+      // Reload Disqus to pick up theme changes
+      this.reloadDisqus();
 
       // Notify other scripts (e.g., Disqus embed) that theme has changed
       try {

@@ -15,24 +15,53 @@
         const container = document.getElementById('disqus_thread');
         if (!container) return;
 
+        console.log('Disqus: starting embed with theme', theme);
+
         // 1. wipe any previous embed
         container.innerHTML = '';
         delete window.DISQUS;
         Array.from(document.querySelectorAll('script[src*="disqus.com/embed.js"]'))
              .forEach(s => s.parentNode.removeChild(s));
 
-        // 2. global config for the upcoming load
+        // 2. inject temporary CSS to force the correct color scheme
+        const tempStyle = document.createElement('style');
+        tempStyle.id = 'disqus-temp-theme';
+        tempStyle.textContent = `
+          #disqus_thread { 
+            color: ${theme === 'light' ? '#050e21' : '#bac5dd'} !important; 
+          }
+          #disqus_thread iframe { 
+            color-scheme: ${theme} !important; 
+            background: transparent !important; 
+          }
+        `;
+        document.head.appendChild(tempStyle);
+
+        // 3. global config for the upcoming load
         window.disqus_config = function () {
           this.page.url        = disqusCfg.url;
           this.page.identifier = disqusCfg.id;
           this.page.theme      = theme;          // force scheme
+          console.log('Disqus: config function called with theme', this.page.theme);
         };
 
-        // 3. inject fresh script (unique query param busts caching)
+        // 4. inject fresh script (unique query param busts caching)
         const s = document.createElement('script');
         s.src = 'https://{{ site.disqus.shortname }}.disqus.com/embed.js?ts=' + Date.now();
         s.setAttribute('data-timestamp', Date.now());
         (document.head || document.body).appendChild(s);
+
+        // 5. verify iframe recreation after a delay
+        setTimeout(() => {
+          const iframe = container.querySelector('iframe');
+          if (iframe) {
+            console.log('Disqus: iframe recreated successfully');
+            // Remove temporary style after iframe loads
+            setTimeout(() => tempStyle.remove(), 1000);
+          } else {
+            console.log('Disqus: iframe not found after reload');
+          }
+        }, 2000);
       }
 
       /* first load — use current data-theme */

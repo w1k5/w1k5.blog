@@ -31,6 +31,7 @@
             #disqus_thread iframe { 
               color-scheme: ${theme} !important; 
               background: transparent !important; 
+              ${theme === 'dark' ? 'background-color: #1a1a1a !important;' : ''}
             }
           `;
           document.head.appendChild(style);

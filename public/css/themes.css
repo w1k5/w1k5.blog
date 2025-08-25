@@ -1,8 +1,5 @@
 /* Theme Variables and Dark/Light Mode Switching */
 
-/* Import Disqus theme overrides */
-@import url('./disqus-theme.css');
-
 :root {
   /* Dark Mode Colors (Current Theme) */
   --bg-primary: #050e21;
@@ -228,5 +225,3 @@
     font-size: 14px;
   }
 }
-
-

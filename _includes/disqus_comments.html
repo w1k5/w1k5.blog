@@ -1,53 +1,50 @@
 {% if page.comments != false and jekyll.environment == "production" %}
 
   <div id="disqus_thread"></div>
-  <!-- Temporary style to trick Disqus auto theme detection into choosing the correct scheme -->
-  <style id="disqus-hack">
-    /* Any color outside #000000‒#787878 range forces dark scheme; we use mid-grey */
-    #disqus_thread { color:#888888 !important; }
-  </style>
+  <!-- Dynamic Disqus reloader that forces fresh iframe creation on theme changes -->
   <script>
-    var disqus_config = function () {
-      this.page.url = '{{ page.url | absolute_url }}';
-      this.page.identifier = '{{ page.url | absolute_url }}';
-      var docTheme = (document.documentElement.getAttribute('data-theme') || 'dark').toLowerCase();
-      // Disqus expects the theme to be set via `this.theme`.
-      this.page.theme = docTheme === 'light' ? 'light' : 'dark';
-    };
-    (function() {
-      var d = document, s = d.createElement('script');
-      s.src = 'https://{{ site.disqus.shortname }}.disqus.com/embed.js';
-      s.setAttribute('data-tismestamp', +new Date());
-      (d.head || d.body).appendChild(s);
-    })();
+    (function () {
+      // keep original url / identifier handy
+      const disqusCfg = {
+        url:  '{{ page.url | absolute_url }}',
+        id:   '{{ page.url | absolute_url }}'
+      };
 
-    // Reload Disqus dynamically when theme changes
-    window.addEventListener('themeChanged', function(e) {
-      if (window.DISQUS && typeof window.DISQUS.reset === 'function') {
-        var newTheme = (e && e.detail && e.detail.theme) || (document.documentElement.getAttribute('data-theme') === 'light' ? 'light' : 'dark');
-        window.DISQUS.reset({
-          reload: true,
-          config: function () {
-            this.page.url = window.location.href;
-            this.page.identifier = window.location.pathname;
-            this.page.theme = newTheme;
-          }
-        });
+      // helper to (re)load Disqus
+      function embedDisqus(theme) {
+        const container = document.getElementById('disqus_thread');
+        if (!container) return;
+
+        // 1. wipe any previous embed
+        container.innerHTML = '';
+        delete window.DISQUS;
+        Array.from(document.querySelectorAll('script[src*="disqus.com/embed.js"]'))
+             .forEach(s => s.parentNode.removeChild(s));
+
+        // 2. global config for the upcoming load
+        window.disqus_config = function () {
+          this.page.url        = disqusCfg.url;
+          this.page.identifier = disqusCfg.id;
+          this.page.theme      = theme;          // force scheme
+        };
+
+        // 3. inject fresh script (unique query param busts caching)
+        const s = document.createElement('script');
+        s.src = 'https://{{ site.disqus.shortname }}.disqus.com/embed.js?ts=' + Date.now();
+        s.setAttribute('data-timestamp', Date.now());
+        (document.head || document.body).appendChild(s);
       }
-    });
 
-    /* Remove the temporary colour override once the iframe has been injected */
-    (function(){
-      var target = document.getElementById('disqus_thread');
-      if(!target) return;
-      var obs = new MutationObserver(function(muts,observer){
-        if (target.querySelector('iframe')) {
-          var hack = document.getElementById('disqus-hack');
-          if (hack) hack.parentNode.removeChild(hack);
-          observer.disconnect();
-        }
+      /* first load — use current data-theme */
+      embedDisqus(document.documentElement.getAttribute('data-theme') === 'light' ? 'light' : 'dark');
+
+      /* reload whenever our site theme changes */
+      window.addEventListener('themeChanged', e => {
+        const theme = e.detail && e.detail.theme ? e.detail.theme :
+                      (document.documentElement.getAttribute('data-theme') === 'light' ? 'light' : 'dark');
+        embedDisqus(theme);
       });
-      obs.observe(target, { childList:true });
+
     })();
   </script>
   <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript" rel="nofollow">comments powered by Disqus.</a></noscript>

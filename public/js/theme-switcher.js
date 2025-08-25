@@ -26,6 +26,7 @@
       this.createToggleButton();
       this.applyTheme(this.currentTheme);
       this.bindEvents();
+      this.watchForDisqus();
     }
 
     // Create the theme toggle button
@@ -78,8 +79,69 @@
         console.warn('Unable to dispatch themeChanged event', e);
       }
       
+      // Force update Disqus colors when theme changes
+      this.updateDisqusColors(theme);
+      
       // Update meta theme-color for mobile browsers
       this.updateMetaThemeColor(theme);
+    }
+
+    // Force update Disqus comment colors when theme changes
+    updateDisqusColors(theme) {
+      // Wait a bit for any dynamic content to load
+      setTimeout(() => {
+        const disqusThread = document.getElementById('disqus_thread');
+        if (disqusThread) {
+          // Force re-application of CSS by temporarily removing and re-adding the theme attribute
+          const currentTheme = document.documentElement.getAttribute('data-theme');
+          document.documentElement.removeAttribute('data-theme');
+          setTimeout(() => {
+            document.documentElement.setAttribute('data-theme', currentTheme);
+          }, 10);
+          
+          console.log('ThemeSwitcher: Updated Disqus colors for theme:', theme);
+        }
+      }, 100);
+    }
+
+    // Watch for Disqus loading and apply theme colors automatically
+    watchForDisqus() {
+      // Create a MutationObserver to watch for when Disqus loads
+      const observer = new MutationObserver((mutations) => {
+        mutations.forEach((mutation) => {
+          if (mutation.type === 'childList') {
+            mutation.addedNodes.forEach((node) => {
+              // Check if this is a Disqus-related element
+              if (node.nodeType === Node.ELEMENT_NODE) {
+                if (node.id === 'disqus_thread' || 
+                    node.querySelector && node.querySelector('#disqus_thread') ||
+                    node.classList && (node.classList.contains('disqus-comment-embed') || 
+                                     node.classList.contains('disqus-embed'))) {
+                  
+                  console.log('ThemeSwitcher: Disqus detected, applying theme colors');
+                  // Apply current theme colors to the newly loaded Disqus
+                  setTimeout(() => {
+                    this.updateDisqusColors(this.currentTheme);
+                  }, 200);
+                }
+              }
+            });
+          }
+        });
+      });
+
+      // Start observing the document body for changes
+      observer.observe(document.body, {
+        childList: true,
+        subtree: true
+      });
+
+      // Also watch for theme changes from other sources
+      window.addEventListener('themeChanged', (e) => {
+        if (e.detail && e.detail.theme) {
+          this.updateDisqusColors(e.detail.theme);
+        }
+      });
     }
 
     // Update meta theme-color for mobile browsers

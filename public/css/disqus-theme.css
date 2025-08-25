@@ -1,0 +1,209 @@
+/* Disqus Comment System Theme Overrides */
+
+/* Dark Mode - Override Disqus text colors */
+[data-theme="dark"] #disqus_thread,
+[data-theme="dark"] #disqus_thread *,
+[data-theme="dark"] .disqus-comment-embed,
+[data-theme="dark"] .disqus-comment-embed * {
+  color: var(--text-primary) !important;
+}
+
+/* Dark Mode - Specific Disqus elements */
+[data-theme="dark"] #disqus_thread .text-bold,
+[data-theme="dark"] #disqus_thread .text-semibold,
+[data-theme="dark"] #disqus_thread .username,
+[data-theme="dark"] #disqus_thread .comment-count,
+[data-theme="dark"] #disqus_thread .nav-tab a,
+[data-theme="dark"] #disqus_thread .dropdown-toggle,
+[data-theme="dark"] #disqus_thread .dropdown-menu a,
+[data-theme="dark"] #disqus_thread .connect__heading,
+[data-theme="dark"] #disqus_thread .guest-form-title,
+[data-theme="dark"] #disqus_thread .help-tooltip__heading,
+[data-theme="dark"] #disqus_thread .help-tooltip__list li,
+[data-theme="dark"] #disqus_thread .privacy-info,
+[data-theme="dark"] #disqus_thread .privacy-info-list li,
+[data-theme="dark"] #disqus_thread .guest-checkbox label,
+[data-theme="dark"] #disqus_thread .disqus-footer__link,
+[data-theme="dark"] #disqus_thread .sort-menu-refresh__item a,
+[data-theme="dark"] #disqus_thread .load-more-refresh__button,
+[data-theme="dark"] #disqus_thread .favorite-button-toggle,
+[data-theme="dark"] #disqus_thread .share-button-toggle,
+[data-theme="dark"] #disqus_thread .share-dropdown-refresh__item button,
+[data-theme="dark"] #disqus_thread .reaction-item__text,
+[data-theme="dark"] #disqus_thread .prompt,
+[data-theme="dark"] #disqus_thread .spacing-bottom,
+[data-theme="dark"] #disqus_thread .no-posts,
+[data-theme="dark"] #disqus_thread .alert--realtime,
+[data-theme="dark"] #disqus_thread .coachmark__heading,
+[data-theme="dark"] #disqus_thread .coachmark__description,
+[data-theme="dark"] #disqus_thread .tooltip h3,
+[data-theme="dark"] #disqus_thread .tooltip ul li,
+[data-theme="dark"] #disqus_thread .tooltip p,
+[data-theme="dark"] #disqus_thread .btn,
+[data-theme="dark"] #disqus_thread .btn-small,
+[data-theme="dark"] #disqus_thread .btn-primary {
+  color: var(--text-primary) !important;
+}
+
+/* Dark Mode - Disqus input placeholders and text */
+[data-theme="dark"] #disqus_thread input::placeholder,
+[data-theme="dark"] #disqus_thread ._placeholder_s9avi_1 {
+  color: var(--text-muted) !important;
+}
+
+/* Dark Mode - Disqus links */
+[data-theme="dark"] #disqus_thread a,
+[data-theme="dark"] #disqus_thread .disqus-footer__link {
+  color: var(--link-primary) !important;
+}
+
+[data-theme="dark"] #disqus_thread a:hover,
+[data-theme="dark"] #disqus_thread .disqus-footer__link:hover {
+  color: var(--link-hover) !important;
+}
+
+/* Light Mode - Override Disqus text colors */
+[data-theme="light"] #disqus_thread,
+[data-theme="light"] #disqus_thread *,
+[data-theme="light"] .disqus-comment-embed,
+[data-theme="light"] .disqus-comment-embed * {
+  color: var(--text-primary) !important;
+}
+
+/* Light Mode - Specific Disqus elements */
+[data-theme="light"] #disqus_thread .text-bold,
+[data-theme="light"] #disqus_thread .text-semibold,
+[data-theme="light"] #disqus_thread .username,
+[data-theme="light"] #disqus_thread .comment-count,
+[data-theme="light"] #disqus_thread .nav-tab a,
+[data-theme="light"] #disqus_thread .dropdown-toggle,
+[data-theme="light"] #disqus_thread .dropdown-menu a,
+[data-theme="light"] #disqus_thread .connect__heading,
+[data-theme="light"] #disqus_thread .guest-form-title,
+[data-theme="light"] #disqus_thread .help-tooltip__heading,
+[data-theme="light"] #disqus_thread .help-tooltip__list li,
+[data-theme="light"] #disqus_thread .privacy-info,
+[data-theme="light"] #disqus_thread .privacy-info-list li,
+[data-theme="light"] #disqus_thread .guest-checkbox label,
+[data-theme="light"] #disqus_thread .disqus-footer__link,
+[data-theme="light"] #disqus_thread .sort-menu-refresh__item a,
+[data-theme="light"] #disqus_thread .load-more-refresh__button,
+[data-theme="light"] #disqus_thread .favorite-button-toggle,
+[data-theme="light"] #disqus_thread .share-button-toggle,
+[data-theme="light"] #disqus_thread .share-dropdown-refresh__item button,
+[data-theme="light"] #disqus_thread .reaction-item__text,
+[data-theme="light"] #disqus_thread .prompt,
+[data-theme="light"] #disqus_thread .spacing-bottom,
+[data-theme="light"] #disqus_thread .no-posts,
+[data-theme="light"] #disqus_thread .alert--realtime,
+[data-theme="light"] #disqus_thread .coachmark__heading,
+[data-theme="light"] #disqus_thread .coachmark__description,
+[data-theme="light"] #disqus_thread .tooltip h3,
+[data-theme="light"] #disqus_thread .tooltip ul li,
+[data-theme="light"] #disqus_thread .tooltip p,
+[data-theme="light"] #disqus_thread .btn,
+[data-theme="light"] #disqus_thread .btn-small,
+[data-theme="light"] #disqus_thread .btn-primary {
+  color: var(--text-primary) !important;
+}
+
+/* Light Mode - Disqus input placeholders and text */
+[data-theme="light"] #disqus_thread input::placeholder,
+[data-theme="light"] #disqus_thread ._placeholder_s9avi_1 {
+  color: var(--text-muted) !important;
+}
+
+/* Light Mode - Disqus links */
+[data-theme="light"] #disqus_thread a,
+[data-theme="light"] #disqus_thread .disqus-footer__link {
+  color: var(--link-primary) !important;
+}
+
+[data-theme="light"] #disqus_thread a:hover,
+[data-theme="light"] #disqus_thread .disqus-footer__link:hover {
+  color: var(--link-hover) !important;
+}
+
+/* Force override Disqus body text color */
+#disqus_thread body,
+#disqus_thread .body,
+#disqus_thread [class*="body"] {
+  color: inherit !important;
+}
+
+/* Override Disqus CSS specificity with !important */
+#disqus_thread * {
+  color: inherit !important;
+}
+
+/* Ensure Disqus inherits theme colors */
+#disqus_thread {
+  color: var(--text-primary) !important;
+}
+
+/* Additional Disqus overrides for better theme integration */
+/* Handle Disqus iframe content */
+iframe[src*="disqus.com"],
+iframe[src*="disquscdn.com"] {
+  color-scheme: light dark;
+}
+
+/* Override any remaining Disqus text colors with higher specificity */
+body[data-theme="dark"] #disqus_thread,
+body[data-theme="dark"] #disqus_thread *,
+body[data-theme="dark"] .disqus-comment-embed,
+body[data-theme="dark"] .disqus-comment-embed * {
+  color: var(--text-primary) !important;
+}
+
+body[data-theme="light"] #disqus_thread,
+body[data-theme="light"] #disqus_thread *,
+body[data-theme="light"] .disqus-comment-embed,
+body[data-theme="light"] .disqus-comment-embed * {
+  color: var(--text-primary) !important;
+}
+
+/* Force override for Disqus body elements */
+body[data-theme="dark"] #disqus_thread body,
+body[data-theme="dark"] #disqus_thread .body,
+body[data-theme="dark"] #disqus_thread [class*="body"] {
+  color: var(--text-primary) !important;
+}
+
+body[data-theme="light"] #disqus_thread body,
+body[data-theme="light"] #disqus_thread .body,
+body[data-theme="light"] #disqus_thread [class*="body"] {
+  color: var(--text-primary) !important;
+}
+
+/* Handle Disqus error messages and alerts */
+#disqus_thread .alert--error,
+#disqus_thread .alert--error * {
+  color: var(--text-primary) !important;
+}
+
+/* Ensure Disqus buttons and interactive elements are visible */
+#disqus_thread button,
+#disqus_thread .btn,
+#disqus_thread input[type="submit"] {
+  color: var(--text-primary) !important;
+  background-color: var(--bg-secondary) !important;
+  border-color: var(--border-primary) !important;
+}
+
+/* Disqus form inputs */
+#disqus_thread input[type="text"],
+#disqus_thread input[type="email"],
+#disqus_thread input[type="password"] {
+  color: var(--text-primary) !important;
+  background-color: var(--bg-secondary) !important;
+  border-color: var(--border-primary) !important;
+}
+
+/* Disqus textarea */
+#disqus_thread textarea,
+#disqus_thread ._editor_ylcfx_13 {
+  color: var(--text-primary) !important;
+  background-color: var(--bg-secondary) !important;
+  border-color: var(--border-primary) !important;
+}

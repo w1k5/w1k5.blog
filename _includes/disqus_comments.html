@@ -40,8 +40,10 @@
 
       /* reload whenever our site theme changes */
       window.addEventListener('themeChanged', e => {
+        console.log('Disqus: themeChanged event received', e.detail);
         const theme = e.detail && e.detail.theme ? e.detail.theme :
                       (document.documentElement.getAttribute('data-theme') === 'light' ? 'light' : 'dark');
+        console.log('Disqus: reloading with theme', theme);
         embedDisqus(theme);
       });
 

@@ -65,12 +65,14 @@
 
     // Apply theme to the document
     applyTheme(theme) {
+      console.log('ThemeSwitcher: applying theme', theme);
       document.documentElement.setAttribute('data-theme', theme);
       this.currentTheme = theme;
       this.storeTheme(theme);
 
       // Notify other scripts (e.g., Disqus embed) that theme has changed
       try {
+        console.log('ThemeSwitcher: dispatching themeChanged event');
         window.dispatchEvent(new CustomEvent('themeChanged', { detail: { theme } }));
       } catch(e) {
         console.warn('Unable to dispatch themeChanged event', e);
@@ -78,9 +80,6 @@
       
       // Update meta theme-color for mobile browsers
       this.updateMetaThemeColor(theme);
-      
-      // Update Disqus theme
-      this.updateDisqusTheme(theme);
     }
 
     // Update meta theme-color for mobile browsers
@@ -98,31 +97,6 @@
       };
       
       metaThemeColor.content = colors[theme] || colors.dark;
-    }
-
-    // Update Disqus theme
-    updateDisqusTheme(theme) {
-      // Check if Disqus is loaded
-      if (window.DISQUS) {
-        try {
-          // Reload Disqus with new theme
-          window.DISQUS.reset({
-            reload: true,
-            config: function() {
-              this.page.identifier = window.location.pathname;
-              this.page.url = window.location.href;
-              this.page.title = document.title;
-              // Set Disqus theme based on current theme
-              this.page.theme = theme === 'light' ? 'light' : 'dark';
-            }
-          });
-        } catch (e) {
-          console.warn('Could not update Disqus theme:', e);
-        }
-      } else {
-        // If Disqus isn't loaded yet, set a flag for when it loads
-        window.disqusTheme = theme;
-      }
     }
 
     // Toggle between themes

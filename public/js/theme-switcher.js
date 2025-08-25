@@ -106,7 +106,7 @@
               this.page.url = window.location.href;
               this.page.title = document.title;
               // Set Disqus theme based on current theme
-              this.settings.theme = theme === 'light' ? 'light' : 'dark';
+              this.theme = theme === 'light' ? 'light' : 'dark';
             }
           });
         } catch (e) {

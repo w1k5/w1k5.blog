@@ -4,6 +4,9 @@
   <!-- Dynamic Disqus reloader that forces fresh iframe creation on theme changes -->
   <script>
     (function () {
+      try {
+        console.log('Disqus: script starting...');
+
       // keep original url / identifier handy
       const disqusCfg = {
         url:  '{{ page.url | absolute_url }}',
@@ -65,6 +68,7 @@
       }
 
       /* first load — use current data-theme */
+      console.log('Disqus: initial load...');
       embedDisqus(document.documentElement.getAttribute('data-theme') === 'light' ? 'light' : 'dark');
 
       /* reload whenever our site theme changes */
@@ -76,6 +80,9 @@
         embedDisqus(theme);
       });
 
+      } catch (error) {
+        console.error('Disqus: script error:', error);
+      }
     })();
   </script>
   <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript" rel="nofollow">comments powered by Disqus.</a></noscript>

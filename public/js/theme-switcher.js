@@ -65,48 +65,50 @@
 
     // Reload Disqus to pick up theme changes
     reloadDisqus() {
-      if (window.DISQUS) {
-        // Add a small delay for mobile to ensure proper timing
-        const isMobile = /Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent);
-        const delay = isMobile ? 100 : 0;
-        
-        setTimeout(() => {
-          try {
-            DISQUS.reset({
-              reload: true,
-              config: function () {
-                // Keep the same identifier and URL
-                this.page.identifier = window.disqus_identifier || window.location.pathname;
-                this.page.url = window.disqus_url || window.location.href;
-              }
-            });
-          } catch (error) {
-            console.warn('Disqus reload failed:', error);
-            // Fallback: try to force reload by removing and re-adding the script
-            this.fallbackDisqusReload();
+      if (window.DISQUS && typeof DISQUS.reset === 'function') {
+        // Desktop / full bundle - use the official reset method
+        console.log('ThemeSwitcher: using DISQUS.reset for theme change');
+        DISQUS.reset({
+          reload: true,
+          config: function () {
+            // Keep the same identifier and URL
+            this.page.identifier = window.disqus_identifier || window.location.pathname;
+            this.page.url = window.disqus_url || window.location.href;
           }
-        }, delay);
+        });
+      } else {
+        // Mobile bundle or embed not loaded yet - use fallback method
+        console.log('ThemeSwitcher: using fallback Disqus reload method');
+        this.fallbackDisqusReload();
       }
     }
 
-    // Fallback method for mobile devices
+    // Fallback method for when DISQUS.reset fails (especially on mobile/vertical mode)
     fallbackDisqusReload() {
       try {
         // Remove existing Disqus iframe
         const disqusThread = document.getElementById('disqus_thread');
-        if (disqusThread) {
-          disqusThread.innerHTML = '';
-        }
+        if (!disqusThread) return;
+
+        disqusThread.innerHTML = '';
+
+        // Get shortname from data attribute or use default
+        const shortname = disqusThread.dataset.shortname || 'wiks-wiki';
         
-        // Re-initialize Disqus
-        if (window.disqus_shortname) {
-          const script = document.createElement('script');
-          script.src = 'https://' + window.disqus_shortname + '.disqus.com/embed.js';
-          script.setAttribute('data-timestamp', +new Date());
-          (document.head || document.body).appendChild(script);
-        }
+        // Re-initialize Disqus with the same configuration
+        const script = document.createElement('script');
+        script.src = 'https://' + shortname + '.disqus.com/embed.js';
+        script.setAttribute('data-timestamp', +new Date());
+
+        // Set up the config before loading - use the same config as the original embed
+        window.disqus_config = function () {
+          this.page.url = window.disqus_url || window.location.href;
+          this.page.identifier = window.disqus_identifier || window.location.pathname;
+        };
+
+        (document.head || document.body).appendChild(script);
       } catch (error) {
-        console.warn('Fallback Disqus reload also failed:', error);
+        console.warn('Fallback Disqus reload failed:', error);
       }
     }
 

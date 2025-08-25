@@ -32,16 +32,6 @@
               color-scheme: ${theme} !important; 
               background: transparent !important; 
             }
-            /* Force dark mode on all Disqus elements */
-            ${theme === 'dark' ? `
-              #disqus_thread * { 
-                background-color: #1a1a1a !important; 
-                color: #ffffff !important; 
-              }
-              #disqus_thread iframe { 
-                background-color: #1a1a1a !important; 
-              }
-            ` : ''}
           `;
           document.head.appendChild(style);
         }

@@ -214,6 +214,16 @@
   background-color: transparent !important;
 }
 
+/* Ensure Disqus iframe respects site theme and has transparent background */
+#disqus_thread iframe {
+  background: transparent !important; /* prevent default white */
+  color-scheme: dark;
+}
+
+[data-theme="light"] #disqus_thread iframe {
+  color-scheme: light;
+}
+
 /* Extra small mobile devices */
 @media (max-width: 480px) {
   .theme-toggle {

@@ -8,8 +8,11 @@
     light: 'light'
   };
 
-  // Default theme (dark mode as per your current setup)
-  const defaultTheme = themes.dark;
+  // Determine default theme based on OS preference
+  const defaultTheme =
+      (window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches)
+        ? themes.dark
+        : themes.light;
 
   // Theme switcher class
   class ThemeSwitcher {

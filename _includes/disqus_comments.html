@@ -1,12 +1,6 @@
 {% if page.comments != false and jekyll.environment == "production" %}
 
-  <script>
-    // Set global variables for theme switcher to access
-    window.disqus_url = '{{ page.url | absolute_url }}';
-    window.disqus_identifier = '{{ page.url | absolute_url }}';
-  </script>
-
-  <div id="disqus_thread" data-shortname="{{ site.disqus.shortname }}"></div>
+  <div id="disqus_thread"></div>
   <script>
     var disqus_config = function () {
       this.page.url = '{{ page.url | absolute_url }}';

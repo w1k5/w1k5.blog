@@ -65,42 +65,45 @@
 
     // Reload Disqus to pick up theme changes
     reloadDisqus() {
-      if (window.DISQUS && typeof DISQUS.reset === 'function') {
-        // Desktop / full bundle - use the official reset method
-        console.log('ThemeSwitcher: using DISQUS.reset for theme change');
-        DISQUS.reset({
-          reload: true,
-          config: function () {
-            // Keep the same identifier and URL
-            this.page.identifier = window.disqus_identifier || window.location.pathname;
-            this.page.url = window.disqus_url || window.location.href;
-          }
-        });
+      if (window.DISQUS) {
+        console.log('ThemeSwitcher: reloading Disqus for theme change');
+        
+        // Force a small delay to ensure theme CSS is fully applied
+        setTimeout(() => {
+          DISQUS.reset({
+            reload: true,
+            config: function () {
+              // Keep the same identifier and URL
+              this.page.identifier = window.disqus_identifier || window.location.pathname;
+              this.page.url = window.disqus_url || window.location.href;
+            }
+          });
+        }, 50);
       } else {
-        // Mobile bundle or embed not loaded yet - use fallback method
-        console.log('ThemeSwitcher: using fallback Disqus reload method');
-        this.fallbackDisqusReload();
+        // If Disqus isn't loaded yet, try to reload the entire embed
+        console.log('ThemeSwitcher: Disqus not loaded, attempting embed reload');
+        this.reloadDisqusEmbed();
       }
     }
 
-    // Fallback method for when DISQUS.reset fails (especially on mobile/vertical mode)
-    fallbackDisqusReload() {
+    // Fallback method to reload Disqus embed when DISQUS.reset isn't available
+    reloadDisqusEmbed() {
       try {
-        // Remove existing Disqus iframe
         const disqusThread = document.getElementById('disqus_thread');
         if (!disqusThread) return;
 
+        // Clear existing content
         disqusThread.innerHTML = '';
 
-        // Get shortname from data attribute or use default
-        const shortname = disqusThread.dataset.shortname || 'wiks-wiki';
+        // Get shortname from config or use default
+        const shortname = 'wiks-wiki'; // Using the shortname from your _config.yml
         
         // Re-initialize Disqus with the same configuration
         const script = document.createElement('script');
         script.src = 'https://' + shortname + '.disqus.com/embed.js';
         script.setAttribute('data-timestamp', +new Date());
 
-        // Set up the config before loading - use the same config as the original embed
+        // Set up the config before loading
         window.disqus_config = function () {
           this.page.url = window.disqus_url || window.location.href;
           this.page.identifier = window.disqus_identifier || window.location.pathname;
@@ -119,6 +122,9 @@
       this.currentTheme = theme;
       this.storeTheme(theme);
 
+      // Ensure Disqus container gets proper theme inheritance
+      this.ensureDisqusThemeContext(theme);
+
       // Reload Disqus to pick up theme changes
       this.reloadDisqus();
 
@@ -132,6 +138,23 @@
       
       // Update meta theme-color for mobile browsers
       this.updateMetaThemeColor(theme);
+    }
+
+    // Ensure Disqus container gets proper theme inheritance
+    ensureDisqusThemeContext(theme) {
+      const disqusThread = document.getElementById('disqus_thread');
+      if (disqusThread) {
+        // Force the container to inherit the current theme
+        disqusThread.setAttribute('data-theme', theme);
+        
+        // Add a CSS class to ensure theme inheritance
+        disqusThread.className = disqusThread.className.replace(/theme-\w+/g, '') + ` theme-${theme}`;
+        
+        // Force a repaint to ensure CSS variables are applied
+        disqusThread.style.display = 'none';
+        disqusThread.offsetHeight; // Force reflow
+        disqusThread.style.display = '';
+      }
     }
 
     // Update meta theme-color for mobile browsers

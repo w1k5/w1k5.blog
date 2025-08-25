@@ -1,92 +1,16 @@
 {% if page.comments != false and jekyll.environment == "production" %}
 
   <div id="disqus_thread"></div>
-  <!-- Dynamic Disqus theme switcher using DISQUS.reset -->
   <script>
-    (function () {
-      try {
-        console.log('Disqus: script starting...');
-
-        // keep original url / identifier handy
-        const disqusCfg = {
-          url:  '{{ page.url | absolute_url }}',
-          id:   '{{ page.url | absolute_url }}'
-        };
-
-        // helper to force Disqus theme via CSS
-        function forceDisqusTheme(theme) {
-          console.log('Disqus: forcing theme via CSS:', theme);
-          
-          // Remove any existing theme styles
-          const existingStyle = document.getElementById('disqus-theme-force');
-          if (existingStyle) existingStyle.remove();
-          
-          // Create new style that forces the theme
-          const style = document.createElement('style');
-          style.id = 'disqus-theme-force';
-          style.textContent = `
-            #disqus_thread { 
-              color: ${theme === 'light' ? '#050e21' : '#bac5dd'} !important; 
-            }
-            #disqus_thread iframe { 
-              color-scheme: ${theme} !important; 
-              background: transparent !important; 
-              ${theme === 'dark' ? 'background-color: #1a1a1a !important;' : ''}
-            }
-          `;
-          document.head.appendChild(style);
-        }
-
-        // Initial theme setup
-        const initialTheme = document.documentElement.getAttribute('data-theme') === 'light' ? 'light' : 'dark';
-        console.log('Disqus: initial theme:', initialTheme);
-        
-        // Set up initial Disqus config
-        window.disqus_config = function () {
-          this.page.url = disqusCfg.url;
-          this.page.identifier = disqusCfg.id;
-          this.page.theme = initialTheme;
-          console.log('Disqus: initial config with theme:', this.page.theme);
-        };
-
-        // Load Disqus initially
-        (function() {
-          var d = document, s = d.createElement('script');
-          s.src = 'https://{{ site.disqus.shortname }}.disqus.com/embed.js';
-          s.setAttribute('data-timestamp', +new Date());
-          (d.head || d.body).appendChild(s);
-        })();
-
-        // Listen for theme changes and use DISQUS.reset
-        window.addEventListener('themeChanged', e => {
-          const theme = e.detail && e.detail.theme ? e.detail.theme :
-                        (document.documentElement.getAttribute('data-theme') === 'light' ? 'light' : 'dark');
-          
-          console.log('Disqus: themeChanged event received, switching to:', theme);
-          
-          // Force theme via CSS first
-          forceDisqusTheme(theme);
-          
-          // Then reset Disqus if it's loaded
-          if (window.DISQUS && typeof window.DISQUS.reset === 'function') {
-            console.log('Disqus: calling DISQUS.reset');
-            window.DISQUS.reset({
-              reload: true,
-              config: function() {
-                this.page.url = disqusCfg.url;
-                this.page.identifier = disqusCfg.id;
-                this.page.theme = theme;
-                console.log('Disqus: reset config with theme:', this.page.theme);
-              }
-            });
-          } else {
-            console.log('Disqus: DISQUS not loaded yet, theme will apply on next load');
-          }
-        });
-
-      } catch (error) {
-        console.error('Disqus: script error:', error);
-      }
+    var disqus_config = function () {
+      this.page.url = '{{ page.url | absolute_url }}';
+      this.page.identifier = '{{ page.url | absolute_url }}';
+    };
+    (function() {
+      var d = document, s = d.createElement('script');
+      s.src = 'https://{{ site.disqus.shortname }}.disqus.com/embed.js';
+      s.setAttribute('data-timestamp', +new Date());
+      (d.head || d.body).appendChild(s);
     })();
   </script>
   <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript" rel="nofollow">comments powered by Disqus.</a></noscript>

@@ -1,6 +1,11 @@
 {% if page.comments != false and jekyll.environment == "production" %}
 
   <div id="disqus_thread"></div>
+  <!-- Temporary style to trick Disqus auto theme detection into choosing the correct scheme -->
+  <style id="disqus-hack">
+    /* Any color outside #000000‒#787878 range forces dark scheme; we use mid-grey */
+    #disqus_thread { color:#888888 !important; }
+  </style>
   <script>
     var disqus_config = function () {
       this.page.url = '{{ page.url | absolute_url }}';
@@ -14,6 +19,20 @@
       s.src = 'https://{{ site.disqus.shortname }}.disqus.com/embed.js';
       s.setAttribute('data-tismestamp', +new Date());
       (d.head || d.body).appendChild(s);
+    })();
+
+    /* Remove the temporary colour override once the iframe has been injected */
+    (function(){
+      var target = document.getElementById('disqus_thread');
+      if(!target) return;
+      var obs = new MutationObserver(function(muts,observer){
+        if (target.querySelector('iframe')) {
+          var hack = document.getElementById('disqus-hack');
+          if (hack) hack.parentNode.removeChild(hack);
+          observer.disconnect();
+        }
+      });
+      obs.observe(target, { childList:true });
     })();
   </script>
   <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript" rel="nofollow">comments powered by Disqus.</a></noscript>

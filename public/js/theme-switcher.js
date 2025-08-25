@@ -66,14 +66,47 @@
     // Reload Disqus to pick up theme changes
     reloadDisqus() {
       if (window.DISQUS) {
-        DISQUS.reset({
-          reload: true,
-          config: function () {
-            // Keep the same identifier and URL
-            this.page.identifier = window.disqus_identifier || window.location.pathname;
-            this.page.url = window.disqus_url || window.location.href;
+        // Add a small delay for mobile to ensure proper timing
+        const isMobile = /Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent);
+        const delay = isMobile ? 100 : 0;
+        
+        setTimeout(() => {
+          try {
+            DISQUS.reset({
+              reload: true,
+              config: function () {
+                // Keep the same identifier and URL
+                this.page.identifier = window.disqus_identifier || window.location.pathname;
+                this.page.url = window.disqus_url || window.location.href;
+              }
+            });
+          } catch (error) {
+            console.warn('Disqus reload failed:', error);
+            // Fallback: try to force reload by removing and re-adding the script
+            this.fallbackDisqusReload();
           }
-        });
+        }, delay);
+      }
+    }
+
+    // Fallback method for mobile devices
+    fallbackDisqusReload() {
+      try {
+        // Remove existing Disqus iframe
+        const disqusThread = document.getElementById('disqus_thread');
+        if (disqusThread) {
+          disqusThread.innerHTML = '';
+        }
+        
+        // Re-initialize Disqus
+        if (window.disqus_shortname) {
+          const script = document.createElement('script');
+          script.src = 'https://' + window.disqus_shortname + '.disqus.com/embed.js';
+          script.setAttribute('data-timestamp', +new Date());
+          (document.head || document.body).appendChild(script);
+        }
+      } catch (error) {
+        console.warn('Fallback Disqus reload also failed:', error);
       }
     }
 

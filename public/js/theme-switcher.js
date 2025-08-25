@@ -68,6 +68,13 @@
       document.documentElement.setAttribute('data-theme', theme);
       this.currentTheme = theme;
       this.storeTheme(theme);
+
+      // Notify other scripts (e.g., Disqus embed) that theme has changed
+      try {
+        window.dispatchEvent(new CustomEvent('themeChanged', { detail: { theme } }));
+      } catch(e) {
+        console.warn('Unable to dispatch themeChanged event', e);
+      }
       
       // Update meta theme-color for mobile browsers
       this.updateMetaThemeColor(theme);

@@ -21,6 +21,13 @@
       (d.head || d.body).appendChild(s);
     })();
 
+    // Reload Disqus dynamically when theme changes
+    window.addEventListener('themeChanged', function(e) {
+      if (window.DISQUS && typeof window.DISQUS.reset === 'function') {
+        window.DISQUS.reset({ reload: true });
+      }
+    });
+
     /* Remove the temporary colour override once the iframe has been injected */
     (function(){
       var target = document.getElementById('disqus_thread');

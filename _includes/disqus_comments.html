@@ -24,7 +24,15 @@
     // Reload Disqus dynamically when theme changes
     window.addEventListener('themeChanged', function(e) {
       if (window.DISQUS && typeof window.DISQUS.reset === 'function') {
-        window.DISQUS.reset({ reload: true });
+        var newTheme = (e && e.detail && e.detail.theme) || (document.documentElement.getAttribute('data-theme') === 'light' ? 'light' : 'dark');
+        window.DISQUS.reset({
+          reload: true,
+          config: function () {
+            this.page.url = window.location.href;
+            this.page.identifier = window.location.pathname;
+            this.page.theme = newTheme;
+          }
+        });
       }
     });
 

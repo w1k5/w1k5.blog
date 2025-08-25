@@ -7,7 +7,7 @@
       this.page.identifier = '{{ page.url | absolute_url }}';
       var docTheme = (document.documentElement.getAttribute('data-theme') || 'dark').toLowerCase();
       // Disqus expects the theme to be set via `this.theme`.
-      this.theme = docTheme === 'light' ? 'light' : 'dark';
+      this.page.theme = docTheme === 'light' ? 'light' : 'dark';
     };
     (function() {
       var d = document, s = d.createElement('script');

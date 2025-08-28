@@ -21,10 +21,6 @@ Heh, look at me. I’m sounding like some self-help coach. Ridiculous. I shouldn
 
 I remember being in church today and imagining myself with my kid, getting all sappy and weepy after they do something wonderful. They sit in my lap and ask why I’m crying, and I’ll just say, “You’re amazing, and I love you, so much.” And they’ll hug me and be like, “I know, I know.” Sigh.
 
-Also, do you remember that feeling when you see a really good-looking person walking by, and they’re so hot you just want to run up, hug them, and tell them they’re wonderful? Yeah, you probably do. I guess I just want you to remember what it’s like to be me. You can barely remember what happened a week ago, so I doubt you’ll remember what it’s like to be me now.
-
-Thank God for my iPad. It helps me get through the day, remember everything, and do homework when I’m not home.
-
 I still wish someone would talk to me. I’m at the park, sitting on a bench, just typing away. I wonder if anyone ever wonders what I’m typing. But who cares? They think they’re so fucking cool. I hate them.
 
 As always, I am a ball of love with a tiny core of hate. But I still wish one of them would talk to me. I think that’s sad. I’m a sad person. I wish someone could say hi, compliment me, or just spark a conversation. Maybe I’m intimidating. I don’t know. I hate people who stay in their designated social cliques.

@@ -2,7 +2,7 @@
 layout: post
 title: "Journal Entry: Hope, Doom, and High School"
 date: 2014-04-28 14:27:02 -0500
-subtitle: "Reflections from a tired teen trying to make sense of everything"
+subtitle: "Reflections from a tired girl trying to make sense of everything"
 categories: "contact"
 tags: [teen life, high school struggles, teenage angst, personal reflection, journaling, self-discovery, hope and motivation, school stress, social anxiety, adolescent thoughts, emotional writing, introspection, teenage identity, friendship, participation struggles]
 comments: true

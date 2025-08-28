@@ -2,7 +2,7 @@
 layout: post
 title: "Journal Entry: Joy, Sadness, and Everything In Between"
 date: 2015-08-08 14:27:02 -0500
-subtitle: "Musings of an unsure teen trying to find connection"
+subtitle: "An unsure teen trying to find connection"
 categories: "contact"
 tags: [teen emotions, teenage reflections, personal journaling, adolescent thoughts, friendship struggles, Arctic Monkeys, self-discovery, emotional writing, happiness and sadness, introspection, teen life, coping with stress, teenage identity, music and emotions]
 comments: false

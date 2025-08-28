@@ -7,7 +7,7 @@ categories: "contact"
 tags: [teen life, high school struggles, teenage angst, personal reflection, journaling, self-discovery, hope and motivation, school stress, social anxiety, adolescent thoughts, emotional writing, introspection, teenage identity, friendship, participation struggles]
 comments: true
 ---
-Jesus fucking Christ, I'm tired. I constantly feel like I'm doing so much work and barely getting any results.<!-- more -->
+I constantly feel like I'm doing so much work and barely getting any results.<!-- more -->
 
 The most notable instance recently was when we got our report cards back on Friday. Or was it Thursday? Oh, I don't know. It’s not like it matters. My average went a little down this marking period. What a tragedy, I know. Less than half a point. Olivia’s went up to a 97. I’m dissatisfied with my average.
 

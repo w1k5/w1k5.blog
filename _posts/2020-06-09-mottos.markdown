@@ -42,4 +42,5 @@ I’m pretty unreligious. But without a religion, one is left susceptible to the
 <li>“Patience is a virtue.”</li>
 <li>“You can't help somebody who doesn't want to help themselves.”</li>
 <li>“When the going gets tough, the tough get going.”</li>
+<li>“Variety is the spice of life.”</li>
 </ul>

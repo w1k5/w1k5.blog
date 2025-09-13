@@ -1,0 +1,23 @@
+---
+layout: post
+title: "Systems of Faith"
+subtitle: Engineering, labor, and the pursuit of order in a volatile world
+date: 2025-09-13 03:46:02 -0500
+categories: "self-care"
+tags: [trust,systems,engineering,determinism,chaos,order,faith,savior_complex,boundaries,energy,solitude,collaboration,finance,wealth,labor,value,capital,complexity,control,volatility,technology,routine,structure,philosophy]
+comments: true
+---
+
+Work, at its core, is about trust – not just in people, but in systems, in process, in the possibility of order itself. Developers and surgeons share this: they act with the faith that precision, discipline, and judgment can turn uncertainty into stability. But that trust (in ourselves, in our hardware, in our colleagues, friends) is never boundless. A savior complex can drive us to achieve, yet it can just as easily consume us. I think often about where to draw that line – about what deserves faith, and what drains it. Even as someone who is generally open, I’ve learned that there are always edges, places where trust runs out: money, time, energy.<!-- more -->
+
+That truth shows up in how I spend my own time. In the past, I have too often poured energy into people who are bottomless vessels, draining without return. In contrast, physical exercise or the incremental grind of improving code feels satisfying because it’s bounded. There is an endpoint, a finish line, a sense of progress. Human demands are infinite; systems, at least, can be finished.
+
+The same pattern shapes my social life. I’d like to be more social, but crowds snap my patience in seconds. Trying to force it feels like shoving a square peg into a round hole. I’ve come to accept that I am, in some essential way, a solitary creature. Whether it’s nature, nurture, or the residue of experience, I don’t enjoy team sports or board games. I prefer to play by my own rules, free from commentary or correction. Solitude feels more honest, even if at times it veers toward alienation. (Sartre’s line – “hell is other people” – lands uncomfortably close to home.)
+
+And yet, paradoxically, I love my job. I love its routine, its consistency, and the built-in collaboration. After years of schooling that rewarded solitary effort, stepping into a world where collaboration was expected felt like a relief. Left alone with my thoughts, I rarely felt productive; work gave those thoughts structure and direction. The pandemic only reinforced this, intensifying my sense of isolation and pushing me to externalize more through writing.
+
+Life is about labor. That may sound Marxist, and maybe in some regard it is, though not in a way that makes me want to claim the label; I’m not enough of an insurgent for that. My fixation with wealth has less to do with what it can buy and more with the mechanics of how capital is accumulated– how timing, knowledge, and craft can be transformed into value. Working in finance sharpens that awareness. I like understanding the drivers of my industry, and when asked about production and the behavior of our systems, I want my knowledge to be broad and grounded. What interests me about money isn’t luxury but the alchemy of labor (intellectual, technical, collaborative) turning into something the world deems valuable.
+
+Part of why I thrive at work is because I love engineering itself. It offers both control and faith – the confidence that if we approach complexity carefully, step by step, it will eventually resolve into clarity. But not all engineering satisfies in the same way. Front-end work often feels mechanical, with limited paths and shallow tradeoffs, frameworks collapsing into sameness. There’s little nuance, little space for judgment. By contrast, working closer to the metal has teeth: problems are harder, the stakes are higher, and the thinking required feels alive.
+
+At its best, engineering is an act of shaping order from volatility. Physics reminds us of hard boundaries: the speed of light, the instability of a single bit. Yet within those limits, error and chaos are constant companions. To build systems is to wrestle with that fragility, to manufacture determinism where none naturally exists. Every program is provisional, every solution subject to failure, and yet we return each day to build anyway. That persistence is its own philosophy: a belief that structure, value, even trust, can be coaxed out of uncertainty not because the world guarantees it, but because we labor to make it so.

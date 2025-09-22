@@ -1,16 +1,16 @@
 ---
-layout: "post"
-title: "Dziennik: Nadzieja, Zagłada i Liceum"
-date: "2014-04-28 14:27:02 -0500"
-subtitle: "Refleksje zmęczonej dziewczyny próbującej zrozumieć wszystko"
-categories: "contact"
-tags: "[teen life, high school struggles, teenage angst, personal reflection, journaling, self-discovery, hope and motivation, school stress, social anxiety, adolescent thoughts, emotional writing, introspection, teenage identity, friendship, participation struggles]"
-comments: "true"
-lang: "pl"
-original_post: "/2014-04-28 14:27:02 -0500-journal-entry-hope-doom-and-high-school"
+layout: post
+title: Dziennik: Nadzieja, Zagłada i Liceum
+subtitle: Refleksje zmęczonej dziewczyny próbującej zrozumieć wszystko
+date: 2014-04-28 14:27:02 -0500
+categories: contact
+tags: ["[teen life","high school struggles","teenage angst","personal reflection","journaling","self-discovery","hope and motivation","school stress","social anxiety","adolescent thoughts","emotional writing","introspection","teenage identity","friendship","participation struggles]"]
+comments: true
+lang: pl
+original_post: /high-school
 ---
 
-> *Ten post został przetłumaczony z języka angielskiego. [Przeczytaj oryginał](/2014-04-28 14:27:02 -0500-journal-entry-hope-doom-and-high-school)*
+
 
 Ciągle czuję, że robię tak dużo, a prawie nie widzę żadnych rezultatów.<!-- more -->
 
@@ -29,3 +29,11 @@ Pamiętam, jak byłam dziś w kościele i wyobrażałam sobie siebie z dzieckiem
 Wciąż chciałabym, żeby ktoś ze mną porozmawiał. Jestem w parku, siedzę na ławce, po prostu piszę. Zastanawiam się, czy ktoś kiedykolwiek zastanawia się, co piszę. Ale kogo to obchodzi? Myślą, że są tacy cholernie cool. Nienawidzę ich.
 
 Jak zawsze, jestem kulą miłości z małym rdzeniem nienawiści. Ale wciąż chciałabym, żeby ktoś z nich ze mną porozmawiał. Myślę, że to smutne. Jestem smutną osobą. Chciałabym, żeby ktoś mógł powiedzieć cześć, skomplementować mnie, albo po prostu zacząć rozmowę. Może jestem zastraszająca. Nie wiem. Nienawidzę ludzi, którzy trzymają się swoich wyznaczonych społecznych klik.
+
+---
+
+*Ten post został przetłumaczony z języka angielskiego. [Przeczytaj oryginał]({{ page.original_post }})*
+
+---
+
+*Ten post został przetłumaczony z języka angielskiego. [Przeczytaj oryginał]({{ page.original_post }})*

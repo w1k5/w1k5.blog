@@ -1,16 +1,16 @@
 ---
-layout: "post"
-subtitle: "Modele, Moralność i Wzorce do Naśladowania"
-title: "Kocham Barbie"
-date: "2020-08-02 11:27:02 -0500"
-categories: "self-care"
-tags: "[barbie, fashion, children, femininity]"
-comments: "true"
-lang: "pl"
-original_post: "/2020-08-02 11:27:02 -0500-i-lt3-barbie"
+layout: post
+title: Kocham Barbie
+subtitle: Modele, Moralność i Wzorce do Naśladowania
+date: 2020-08-02 11:27:02 -0500
+categories: self-care
+tags: ["[barbie","fashion","children","femininity]"]
+comments: true
+lang: pl
+original_post: /barbie-girl
 ---
 
-> *Ten post został przetłumaczony z języka angielskiego. [Przeczytaj oryginał](/2020-08-02 11:27:02 -0500-i-lt3-barbie)*
+
 
 Naprawdę uwielbiałam Barbie jako dziecko i nie jestem pewna, czy to zaskakujące. Jest piękna, miła i zawsze uczyła, że możesz być kimkolwiek chcesz. Chociaż nie uważam, że to uniwersalne stwierdzenie, myślę, że często jest prawdziwe i jest to zdrowe przesłanie dla młodych dziewcząt. <a href="https://www.psychologytoday.com/us/blog/the-squeaky-wheel/201101/how-attain-real-personal-empowerment" target="_blank">Chcesz tego? Zdobądź to. Po prostu to zrób. Bądź dobra!</a> To niezwykle potężne, ale proste przesłanie, zwłaszcza pochodzące od obrazu szczytowej kobiecości. Nawet jeśli sama nie interesujesz się lalkami, weź pod uwagę, że to są zabawki, którymi nasze córki statystycznie będą się bawić.<!-- more -->
 
@@ -36,3 +36,11 @@ Publiczność uwielbiała linię Bratz ze względu na <a href="https://medium.co
 Zawsze uważałam, że długa historia i wszechstronność Barbie oraz jej zainteresowań to główny atut lalki: pod względem aktywności i hobby, mogła być kimkolwiek, naprawdę, bez bycia <a href="https://tvtropes.org/pmwiki/pmwiki.php/Characters/Bratz" target="_blank">Typem</a> i skupiania się na czymś więcej niż tylko na wychodzeniu i byciu stylowym (chociaż niektórzy zaczynają wierzyć, że wartości Barbie się zmieniają; osobiście uważam, że jej przeszłość zawsze będzie z nią, i to właśnie trzyma ją blisko mojego serca). Chociaż wychodzenie i bycie stylowym to przyznaję, bardzo zabawne zajęcia, chciałabym myśleć, że powinniśmy wychowywać nasze dziewczyny z wzorami do naśladowania, które interesują się czymś więcej niż tylko tym. Również, szczerze mówiąc, filmy Bratz nie są tak dobrze wyprodukowane jak te Barbie, biorąc pod uwagę gorsze CGI i moją miłość do fantastyki i eskapizmu. Ale to tylko ja. Może te przerośnięte głowy są teraz dla mnie odpychające. Ale z drugiej strony, niedawno obejrzałam dwa filmy Bratz z rzędu: czasami nie mogę się powstrzymać! I szczerze, lubiłam te filmy jako dziecko, nie mogę kłamać. (<a href="https://www.youtube.com/watch?v=AZd_HKfel0Q&t=60s" target="_blank">Bratz The Video: Starrin' & Stylin'</a> to mój ulubiony, nawiasem mówiąc.)
 
 <p style="font-family: gentle;">Ale z drugiej strony, to tylko rzeczy, które nam się spr
+
+---
+
+*Ten post został przetłumaczony z języka angielskiego. [Przeczytaj oryginał]({{ page.original_post }})*
+
+---
+
+*Ten post został przetłumaczony z języka angielskiego. [Przeczytaj oryginał]({{ page.original_post }})*

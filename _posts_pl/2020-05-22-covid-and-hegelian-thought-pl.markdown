@@ -1,15 +1,15 @@
 ---
-layout: "post"
-subtitle: "Mój egzamin końcowy z PSCI 203: Dialog"
-title: "COVID-19 i myśl heglistyczna, chyba"
-date: "2020-05-22 22:27:02 -0500"
-categories: "politics"
-comments: "true"
-lang: "pl"
-original_post: "/2020-05-22 22:27:02 -0500-covid-19-hegelian-thought-i-guess"
+layout: post
+title: COVID-19 i myśl heglistyczna, chyba
+subtitle: Mój egzamin końcowy z PSCI 203: Dialog
+date: 2020-05-22 22:27:02 -0500
+categories: politics
+comments: true
+lang: pl
+original_post: /covid-and-hegelian-thought
 ---
 
-> *Ten post został przetłumaczony z języka angielskiego. [Przeczytaj oryginał](/2020-05-22 22:27:02 -0500-covid-19-hegelian-thought-i-guess)*
+
 
 Na mój <a href="https://catalog.williams.edu/psci/detail/?strm=&cn=203&crsid=011923&req_year=0" target="_blank">PSCI 203</a> egzamin końcowy, miałam okazję napisać dialog. Oto zadanie:
 
@@ -106,3 +106,11 @@ CONNOLLEY: Masz fantastyczny styl Jordana Petersona unikania pytań.
 [Wyraźnie WIKS nie radzi sobie zbyt dobrze z temperamentem od czasu izolacji od rówieśników.]
 
 WIKS: Przyznaję się do wartości waszych prac! Słuchaj, rozbierając wszystkie wasze pomysły, zawsze można je sprowadzić do stałej mentalności my kontra oni, nieustannie w konflikcie i przekazywanej z pokolenia na pokolenie. Macie różne pomysły na to, jak możemy u
+
+---
+
+*Ten post został przetłumaczony z języka angielskiego. [Przeczytaj oryginał]({{ page.original_post }})*
+
+---
+
+*Ten post został przetłumaczony z języka angielskiego. [Przeczytaj oryginał]({{ page.original_post }})*

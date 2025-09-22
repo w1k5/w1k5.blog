@@ -1,14 +1,14 @@
 ---
-layout: "post"
-title: "Zadurzenie"
-date: "2019-11-24 14:15:33 -0500"
-categories: "sweet-lovin"
-comments: "true"
-lang: "pl"
-original_post: "/2019-11-24 14:15:33 -0500-a-crush"
+layout: post
+title: Zadurzenie
+date: 2019-11-24 14:15:33 -0500
+categories: sweet-lovin
+comments: true
+lang: pl
+original_post: /a-crush
 ---
 
-> *Ten post został przetłumaczony z języka angielskiego. [Przeczytaj oryginał](/2019-11-24 14:15:33 -0500-a-crush)*
+
 
 Jestem nieśmiała. No dobrze, może nie wtedy, gdy pada proste pytanie: „Chcesz wrócić ze mną do mojego pokoju?” o północy na Hoxsey, ale jeśli chodzi o prawdziwą bliskość z kimś, kogo naprawdę lubię, to już walka. Kocham moją najlepszą przyjaciółkę, ponieważ ona, czy tego chcę, czy nie, zawsze popycha mnie do zaakceptowania wewnętrznego emocjonalnego chaosu, który można przeżyć, mając zauroczenie.
 
@@ -23,3 +23,11 @@ Położyła swoje rzeczy naprzeciwko [REDACTED] i przez chwilę z nim żartował
 13:28-- Powiadomienie z WhatsApp od mojej najlepszej przyjaciółki: „Jesteś taka zdenerwowana”
 
 O małych płomieniach w Williams: jesteśmy tu tylko na cztery lata. Zbieramy się tutaj z całych Stanów Zjednoczonych i niepraktyczne jest oczekiwanie czegoś trwałego. Ale jest zimno. Potrzebuję małych płomyków. Śnieg pada za oknem Sawyer. On wciąż siedzi naprzeciwko mnie.
+
+---
+
+*Ten post został przetłumaczony z języka angielskiego. [Przeczytaj oryginał]({{ page.original_post }})*
+
+---
+
+*Ten post został przetłumaczony z języka angielskiego. [Przeczytaj oryginał]({{ page.original_post }})*

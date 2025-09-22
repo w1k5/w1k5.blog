@@ -1,16 +1,16 @@
 ---
-layout: "post"
-title: "Koszmar na ulicy Parkowej"
-date: "2021-10-30 00:27:02 -0500"
-subtitle: "Moje przemyślenia na temat kultowego horroru z 1984 roku"
-tags: "[movies, films, horror, retro, review, halloween]"
-comments: "true"
-categories: "self-care"
-lang: "pl"
-original_post: "/2021-10-30 00:27:02 -0500-nightmare-on-park-street"
+layout: post
+title: Koszmar na ulicy Parkowej
+subtitle: Moje przemyślenia na temat kultowego horroru z 1984 roku
+date: 2021-10-30 00:27:02 -0500
+categories: self-care
+tags: ["[movies","films","horror","retro","review","halloween]"]
+comments: true
+lang: pl
+original_post: /nightmare-on-park-street
 ---
 
-> *Ten post został przetłumaczony z języka angielskiego. [Przeczytaj oryginał](/2021-10-30 00:27:02 -0500-nightmare-on-park-street)*
+
 
 Lubię Nancy z <a href="https://www.imdb.com/title/tt0087800/" target="_blank">Koszmaru z ulicy Wiązów (1984)</a>. Jest słodka, a jednocześnie silna; charakteryzuje ją odwaga. Myślę, że jej rozwój postaci rezonuje z moim. Freddy Kruger nawiedzający sny jej i jej przyjaciół przypomina mi, jak ostatnio zmagam się ze snem, głównie z powodu codziennych lęków związanych z byciem studentką i typowych błądzących myśli młodej kobiety, która spędza zbyt wiele czasu sama.
 <!-- more -->
@@ -35,3 +35,11 @@ Podczas dramatycznego pościgu, Nancy podpaliła Freddy’ego w piwnicy. Wydawa�
 Zastanawiam się, dlaczego matka nigdy nie dostała imienia. To film o niej, naprawdę, a niekoniecznie o Nancy. To ona jest katalizatorem tego wszystkiego; i pozostaję z pytaniem, dlaczego ojciec Nancy nigdy naprawdę nie poniósł konsekwencji za popełnienie błędu w dokumentacji, pozwalając Freddy’emu uciec lata temu. Może właśnie o to chodzi w filmie: katalogowanie następstw źle ukierunkowanej wściekłości w wyniku braku sprawiedliwości. Biedna Nancy.
 
 <iframe src="https://open.spotify.com/embed/track/3acL1MPwxFQ3ACzDrSFGzT?theme=0" width="100%" height="80" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
+
+---
+
+*Ten post został przetłumaczony z języka angielskiego. [Przeczytaj oryginał]({{ page.original_post }})*
+
+---
+
+*Ten post został przetłumaczony z języka angielskiego. [Przeczytaj oryginał]({{ page.original_post }})*

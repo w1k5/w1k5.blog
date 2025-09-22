@@ -1,15 +1,15 @@
 ---
-layout: "post"
-title: "O protestach i przemocy"
-date: "2020-06-02 11:27:02 -0500"
-categories: "politics"
-tags: "[race, riot, media, journalism, george floyd, violence, suffering, covid-19, coronavirus]"
-comments: "true"
-lang: "pl"
-original_post: "/2020-06-02 11:27:02 -0500-on-protests-and-violence"
+layout: post
+title: O protestach i przemocy
+date: 2020-06-02 11:27:02 -0500
+categories: politics
+tags: ["[race","riot","media","journalism","george floyd","violence","suffering","covid-19","coronavirus]"]
+comments: true
+lang: pl
+original_post: /violence-and-media
 ---
 
-> *Ten post został przetłumaczony z języka angielskiego. [Przeczytaj oryginał](/2020-06-02 11:27:02 -0500-on-protests-and-violence)*
+
 
 Życie zostało skrócone. Teraz pozostajemy w świecie całkowicie ukształtowanym przez media. Kto wie, co naprawdę dzieje się tam na zewnątrz, jeśli nawet nie można wyjść, żeby to zobaczyć? Wydawało się, że kiedyś utrzymywaliśmy pewien dystans w widoku prawdziwego świata, ale teraz, gdy nie możemy wyjść na zewnątrz, albo decydujemy się całkowicie odciąć, albo zanurzyć się w wiadomościach o świecie zewnętrznym.
 
@@ -26,3 +26,11 @@ Może większość z tego to bzdury i jednorazowe przypadki. Ale nagrania są...
 Szczerze myślę, że protestom brakowało struktury i przywództwa, które zapewniłyby jasny cel końcowy dla protestów, zapobiegając zamieszaniu ich pierwotnych intencji. Nawet jeśli miało to być czysto okazanie solidarności dla śmierci Floyda i sprzeciwu wobec amerykańskiej brutalności policji wobec Afroamerykanów, autorytatywna postać, myślę, byłaby pomocna w kontrolowaniu wizerunku publicznego i opanowaniu mas, gdy zaczęły wymykać się spod kontroli. W odniesieniu do zamieszek w Los Angeles w 1992 roku, aktywista <a href="https://www.nytimes.com/1992/05/03/us/riots-los-angeles-new-york-region-despite-scattered-violence-most-protests-are.html" target="_blank">Al Sharpton</a> zapewnił, że protesty odbywające się w Nowym Jorku w tym samym czasie nie przerodziły się w podobny poziom przemocy. Teraz przemawiał podczas protestów na Foley Square, nalegając, że przemoc ze strony protestujących musi być ściśle unikać, aby zapobiec zanieczyszczeniu się protestujących brutalnością zbyt podobną do tej, którą protestują. Polityka to dużo marketingu, czysto i prosto, zwłaszcza gdy weźmiemy pod uwagę ilość <a href="https://www.forbes.com/sites/jonathanberr/2018/11/02/media-companies-profit-handsomely-from-the-political-ads-voters-despise/#a27c89b38284" target="_blank">pieniędzy</a> włożonych w kampanie polityczne. Aby sprzedać swój produkt (lub pomysł), powinien być <a href="https://uxmag.com/articles/convenience" target="_blank">dostępny</a> dla klienta lub publiczności, i to powinno być brane pod uwagę w kontekście każdego protestu, jeśli ma być traktowany poważnie i prowokować realne zmiany strukturalne. Jak niefortunne by to nie było, taka jest natura rynku idei.
 
 Lubię zdrową dawkę przemocy: od futbolu po Grand Theft Auto, ma ona niezwykle terapeutyczny urok. Jednak jest zawarta w jednym kontekście - w momencie, gdy gra się kończy, zawieszenie niewiary zostaje zwolnione i wracamy do życia w względnym spokoju, jeśli mamy szczęście. W życiu i w polityce zawsze myślałam, że przemoc jedynie podsyca <a href="https://www.nationalreview.com/2020/05/george-floyd-protests-riots-are-their-own-form-of-oppression/" target="_blank">więcej przemocy</a>. Kiedy jest zaangażowana w prawdziwe życie, z udziałem prawdziwych ludzi, osobiste przestaje być polityczne na moment i staje się naprawdę, czysto osobiste, i o wiele trudniejsze do wybaczenia, ponieważ jeśli istnieje jedna pewna prawda między nami wszystkimi, myślę, że jest to, że nie ma nic bardziej <a href="https://bigthink.com/personal-growth/jordan-peterson-suffering?rebelltitem=1#rebelltitem1" target="_blank">wrodzonego</a> w ludzkim doświadczeniu niż cierpienie i ból. Z pewnością jest jeszcze wiele do powiedzenia na temat tych zamieszek, ale to wystarczy na jeden post.
+
+---
+
+*Ten post został przetłumaczony z języka angielskiego. [Przeczytaj oryginał]({{ page.original_post }})*
+
+---
+
+*Ten post został przetłumaczony z języka angielskiego. [Przeczytaj oryginał]({{ page.original_post }})*

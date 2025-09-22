@@ -1,16 +1,16 @@
 ---
-layout: "post"
-subtitle: "Strumień świadomości o pragnieniu, polityce i seksie"
-title: "O samokontroli"
-date: "2020-08-20 11:27:02 -0500"
-categories: "sweet-lovin"
-tags: "[caving, love, relationships, femininity, desire]"
-comments: "true"
-lang: "pl"
-original_post: "/2020-08-20 11:27:02 -0500-on-self-control"
+layout: post
+title: O samokontroli
+subtitle: Strumień świadomości o pragnieniu, polityce i seksie
+date: 2020-08-20 11:27:02 -0500
+categories: sweet-lovin
+tags: ["[caving","love","relationships","femininity","desire]"]
+comments: true
+lang: pl
+original_post: /on-self-control
 ---
 
-> *Ten post został przetłumaczony z języka angielskiego. [Przeczytaj oryginał](/2020-08-20 11:27:02 -0500-on-self-control)*
+
 
 Życie to potrzeby, pragnienia i rzeczy, które konfliktujemy między tymi etykietami. <a href="https://en.wikipedia.org/wiki/Suffering#Religion" target="_blank">Wiele religii</a> twierdzi, że życie to cierpienie, a <a href="https://en.wikipedia.org/wiki/Four_Noble_Truths" target="_blank">buddyzm</a> precyzuje, że u jego podstaw leży pragnienie. Jestem stosunkowo niereligijna, ale muszę się zgodzić z tym stwierdzeniem. Życie to uleganie pragnieniom, czy to powietrza, jedzenia, seksu, czy snu — to tylko kwestia, które z nich wybierzemy.
 
@@ -33,3 +33,11 @@ Dwie z moich ulubionych rzeczy to polityka i seks. Po wielu przemyśleniach zdaj
 <center><p style="margin: 0.5rem;"><iframe src="https://open.spotify.com/embed/track/4ESWJepzBtY2lR9oZDYVaP" width="300" height="80" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe></p></center>
 </details>
 </p>
+
+---
+
+*Ten post został przetłumaczony z języka angielskiego. [Przeczytaj oryginał]({{ page.original_post }})*
+
+---
+
+*Ten post został przetłumaczony z języka angielskiego. [Przeczytaj oryginał]({{ page.original_post }})*

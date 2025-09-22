@@ -1,17 +1,17 @@
 ---
-layout: "post"
-title: "Wpis do Dziennika: Egzaminy Śródroczne"
-date: "2020-10-13 14:27:02 -0500"
-subtitle: "Jestem teraz dość smutna, ale w końcu się pozbieram. Zawsze to robię... Nie mamy przecież innego wyboru, prawda?"
-categories: "contact"
-tags: "[journal, entry, diary, school, college]"
-image: "/images/thumbnails/couldbeworse.png"
-comments: "true"
-lang: "pl"
-original_post: "/2020-10-13 14:27:02 -0500-journal-entry-midterms"
+layout: post
+title: Wpis do Dziennika: Egzaminy Śródroczne
+subtitle: Jestem teraz dość smutna, ale w końcu się pozbieram. Zawsze to robię... Nie mamy przecież innego wyboru, prawda?
+date: 2020-10-13 14:27:02 -0500
+categories: contact
+tags: ["[journal","entry","diary","school","college]"]
+comments: true
+lang: pl
+original_post: /journal-entry
+image: /images/thumbnails/couldbeworse.png
 ---
 
-> *Ten post został przetłumaczony z języka angielskiego. [Przeczytaj oryginał](/2020-10-13 14:27:02 -0500-journal-entry-midterms)*
+
 
 <!-- more -->Tęsknię za tym, co prawdziwe i namacalne. Czuję się, jakbym tonęła w nicości. W zasadzie wszystko, co teraz robię, to odrabianie prac domowych i przeglądanie aplikacji randkowych z nadzieją, że spotkam kogoś, kto będzie ze mną rezonował i wydobędzie ze mnie to, co najlepsze. Już nie można nikogo spotkać gdziekolwiek, prawda? Uwielbiam <a href="https://knowyourmeme.com/memes/gamer-joker-gamers-rise-up-we-live-in-a-society" target="_blank">mury stawiane między ludźmi</a> przez strach. <a href="https://youtu.be/nvesu6oK4rU" target="_blank">To takie praktyczne i zdrowe</a>. Przyjaciele, których mam w mieście, mieszkają daleko i są zajęci swoimi sprawami. Spotykamy się, kiedy jest to wygodne: ale niestety, rzadko kiedy jest.
 
@@ -28,3 +28,11 @@ Silnie negatywne emocje przynoszą pieniądze, trzymają cię przyklejonym do wy
 Chciałam zrobić eseje wideo w pewnym momencie latem, biorąc pod uwagę wygodę i dostępność audio, ale to niesamowity poziom wysiłku, a szczerze mówiąc, po prostu nie obchodzi mnie teraz wiele rzeczy. Jestem niezainspirowana. Lato się skończyło. Muszę dokończyć ten zestaw zadań.
 
 <img src="/images/couldbeworse.png" style="margin: auto;">
+
+---
+
+*Ten post został przetłumaczony z języka angielskiego. [Przeczytaj oryginał]({{ page.original_post }})*
+
+---
+
+*Ten post został przetłumaczony z języka angielskiego. [Przeczytaj oryginał]({{ page.original_post }})*

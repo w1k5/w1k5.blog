@@ -1,16 +1,16 @@
 ---
-layout: "post"
-title: "Labirynt miłości"
-subtitle: "Odwrotna inżynieria randkowania jako gra w pachinko"
-date: "2023-01-23 16:46:02 -0500"
-categories: "sweet-lovin"
-tags: "[beauty, computer science, math, probability, dating, love]"
-comments: "true"
-lang: "pl"
-original_post: "/2023-01-23 16:46:02 -0500-loves-labyrinth"
+layout: post
+title: Labirynt miłości
+subtitle: Odwrotna inżynieria randkowania jako gra w pachinko
+date: 2023-01-23 16:46:02 -0500
+categories: sweet-lovin
+tags: ["[beauty","computer science","math","probability","dating","love]"]
+comments: true
+lang: pl
+original_post: /pachinko
 ---
 
-> *Ten post został przetłumaczony z języka angielskiego. [Przeczytaj oryginał](/2023-01-23 16:46:02 -0500-loves-labyrinth)*
+
 
 W języku angielskim istnieje różnica między "complicated" a "complex"; rzeczy skomplikowane niosą ze sobą ciężar trudności, podczas gdy złożone niekoniecznie. Co ciekawe, w świecie inżynierii jest odwrotnie. Skomplikowane systemy z trudnymi problemami są przewidywalne, podczas gdy złożone systemy z złożonymi problemami nie są. Zrozumienie romantycznych związków i tego, jak się formują, jest zarówno skomplikowane, jak i złożone, w każdym znaczeniu tego słowa. Myślę, że ten proces można porównać do tworzenia <a target="_blank" href="https://en.wikipedia.org/wiki/Topic_model">modelu tematycznego</a> – wydobywanie ukrytych tematów i połączeń między jednostkami oraz odkrywanie podstawowej struktury naszych interakcji i emocji.<!-- more -->
 
@@ -23,3 +23,11 @@ Gdy zagłębiamy się w złożoności krajobrazu randkowego, warto rozważyć <a
 Diabeł tkwi w szczegółach, i myślę, że podejście do randkowania z elastyczną precyzją jest korzystne. Przez to rozumiem, że wiedza o tym, czego chcesz i czego potrzebujesz, jest silnym wsparciem w znalezieniu partnera, a nie tylko atrakcyjnej osoby do przypadkowego seksu. Jeśli tego szukasz, więcej mocy dla ciebie. Całkowicie rozumiem ten urok; seks jest zabawny. Jestem jednak w pełni przekonana, że mizoginia wciąż jest obecna w pełnej sile i naprawdę nienawidzę być traktowana wyłącznie jak przedmiot. Oczywiście, lubię się obiektywizować (bo która kobieta nie lubi się stroić i być podziwiana?), ale to powinno być oddzielone od mojej ludzkiej natury. Porównałabym to do <a target="_blank" href="https://en.wikipedia.org/wiki/Suspension_of_disbelief">zawieszenia niewiary</a> podczas oglądania filmu. Ale to nie znaczy, że chcę być traktowana jak przedmiot. Przedmioty nie są dobrymi partnerami. A ja naprawdę doceniłabym posiadanie prawdziwego partnera w zbrodni, z którym czuję się naprawdę w zgodzie. Przechodzimy przez labirynt wyborów, mając nadzieję na zharmonizowanie naszych celów i pragnień z kimś, kto dzieli naszą trajektorię, jednocześnie zmagając się z elementem przypadku – pomyśl o <a target="_blank" href="https://en.wikipedia.org/wiki/Pachinko">Pachinko</a>.
 
 "Nie musisz tego robić," mówi. Wiem, że nie muszę, kochanie. Ale nie zamierzam zostawać na długo, jeśli mi na to nie pozwolisz. Rozważ to, że wyraźnie chcę zostać, skoro robię to w pierwszej kolejności.
+
+---
+
+*Ten post został przetłumaczony z języka angielskiego. [Przeczytaj oryginał]({{ page.original_post }})*
+
+---
+
+*Ten post został przetłumaczony z języka angielskiego. [Przeczytaj oryginał]({{ page.original_post }})*

@@ -1,16 +1,16 @@
 ---
-layout: "post"
-title: "Dziennik: Radość, Smutek i Wszystko Pomiędzy"
-date: "2015-09-08 14:27:02 -0500"
-subtitle: "Niezdecydowana nastolatka szukająca więzi"
-categories: "contact"
-tags: "[teen emotions, teenage reflections, personal journaling, adolescent thoughts, friendship struggles, Arctic Monkeys, self-discovery, emotional writing, happiness and sadness, introspection, teen life, coping with stress, teenage identity, music and emotions]"
-comments: "false"
-lang: "pl"
-original_post: "/2015-09-08 14:27:02 -0500-journal-entry-joy-sadness-and-everything-in-between"
+layout: post
+title: Dziennik: Radość, Smutek i Wszystko Pomiędzy
+subtitle: Niezdecydowana nastolatka szukająca więzi
+date: 2015-09-08 14:27:02 -0500
+categories: contact
+tags: ["[teen emotions","teenage reflections","personal journaling","adolescent thoughts","friendship struggles","Arctic Monkeys","self-discovery","emotional writing","happiness and sadness","introspection","teen life","coping with stress","teenage identity","music and emotions]"]
+comments: false
+lang: pl
+original_post: /uncertainty
 ---
 
-> *Ten post został przetłumaczony z języka angielskiego. [Przeczytaj oryginał](/2015-09-08 14:27:02 -0500-journal-entry-joy-sadness-and-everything-in-between)*
+
 
 Jestem zadowolona. Myślę, że jestem szczęśliwa. Wciąż nie mam nikogo, z kim mogłabym porozmawiać. Chyba po prostu będę dalej pisać do Ciebie.
 
@@ -37,3 +37,11 @@ Zwykle nie okazuję zbyt wiele emocji. Zwykle po prostu bez końca rozprawiam, p
 ---
 
 **SEO Tags (CSV):**
+
+---
+
+*Ten post został przetłumaczony z języka angielskiego. [Przeczytaj oryginał]({{ page.original_post }})*
+
+---
+
+*Ten post został przetłumaczony z języka angielskiego. [Przeczytaj oryginał]({{ page.original_post }})*

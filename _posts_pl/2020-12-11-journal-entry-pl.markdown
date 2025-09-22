@@ -1,16 +1,16 @@
 ---
-layout: "post"
-title: "Wpis do dziennika: Vidya jako sposób na radzenie sobie"
-date: "2020-12-12 14:27:02 -0500"
-subtitle: "To jest do bani."
-tags: "[diary, journal, emotion, feeling, sex, feminism, social media, depressed, depression, covid, coronavirus, quarantine, video games, vidya]"
-comments: "true"
-categories: "contact"
-lang: "pl"
-original_post: "/2020-12-12 14:27:02 -0500-journal-entry-vidya-as-a-cope"
+layout: post
+title: Wpis do dziennika: Vidya jako sposób na radzenie sobie
+subtitle: To jest do bani.
+date: 2020-12-12 14:27:02 -0500
+categories: contact
+tags: ["[diary","journal","emotion","feeling","sex","feminism","social media","depressed","depression","covid","coronavirus","quarantine","video games","vidya]"]
+comments: true
+lang: pl
+original_post: /journal-entry
 ---
 
-> *Ten post został przetłumaczony z języka angielskiego. [Przeczytaj oryginał](/2020-12-12 14:27:02 -0500-journal-entry-vidya-as-a-cope)*
+
 
 Moje wpisy w dzienniku są jak listy do nikogo: mam na myśli, że są w internecie, więc kto wie; ktoś może w końcu przeczytać te bzdury. Chciałabym myśleć, że czytanie tego może być dla kogoś ulgą - sam fakt, że ktoś inny również doświadcza czysto emocjonalnego cierpienia i walki bez żadnego zaprzeczania temu. Mam na myśli, kto przyznaje się do smutku na publicznej platformie? To znaczy, ze mną wszystko w porządku, naprawdę, ale myślę, że wszyscy czasem strasznie się smucimy, prawda? Życie byłoby dobre, tylko chciałabym, żeby na zewnątrz nie było tak zimno i żebym miała dokąd pójść.<!-- more -->
 
@@ -23,3 +23,11 @@ Jestem konwencjonalnie ładna, więc chyba to trochę ironiczne, że chciałabym
 Nienawidzę kwarantanny i nienawidzę wiadomości <del>i nienawidzę życia</del> i jestem po prostu absolutnie nieszczęśliwa. Pewien mężczyzna zapytał mnie: „Jak możesz być tak przygnębiona w wieku 20 lat?”. Cóż, myślę, że większość dwudziestolatków jest przygnębiona, zwłaszcza dziewczyny. Większość z nich otrzymuje stały przepływ społecznej aprobaty bezpośrednio do mózgu za pośrednictwem platform mediów społecznościowych, które manipulują i pośrednio kontrolują ich nastroje, myśli i zachowania, co tymczasowo łagodzi fundamentalny smutek w ich duszach. Przyznaję, że ten smutek jest czasami dodatkowo uśmierzany poprzez zaburzenia odżywiania, nikotynę i bezsensowny seks. Jestem też na okresie, więc to nie pomaga. Cholernie fantastycznie. Czuję, że zbliżają się wahania nastroju, i mogę powiedzieć, że wynikające z tego uczucia nie będą w pełni racjonalne, ale nie mogę się powstrzymać przed poddaniem się im— doświadczenie jest nieco terapeutyczne. Przynajmniej mam swoje pisanie, które pomaga mi ukryć zmagania.
 
 <center><p><img src="https://i.makeagif.com/media/6-27-2015/nI7ecn.gif">To jest <a href="https://borderlands.fandom.com/wiki/Tiny_Tina" target="_blank">Tiny Tina</a>. Czyż nie jest urocza?</p></center>
+
+---
+
+*Ten post został przetłumaczony z języka angielskiego. [Przeczytaj oryginał]({{ page.original_post }})*
+
+---
+
+*Ten post został przetłumaczony z języka angielskiego. [Przeczytaj oryginał]({{ page.original_post }})*

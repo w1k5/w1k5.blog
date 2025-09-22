@@ -1,16 +1,16 @@
 ---
-layout: "post"
-title: "Jak stać się kimś innym, gdzieś indziej"
-subtitle: "(Lista moich ulubionych gier wideo)"
-date: "2020-06-03 11:27:02 -0500"
-categories: "self-care"
-tags: "[video games]"
-comments: "true"
-lang: "pl"
-original_post: "/2020-06-03 11:27:02 -0500-how-to-be-somebody-else-someplace-else"
+layout: post
+title: Jak stać się kimś innym, gdzieś indziej
+subtitle: (Lista moich ulubionych gier wideo)
+date: 2020-06-03 11:27:02 -0500
+categories: self-care
+tags: ["[video games]"]
+comments: true
+lang: pl
+original_post: /video-games-list
 ---
 
-> *Ten post został przetłumaczony z języka angielskiego. [Przeczytaj oryginał](/2020-06-03 11:27:02 -0500-how-to-be-somebody-else-someplace-else)*
+
 
 Lubię eskapizm, który dają gry wideo. Życie jest trudne, a zamiast stawiać czoła moim problemom, mogę je odłożyć na później, zanurzając się w grze. Życie jest pełne gier, ale tutaj mam na myśli gry wideo. Od problemów finansowych, przez odstawienie nikotyny, po problemy sercowe, gry wideo zawsze były dla mnie wsparciem, kiedy potrzebowałam tej sztucznej dawki dopaminy. Kocham gry. Tworzenie i manipulowanie doświadczeniem to prawdziwa sztuka. Kocham sztukę. Oto lista moich pięciu ulubionych gier wideo. Tak, mówię też o historii gier wideo, jeśli się zastanawiałaś.<!-- more -->
 
@@ -21,3 +21,11 @@ Lubię eskapizm, który dają gry wideo. Życie jest trudne, a zamiast stawiać 
 <li><a href="https://store.steampowered.com/app/12110/Grand_Theft_Auto_Vice_City/" style="font-family: gentle; display: initial;" target="_blank">GTA: Vice City</a> Gry z serii Grand Theft Auto były jedną z najbardziej wpływowych serii w całej <a href="https://www.youtube.com/watch?v=bXMUBdqyVAE" target="_blank">historii gier</a>, moim zdaniem. Oficjalna grafika z gry Vice City jest moim tłem i ekranem blokady na wszystkich moich urządzeniach. Uwielbiam ikoniczną, w bikini <a href="{{ base.url }}/images/nonsense/ilovepink.png" target="_blank">dziewczynę z okładki</a>... W każdym razie, połączenie <a href="https://www.youtube.com/watch?v=0y-RkiPhpPY" target="_blank">kontrowersji</a>, innowacji technologicznych i estetycznej dbałości o szczegóły sprawia, że nie dziwi fakt, iż każda gra z tej sagi była dużym sukcesem finansowym dla Rockstar. Grand Theft Auto: Vice City było pierwszym, które wyszło po <a href="https://www.rockstargames.com/gta/demos/gta8.zip" target="_blank">pierwszym</a> przejściu GTA do świata 3D z Grand Theft Auto III, zasadniczo próbą dla nowej funkcji. Po zobaczeniu sukcesu trzeciej gry z serii, Rockstar poszedł na całość, odtwarzając piękną, a jednocześnie satyryczną wersję Miami lat 80. Uwielbiam tę pobłażliwą, absurdalną, hedonistyczną wolność. Z punktu widzenia sprzedaży, następna gra z serii, San Andreas, była obiektywnie bardziej popularna, ale mam słabość do lat 80. i lubię myśleć, że Vice City szło, aby San Andreas mogło biec. Osobiście naprawdę uwielbiam <a href="https://youtu.be/AtPS-pJwBL4" target="_blank">radio</a>, które gra, gdy tylko wsiadasz do samochodu i zaczynasz jeździć po Vice City, świat kolorowy i żywy. Słucham go cały czas, szczerze.</li></ol>
 
 Podobała ci się moja lista? Naprawdę to wszystko przeczytałaś? Zostaw reakcję poniżej, jeśli tak. 😉 Naprawdę polecam te gry. Daj mi znać, co myślisz o moich wyborach w komentarzach poniżej, lub jeśli masz jakieś sugestie dotyczące gry, którą myślisz, że mogłabym polubić— to byłoby całkiem fajne. Myślę, że mam ustawione anonimowe komentowanie, jeśli cię to interesuje.
+
+---
+
+*Ten post został przetłumaczony z języka angielskiego. [Przeczytaj oryginał]({{ page.original_post }})*
+
+---
+
+*Ten post został przetłumaczony z języka angielskiego. [Przeczytaj oryginał]({{ page.original_post }})*

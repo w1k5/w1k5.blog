@@ -1,17 +1,17 @@
 ---
-layout: "post"
-subtitle: "Jesień 2018: Rysunek I"
-date: "2018-09-27 14:27:02 -0500"
-title: "Rysunki Postaci Węglem"
-tags: "[porn, emotion, feeling, sex, feminism, art, charcoal, drawing, creativity]"
-comments: "true"
-categories: "contact"
-image: "/images/charcoal/making-fire.jpeg"
-lang: "pl"
-original_post: "/2018-09-27 14:27:02 -0500-charcoal-figure-drawings"
+layout: post
+title: Rysunki Postaci Węglem
+subtitle: Jesień 2018: Rysunek I
+date: 2018-09-27 14:27:02 -0500
+categories: contact
+tags: ["[porn","emotion","feeling","sex","feminism","art","charcoal","drawing","creativity]"]
+comments: true
+lang: pl
+original_post: /charcoal
+image: /images/charcoal/making-fire.jpeg
 ---
 
-> *Ten post został przetłumaczony z języka angielskiego. [Przeczytaj oryginał](/2018-09-27 14:27:02 -0500-charcoal-figure-drawings)*
+
 
 Podczas mojego pierwszego semestru na uczelni, co wtorek i czwartek od 20:00 do 21:00, chodziłam na zajęcia z rysunku aktu, głównie dlatego, że mój profesor sztuki mnie do tego zachęcał. Pamiętam, jak po raz pierwszy weszłam do sali, było tam już kilku starszych mężczyzn z miasteczka, a jeden z nich od razu się do mnie zwrócił i zapytał: "Czy jesteś modelką?". Nie byłam, choć pewnie życzyłby sobie, żebym nią była. Czy to nie zabawne?
 <!-- more -->
@@ -34,3 +34,11 @@ Podczas mojego pierwszego semestru na uczelni, co wtorek i czwartek od 20:00 do 
   </div>
 </div>
 <br>
+
+---
+
+*Ten post został przetłumaczony z języka angielskiego. [Przeczytaj oryginał]({{ page.original_post }})*
+
+---
+
+*Ten post został przetłumaczony z języka angielskiego. [Przeczytaj oryginał]({{ page.original_post }})*

@@ -1,16 +1,16 @@
 ---
-layout: "post"
-subtitle: "Odnalezienie <del>Bratniej Duszy</del> Partnera"
-date: "2020-11-25 14:27:02 -0500"
-title: "Upadek Człowieka"
-tags: "[porn, playboy, emotion, feeling, sex, feminism, onlyfans, incel]"
-comments: "true"
-categories: "sweet-lovin"
-lang: "pl"
-original_post: "/2020-11-25 14:27:02 -0500-the-deterioration-of-man"
+layout: post
+title: Upadek Człowieka
+subtitle: Odnalezienie <del>Bratniej Duszy</del> Partnera
+date: 2020-11-25 14:27:02 -0500
+categories: sweet-lovin
+tags: ["[porn","playboy","emotion","feeling","sex","feminism","onlyfans","incel]"]
+comments: true
+lang: pl
+original_post: /one-fan-for-an-onlyfan
 ---
 
-> *Ten post został przetłumaczony z języka angielskiego. [Przeczytaj oryginał](/2020-11-25 14:27:02 -0500-the-deterioration-of-man)*
+
 
 Choć mężczyźni mogą być głową rodziny, w większości sytuacji kobiety są szyją. Mężczyźni to raczej proste stworzenia, motywowane przez orzech. Jeśli orzech jest wystarczająco dobry, będą się kręcić i hoverować. Dzięki temu kobieta może znaleźć się w bardzo <a href="{{ site.url }}/politics/2020/04/14/a-womans-power/" target="_blank">silnej pozycji</a>, zyskując możliwość narzekania i pomagania mężczyźnie w poprawie siebie. Może nie zawsze faktycznie pomaga, ale <a href="{{ site.url }}/contact/2020/06/09/mottos/" target="_blank">ludzie robią tylko to, co chcą</a>. Ale teraz technologia dała nam alternatywy: kiedy dajesz mężczyznom możliwość kupienia tego orzecha, dając im dreszczyk podobny do tego, który dostają od prawdziwej kobiety, może to prowadzić do złych rezultatów.<!-- more -->
 
@@ -29,3 +29,11 @@ Tak często mówimy o tym, jak płeć jest <a href="https://onlinelibrary.wiley.
 <p><img src="/images/nonsense/kimfarber.png" style="margin: auto; max-width: 300px;">
 
 <center>To moje ulubione zdjęcie <a href="https://www.reddit.com/r/OldSchoolCool/comments/4s40ku/kim_farber_the_hottest_playboy_playmate_ever_feb/" target="_blank">Kim Farber</a>, playmate Playboya z lutego 1967 roku. Nie mogę znaleźć tego zdjęcia nigdzie w sieci poza głęboko w <a href="https://www.instagram.com/playboy/" target="_blank">Instagramie Playboya</a>, więc chciałabym je tu zamieścić. Czyż nie jest oszałamiająca? Lubię tę tajemnicę.</center></p>
+
+---
+
+*Ten post został przetłumaczony z języka angielskiego. [Przeczytaj oryginał]({{ page.original_post }})*
+
+---
+
+*Ten post został przetłumaczony z języka angielskiego. [Przeczytaj oryginał]({{ page.original_post }})*

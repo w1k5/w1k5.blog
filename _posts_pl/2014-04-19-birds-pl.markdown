@@ -1,15 +1,15 @@
 ---
-layout: "post"
-title: "Wpis do Dziennika: Zostaję Tu Trochę Dłużej"
-date: "2014-04-19 17:51:02 -0500"
-categories: "contact"
-tags: "[mental health, self-reflection, teenage thoughts, journaling, personal growth, feeling misunderstood, coping strategies, emotional honesty, writing therapy, introspection]"
-comments: "false"
-lang: "pl"
-original_post: "/2014-04-19 17:51:02 -0500-journal-entry-staying-here-a-little-longer"
+layout: post
+title: Wpis do Dziennika: Zostaję Tu Trochę Dłużej
+date: 2014-04-19 17:51:02 -0500
+categories: contact
+tags: ["[mental health","self-reflection","teenage thoughts","journaling","personal growth","feeling misunderstood","coping strategies","emotional honesty","writing therapy","introspection]"]
+comments: false
+lang: pl
+original_post: /birds
 ---
 
-> *Ten post został przetłumaczony z języka angielskiego. [Przeczytaj oryginał](/2014-04-19 17:51:02 -0500-journal-entry-staying-here-a-little-longer)*
+
 
 <!-- more -->Nie jest ze mną dobrze. Nie czuję się dobrze. Potrzebuję pomocy.
 
@@ -38,3 +38,11 @@ Czasami patrzę w lustro i myślę, że nie jestem zbyt ładna. To jeden z tych 
 Teraz czas wstać, założyć uśmiech i przestać narzekać. Nikt nie lubi smutnej dziewczyny.
 
 Myślę, że zostanę tu jeszcze trochę.
+
+---
+
+*Ten post został przetłumaczony z języka angielskiego. [Przeczytaj oryginał]({{ page.original_post }})*
+
+---
+
+*Ten post został przetłumaczony z języka angielskiego. [Przeczytaj oryginał]({{ page.original_post }})*

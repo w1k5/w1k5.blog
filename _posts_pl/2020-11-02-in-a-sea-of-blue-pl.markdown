@@ -1,16 +1,16 @@
 ---
-layout: "post"
-title: "Migotka na Morzu Błękitu"
-date: "2020-11-02 00:00:02 -0500"
-categories: "politics"
-subtitle: "Urodziłam się i wychowałam w Queens. Mam nawet naszywkę z nazwą na rękawie mojej dżinsowej kurtki."
-tags: "[altright, politics, Internet, election, 20202, criticaltheory, cancel]"
-comments: "true"
-lang: "pl"
-original_post: "/2020-11-02 00:00:02 -0500-a-blip-in-a-sea-of-blue"
+layout: post
+title: Migotka na Morzu Błękitu
+subtitle: Urodziłam się i wychowałam w Queens. Mam nawet naszywkę z nazwą na rękawie mojej dżinsowej kurtki.
+date: 2020-11-02 00:00:02 -0500
+categories: politics
+tags: ["[altright","politics","Internet","election","20202","criticaltheory","cancel]"]
+comments: true
+lang: pl
+original_post: /in-a-sea-of-blue
 ---
 
-> *Ten post został przetłumaczony z języka angielskiego. [Przeczytaj oryginał](/2020-11-02 00:00:02 -0500-a-blip-in-a-sea-of-blue)*
+
 
 W większości stanów z przewagą Demokratów, kiedy rozłożysz wyniki wyborów <a href="https://www.nytimes.com/elections/2016/results/new-york" target="_blank">na powiaty</a>, zobaczysz, że każdy stan ma geograficznie konserwatywną obecność. To szeroko udokumentowane zjawisko, a związek między obszarami miejskimi a myślą lewicową jest interesujący: być może to zwiększona obecność mieszanych tradycji kulturowych w miastach, które często mają większą populację imigrantów i wysoką gęstość zaludnienia. Kiedy patrzysz na obszary zbliżające się do miast, trendy wyborcze stają się coraz bardziej niebieskie.<!-- more -->
 
@@ -25,3 +25,11 @@ Ale to nie tak, że moje rodzinne miasto jest społecznością internetową. Zas
 Lewica nabrała agresywnego, autorytarnego smaku, nawet wobec bogatych i państwa (co jest ironiczne, biorąc pod uwagę, że tak wielu Demokratów jest <a href="https://en.wikipedia.org/wiki/Limousine_liberal" target="_blank">bogatych</a> i/lub politykami). Nawet jeśli nie zaczynają jako <a href="https://www.youtube.com/watch?v=ee8GedvPmBU" target="_blank">bogaci</a>, czas naprawdę zmienia rzeczy, <a href="https://www.forbes.com/sites/danalexander/2019/08/14/heres-the-net-worth-of-every-2020-presidential-candidate/?sh=6f465cbe37c5" target="_blank">czyż nie</a>? Jestem zdumiona, że kandydat na prezydenta w 2020 roku, Biden, nie został anulowany, biorąc pod uwagę niektóre z jego <a href="https://www.youtube.com/watch?v=idpevmeoK1A" target="_blank">fascynujących komentarzy</a>, ale przypuszczam, że lewicowiec skłonny do anulowania nie może tego zrobić, bo kto wtedy byłby alternatywą? Donald (<a href="https://thedonald.win/" target="_blank">Dot Win</a>)?
 
 Może to ma sens. Maspeth i okoliczne tereny są na tyle nigdzie, by nabrać libertariańskich tendencji, zwłaszcza gdy w mieście jest <a href="https://www.youtube.com/watch?v=nvesu6oK4rU" target="_blank">rosnąca autorytarna obecność</a>. Mamy luksus życia w miejscu, gdzie polityka sąsiada nie ma większego znaczenia: <a href="https://64.media.tumblr.com/a28674af2e03f1fdff45b0b6a142cf83/tumblr_n42uydErbn1s4df8ko1_1280.png" target="_blank">bo tutaj nic nie ma większego znaczenia</a>. To nie tak, że jest nawet <a href="https://new.mta.info/map/5256" target="_blank">przystanek metra</a> w rozsądnej odległości na piechotę. To <a href="https://www.youtube.com/watch?v=wtPBOwE0Qn0" target="_blank">surrealistyczne</a>. Zastanawiam się, co jest w tym takiego wyjątkowego.
+
+---
+
+*Ten post został przetłumaczony z języka angielskiego. [Przeczytaj oryginał]({{ page.original_post }})*
+
+---
+
+*Ten post został przetłumaczony z języka angielskiego. [Przeczytaj oryginał]({{ page.original_post }})*

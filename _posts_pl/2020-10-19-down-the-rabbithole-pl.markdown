@@ -1,17 +1,17 @@
 ---
-layout: "post"
-title: "W głąb króliczej nory"
-date: "2020-10-19 00:00:02 -0500"
-subtitle: "„Skacząc i bulgocząc między tym, co powinnam, a czego nie powinnam czytać, czasami spadając na dno, by potem się z niego wydostać...”"
-categories: "politics"
-tags: "[altright, politics, Internet, school, college, cancel]"
-image: "/images/thumbnails/downtherabbithole.png"
-comments: "true"
-lang: "pl"
-original_post: "/2020-10-19 00:00:02 -0500-down-the-rabbit-hole"
+layout: post
+title: W głąb króliczej nory
+subtitle: „Skacząc i bulgocząc między tym, co powinnam, a czego nie powinnam czytać, czasami spadając na dno, by potem się z niego wydostać...”
+date: 2020-10-19 00:00:02 -0500
+categories: politics
+tags: ["[altright","politics","Internet","school","college","cancel]"]
+comments: true
+lang: pl
+original_post: /down-the-rabbithole
+image: /images/thumbnails/downtherabbithole.png
 ---
 
-> *Ten post został przetłumaczony z języka angielskiego. [Przeczytaj oryginał](/2020-10-19 00:00:02 -0500-down-the-rabbit-hole)*
+
 
 Wyrwałam się z wielu paradygmatów, które media głównego nurtu zdają się dziś forsować, a przynajmniej tak chciałabym myśleć. Mogłabym się określić jako konserwatystka, ale to umieściłoby mnie w szufladce typowo kojarzonej z <a href="https://patriotpost.us/alexander/41195-who-are-the-establishment-republicans-2016-03-09" target="_blank">establishmentem</a> typu <a href="http://assets.press.princeton.edu/chapters/s9302.pdf" target="_blank">George W. Bush</a> i Mitt Romney, a to po prostu nie byłoby trafne. Lubię termin prawicowa, ponieważ jest niejasny, a jednocześnie wystarczająco konkretny, by zasugerować, że nie jestem ani <a href="https://www.theatlantic.com/ideas/archive/2020/03/regular-democrats-are-just-fine-establishment/607417/" target="_blank">establishmentową Demokratką</a>, ani <a href="https://en.wikipedia.org/wiki/Woke" target="_blank">przebudzoną lewicową</a>, i to mi wystarcza. Myślę, że istnieje wiele <a href="https://www.theatlantic.com/ideas/archive/2018/10/trump-alt-right-twitter/574219/" target="_blank">bardziej zróżnicowanych grup</a> z prawicowym nachyleniem niż pozornie <a href="https://medium.com/@GappyTales/the-rise-of-the-authoritarian-left-2ed8a1a94e6d" target="_blank">jednolity polityczny konglomerat Lewicy</a>. To problem z lewicową obsesją na punkcie <a href="https://www.nytimes.com/2019/10/31/style/cancel-culture.html" target="_blank">kultury anulowania</a>, jeśli mnie zapytasz. Jeśli istnieje możliwość, że zostaniesz anulowana, stracisz pracę i wszystkich przyjaciół, jeśli powiesz coś niewłaściwego, to po co w ogóle próbować? Po co mieć unikalne myśli?<!-- more -->
 
@@ -28,3 +28,11 @@ Zaczęłam spędzać dużo czasu w głębinach Internetu, ponieważ sfery polity
 <a href="https://www.youtube.com/watch?v=pHte24GGHD4" target="_blank">I tak wpadłam do króliczej nory</a>, odbijając się i bulgocząc między rzeczami, które powinnam i nie powinnam czytać, czasami spadając na dno, a potem wyczołgując się z powrotem, zawsze ufając mojemu sceptycyzmowi, że bezpiecznie wyprowadzi mnie z ciemności. Przeczytałam mnóstwo książek i zainteresowałam się libertarianizmem (nie Libertarianizmem — rzeczywista partia jest, jeśli mnie zapytasz, trochę bałaganem; to jak Partia Anty-Partyjna), i chociaż wiem, że moje pomysły wciąż się zmieniają i ewoluują, i mogę kiedyś spojrzeć na to pisanie z wstydem, przynajmniej jest dobrze napisane i zawsze robię to, co mi się podoba. Mam nadzieję, że ty też.
 
 <img src="/images/downtherabbithole.png" style="margin: auto; max-width: 50%;">
+
+---
+
+*Ten post został przetłumaczony z języka angielskiego. [Przeczytaj oryginał]({{ page.original_post }})*
+
+---
+
+*Ten post został przetłumaczony z języka angielskiego. [Przeczytaj oryginał]({{ page.original_post }})*

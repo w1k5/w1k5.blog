@@ -1,14 +1,14 @@
 ---
-layout: "post"
-title: "Miejsce do Istnienia"
-date: "2020-01-06 22:48:15 -0500"
-categories: "contact"
-comments: "true"
-lang: "pl"
-original_post: "/2020-01-06 22:48:15 -0500-a-place-to-exist"
+layout: post
+title: Miejsce do Istnienia
+date: 2020-01-06 22:48:15 -0500
+categories: contact
+comments: true
+lang: pl
+original_post: /a-place-to-exist
 ---
 
-> *Ten post został przetłumaczony z języka angielskiego. [Przeczytaj oryginał](/2020-01-06 22:48:15 -0500-a-place-to-exist)*
+
 
 Na Williams, miejscu, które łatwo może doprowadzić do społecznej izolacji w pojedynczym pokoju w akademiku, konieczne jest znalezienie miejsca do pracy (bo wydaje się, że to wszystko, co tutaj robimy), które pozwala studentowi na delikatne i chwilowe uspołecznienie się, wyrywając się z ich skupionej pracy. Jesteśmy stworzeniami nawykowymi: w ten sposób jest wygodnie.
 
@@ -21,3 +21,11 @@ Na kampusie z około 2100 studentami, niezwykle trudno jest się ukryć. Biorąc
 Możesz pomyśleć, że mój pokój w akademiku to świetne miejsce, gdy chcę być sama. Zwykle tak jest, przyznam, ale mój pokój jest pełen rozpraszaczy i przypomnień o tym, kim jestem i kim ludzie mnie postrzegają. Pokój w akademiku jest wyrazisty: od podstawowego wyboru pościeli po bardziej unikalne pytanie o sztukę na ścianach, jestem otoczona przypomnieniami o mojej tożsamości, co w chwilowym pragnieniu zniknięcia i przyjęcia anonimowości tylko przedłuża moje cierpienie. Kiedy szukam miejsca, gdzie jestem nikim, mój pokój nie jest pocieszający.
 
 Jest proste rozwiązanie tego problemu: wybieram się do miejsca, w którym zazwyczaj nie wybieram się być. Wybieram się do budynku lub przestrzeni, do której moja karta pozwala mi wejść, ale nigdy nie poświęciłam czasu, by spróbować. Nie ma zasad, chyba że jest autorytet, który je egzekwuje, co czasami prowadzi mnie do wędrowania po dziwnych miejscach. Lubię przypadkowe sale w Science Quad i audytorium na dole w Student Center. Lubię puste siedzenia. Mogę usiąść, gdzie tylko chcę.
+
+---
+
+*Ten post został przetłumaczony z języka angielskiego. [Przeczytaj oryginał]({{ page.original_post }})*
+
+---
+
+*Ten post został przetłumaczony z języka angielskiego. [Przeczytaj oryginał]({{ page.original_post }})*

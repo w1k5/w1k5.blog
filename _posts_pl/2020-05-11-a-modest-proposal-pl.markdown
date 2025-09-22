@@ -1,14 +1,14 @@
 ---
-layout: "post"
-title: "Skromna propozycja (XXI wiek)"
-date: "2020-05-10 01:27:02 -0500"
-categories: "politics"
-comments: "true"
-lang: "pl"
-original_post: "/2020-05-10 01:27:02 -0500-a-21st-century-modest-proposal"
+layout: post
+title: Skromna propozycja (XXI wiek)
+date: 2020-05-10 01:27:02 -0500
+categories: politics
+comments: true
+lang: pl
+original_post: /a-modest-proposal
 ---
 
-> *Ten post został przetłumaczony z języka angielskiego. [Przeczytaj oryginał](/2020-05-10 01:27:02 -0500-a-21st-century-modest-proposal)*
+
 
 <i>To jest nieopublikowany artykuł. Oto on, opublikowany na mojej stronie internetowej.</i>
 
@@ -25,3 +25,11 @@ Wszelkie obawy dotyczące gospodarki również zostaną zredukowane, gdy uwolnim
 Problemy związane z seksem i miłością znikną. Nie można doświadczyć tragedii bycia zignorowanym, jeśli proces zalotów zniknie; zwłaszcza, jeśli w końcu pozbędziemy się tych uzależniających, magicznych pudełek, które stały się przedłużeniem nas samych: naszych telefonów. Teorie wymyślone przez fora pełne osób identyfikujących się jako <a href="https://incels.net/" target="_blank">incels</a>, czyli osoby niechcący celibatowe, zostaną poddane próbie. Ich samookreślone wady zostaną przetestowane pod kątem ich ważności, a w prawdziwie darwinistycznym środowisku, najprawdopodobniej spowodują ich szybkie zniknięcie, uwalniając ich od cierpienia. Przeglądając moje kanały, wyraźnie widać, że ten świat cierpi. To może być właśnie to rozwiązanie.
 
 Żyjemy w społeczeństwie i czas uwolnić się od jego łańcuchów (i upewnić się, że nigdy więcej nie zostanie napisany taki artykuł). Dziedzina teorii politycznej, z tego, co zrozumiałam na moich zajęciach z Wprowadzenia do Teorii Politycznej, jest zaskakująco oparta na pytaniu dotyczącym natury ludzkiej. Czy jesteśmy skłonni do czynienia dobra, czy do czynienia zła? Jaki lepszy sposób niż dosłownie powrócić do stanu natury i przekonać się samemu?
+
+---
+
+*Ten post został przetłumaczony z języka angielskiego. [Przeczytaj oryginał]({{ page.original_post }})*
+
+---
+
+*Ten post został przetłumaczony z języka angielskiego. [Przeczytaj oryginał]({{ page.original_post }})*

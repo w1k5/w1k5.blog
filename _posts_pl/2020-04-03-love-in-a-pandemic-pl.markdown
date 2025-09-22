@@ -1,15 +1,15 @@
 ---
-layout: "post"
-title: "Czym jest miłość bez dotyku?"
-subtitle: "(Rozważania o Tinderze)"
-date: "2020-04-03 23:52:49 -0500"
-categories: "sweet-lovin"
-comments: "true"
-lang: "pl"
-original_post: "/2020-04-03 23:52:49 -0500-what-is-love-without-touch"
+layout: post
+title: Czym jest miłość bez dotyku?
+subtitle: (Rozważania o Tinderze)
+date: 2020-04-03 23:52:49 -0500
+categories: sweet-lovin
+comments: true
+lang: pl
+original_post: /love-in-a-pandemic
 ---
 
-> *Ten post został przetłumaczony z języka angielskiego. [Przeczytaj oryginał](/2020-04-03 23:52:49 -0500-what-is-love-without-touch)*
+
 
 Jesteśmy teraz w pandemii. Wydaje się, że wszyscy o tym wiedzą. Jestem w Queens, w Nowym Jorku, uwierzcie lub nie — to dla tych z Manhattanu, którzy uwielbiają mi mówić, że "Queens to nie Nowy Jork". Miasto zbliża się do 1,400 zgonów z powodu wirusa, z prawie 48,000 przypadków ogółem. Moi rodzice nie za bardzo pozwalają mi wychodzić z domu, i w sumie mi to pasuje. Wiem, że inaczej nie byłabym zbyt dobra w zachowywaniu dystansu społecznego.
 
@@ -24,3 +24,11 @@ Wszyscy znamy te głupie gry tekstowe: jak długo mam czekać, żeby odpowiedzie
 Dzień po dniu rozmawiam z różnymi ludźmi w sieci, a niektórzy wydają się bardziej chwilowi niż inni, w zależności od tego, jak się czuję. Czasami lubię niektórych ludzi bardziej niż innych. To dziwne widzieć, jak to się zmienia, jak dzikie jest to, jak bardzo moje uczucia do osoby mogą się zmienić w tak krótkim czasie, nawet jeśli nigdy wcześniej nie spotkałam ich osobiście. Z kim wyjdziemy po drugiej stronie tunelu? Słyszałam, że dystans społeczny będzie przedłużony jako polityka, nawet po zakończeniu kwarantanny... czy to tekstowe bzdury są przyszłością randkowania? Do diabła z tym. Kup sobie roślinę.
 
 (Dla moich przyjaciół i czytelników, którzy nie mają okazji doświadczyć Tindera w gęsto zaludnionych miejscach, chciałabym tylko poinformować, że Tinder udostępnił <a href="https://www.help.tinder.com/hc/en-us/articles/115004490423-Passport" target="_blank">Tinder Passport</a> za darmo, więc teraz możesz przeglądać w dowolnym miejscu na całym świecie, po prostu zmieniając swoją lokalizację w aplikacji! Sprawdź to, człowieku. Całkiem fajna sprawa. Próbuję podszlifować mój francuski. 😉)
+
+---
+
+*Ten post został przetłumaczony z języka angielskiego. [Przeczytaj oryginał]({{ page.original_post }})*
+
+---
+
+*Ten post został przetłumaczony z języka angielskiego. [Przeczytaj oryginał]({{ page.original_post }})*

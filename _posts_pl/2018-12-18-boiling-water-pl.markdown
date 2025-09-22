@@ -1,14 +1,14 @@
 ---
-layout: "post"
-title: "Gotująca Woda"
-date: "2018-12-18 00:00:02 -0500"
-categories: "sweet-lovin"
-comments: "true"
-lang: "pl"
-original_post: "/2018-12-18 00:00:02 -0500-boiling-water"
+layout: post
+title: Gotująca Woda
+date: 2018-12-18 00:00:02 -0500
+categories: sweet-lovin
+comments: true
+lang: pl
+original_post: /boiling-water
 ---
 
-> *Ten post został przetłumaczony z języka angielskiego. [Przeczytaj oryginał](/2018-12-18 00:00:02 -0500-boiling-water)*
+
 
 <!-- more -->
 Zamykasz oczy:<br>
@@ -35,3 +35,11 @@ poruszyła cię.<br>
 Poddałaś się na chwilę<br>
 i potrzebujesz chwili, by dojść do siebie,<br>
 sama.
+
+---
+
+*Ten post został przetłumaczony z języka angielskiego. [Przeczytaj oryginał]({{ page.original_post }})*
+
+---
+
+*Ten post został przetłumaczony z języka angielskiego. [Przeczytaj oryginał]({{ page.original_post }})*

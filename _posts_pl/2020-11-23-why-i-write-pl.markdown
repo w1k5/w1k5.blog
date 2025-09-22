@@ -1,16 +1,16 @@
 ---
-layout: "post"
-title: "Wpis do Dziennika: Dlaczego Piszę"
-date: "2020-11-23 14:27:02 -0500"
-subtitle: "Dla poczucia jasności i porządku"
-tags: "[writing, literature, emotion, feeling, dream, dreams, purpose]"
-comments: "true"
-categories: "contact"
-lang: "pl"
-original_post: "/2020-11-23 14:27:02 -0500-journal-entry-why-i-write"
+layout: post
+title: Wpis do Dziennika: Dlaczego Piszę
+subtitle: Dla poczucia jasności i porządku
+date: 2020-11-23 14:27:02 -0500
+categories: contact
+tags: ["[writing","literature","emotion","feeling","dream","dreams","purpose]"]
+comments: true
+lang: pl
+original_post: /why-i-write
 ---
 
-> *Ten post został przetłumaczony z języka angielskiego. [Przeczytaj oryginał](/2020-11-23 14:27:02 -0500-journal-entry-why-i-write)*
+
 
 Myślę, że życie to uzależnienie: jesteśmy uzależnieni od nałogów i mechanizmów obronnych, które dają nam powód, by wstać rano z łóżka. Jestem teraz głodna, ale nic nie wydaje się apetyczne. Może jestem trochę przygnębiona, ale kiedy czuję, że świat zewnętrzny jest zamknięty dla wszystkich i wszystkiego, a nawet najbliżsi są zamknięci, to po prostu trudno jest chcieć czegokolwiek. Myślę, że przede wszystkim jestem uzależniona od Rzeczywistości: rzeczy, które wywołują nasze zmysły w unikalny sposób i prowokują emocje jak żadne inne.<!-- more -->
 
@@ -23,3 +23,11 @@ Nie czuję zbytnio lęku ani strachu. Dużo śnię. Ostatniej nocy śniłam, że
 Pisanie daje mi poczucie kontroli. Przekłada moje uczucia na słowa, które mogę zobaczyć i zrozumieć. Teraz piszę, ponieważ to jak mieszanie w garnku w moim sercu, mając nadzieję, że przywołam emocję, którą czułam w przeszłości; coś konkretnego i coś innego niż moje codzienne życie, przynajmniej. Jestem stworzeniem wizualnym i potrzebuję moich cukierków dla oczu. Staję się coraz bardziej apatyczna z upływem czasu. Trzymam się tego, co mam. A to są słowa. Czytałabym, ale głównie po prostu chcę żyć własnym życiem, na zewnątrz, z innymi ludźmi, desperacko. Jestem tak zmęczona ekranami... I tutaj, w tym momencie, chciałabym tylko przypomnieć ci, byś nadal stawiał jeden krok przed drugim, bez względu na to, jak bardzo jesteś zmęczony. Przynajmniej to sobie mówię.
 
 <img src="/images/nonsense/typingcourage.gif" style="margin: auto; max-width: 300px; border: 0.24em dotted white;">
+
+---
+
+*Ten post został przetłumaczony z języka angielskiego. [Przeczytaj oryginał]({{ page.original_post }})*
+
+---
+
+*Ten post został przetłumaczony z języka angielskiego. [Przeczytaj oryginał]({{ page.original_post }})*

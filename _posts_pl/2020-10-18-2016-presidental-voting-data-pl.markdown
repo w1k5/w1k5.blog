@@ -1,17 +1,17 @@
 ---
-layout: "post"
-title: "Wyniki wyborów prezydenckich 2016 w Nowym Jorku, według okręgów"
-date: "2020-10-18 14:27:02 -0500"
-subtitle: "Dziwnie trudno znaleźć w sieci w dzisiejszych czasach... sprawdź sama."
-tags: "[politics, political, nyc, voting, 2016, election, us]"
-image: "/images/thumbnails/couldbeworse.png"
-comments: "true"
-categories: "politics"
-lang: "pl"
-original_post: "/2020-10-18 14:27:02 -0500-2016-presidental-election-results-in-nyc-by-district"
+layout: post
+title: Wyniki wyborów prezydenckich 2016 w Nowym Jorku, według okręgów
+subtitle: Dziwnie trudno znaleźć w sieci w dzisiejszych czasach... sprawdź sama.
+date: 2020-10-18 14:27:02 -0500
+categories: politics
+tags: ["[politics","political","nyc","voting","2016","election","us]"]
+comments: true
+lang: pl
+original_post: /2016-presidental-voting-data
+image: /images/thumbnails/couldbeworse.png
 ---
 
-> *Ten post został przetłumaczony z języka angielskiego. [Przeczytaj oryginał](/2020-10-18 14:27:02 -0500-2016-presidental-election-results-in-nyc-by-district)*
+
 
 Dzięki uprzejmości <a href="https://secretnyc.co/map-shows-nyc-neighborhood-voted/" target="_blank">SecretNYC</a>, początkowo zaczerpnięte z <a href="https://www.dnainfo.com/new-york/numbers/clinton-trump-president-vice-president-every-neighborhood-map-election-results-voting-general-primary-nyc/" target="_blank">DNAInfo</a>, które obecnie jest niedostępne.<!-- more -->
 <table>
@@ -469,3 +469,11 @@ Dzięki uprzejmości <a href="https://secretnyc.co/map-shows-nyc-neighborhood-vo
   <tr>
     <td>Rugby-Remsen Village</td>
     <td>15,384</td>
+
+---
+
+*Ten post został przetłumaczony z języka angielskiego. [Przeczytaj oryginał]({{ page.original_post }})*
+
+---
+
+*Ten post został przetłumaczony z języka angielskiego. [Przeczytaj oryginał]({{ page.original_post }})*

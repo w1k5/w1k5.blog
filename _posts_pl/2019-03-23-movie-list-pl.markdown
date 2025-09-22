@@ -1,14 +1,14 @@
 ---
-layout: "post"
-title: "Polecenia Filmowe"
-date: "2020-03-22 12:38:15 -0500"
-categories: "self-care"
-comments: "true"
-lang: "pl"
-original_post: "/2020-03-22 12:38:15 -0500-movie-recommendations"
+layout: post
+title: Polecenia Filmowe
+date: 2020-03-22 12:38:15 -0500
+categories: self-care
+comments: true
+lang: pl
+original_post: /movie-list
 ---
 
-> *Ten post został przetłumaczony z języka angielskiego. [Przeczytaj oryginał](/2020-03-22 12:38:15 -0500-movie-recommendations)*
+
 
 Moja przyjaciółka niedawno została porzucona, więc zrobiłam dla niej listę filmów, które mogłaby obejrzeć, żeby się czymś zająć. Myślę, że wszyscy potrzebujemy teraz czegoś, co nas zajmie, biorąc pod uwagę lockdowny, dystans społeczny i kwarantanny. Siedzenie w domu jest nudne. Oto kilka moich rekomendacji filmowych. To głównie stare filmy, ale lubię stare filmy.
 <!-- more -->
@@ -63,3 +63,11 @@ Moja przyjaciółka niedawno została porzucona, więc zrobiłam dla niej listę
 </ul>
 
 Jako mała dziewczynka często chodziłam do Blockbuster, na długo zanim Netflix wyparł ich z rynku. Chodziłam tam z mamą przez całe lato i pozwalała mi wybrać dowolne trzy filmy. Myślę, że mieli jakąś specjalną ofertę na trzy filmy czy coś takiego. Wracałam do domu i oglądałam je, absolutnie zachwycona osobistą możliwością ucieczki od teraźniejszości i miejsca, w którym byłam. Nadal kocham filmy i telewizję za tę możliwość eskapizmu. Teraz jednak zauważam szczegóły. Diabeł tkwi w szczegółach.
+
+---
+
+*Ten post został przetłumaczony z języka angielskiego. [Przeczytaj oryginał]({{ page.original_post }})*
+
+---
+
+*Ten post został przetłumaczony z języka angielskiego. [Przeczytaj oryginał]({{ page.original_post }})*

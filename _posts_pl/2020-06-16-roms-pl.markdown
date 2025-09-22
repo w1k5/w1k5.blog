@@ -1,16 +1,16 @@
 ---
-layout: "post"
-subtitle: "(Jak pobrać i grać w całe gry przenośne z dzieciństwa na telefonie lub laptopie za darmo)"
-title: "Tęsknię za moim Nintendo DS"
-date: "2020-06-15 11:27:02 -0500"
-categories: "self-care"
-tags: "[video games, emulator, retro, handhelds]"
-comments: "true"
-lang: "pl"
-original_post: "/2020-06-15 11:27:02 -0500-i-miss-my-nintendo-ds"
+layout: post
+title: Tęsknię za moim Nintendo DS
+subtitle: (Jak pobrać i grać w całe gry przenośne z dzieciństwa na telefonie lub laptopie za darmo)
+date: 2020-06-15 11:27:02 -0500
+categories: self-care
+tags: ["[video games","emulator","retro","handhelds]"]
+comments: true
+lang: pl
+original_post: /roms
 ---
 
-> *Ten post został przetłumaczony z języka angielskiego. [Przeczytaj oryginał](/2020-06-15 11:27:02 -0500-i-miss-my-nintendo-ds)*
+
 
 Uwielbiałam moje przenośne urządzenia jako dziecko. Nie miałam smartfona aż do pierwszej klasy liceum, a teraz, szczerze mówiąc, często tęsknię za tym głupim, kanciastym telefonem, który miałam przez tyle lat. Spędzałam wtedy dużo czasu z książkami i grami wideo: mnóstwo Pokemonów. Miałam ogromny przewodnik do gry Platinum i spędzałam godziny, grając w nią. Nawet planowałam uwzględnić Pokemony w jednej z moich list <a href="{{site.baseurl}}/self-care/2020/06/03/video-games-list/" target="_blank">moich dziesięciu ulubionych gier wideo</a>, ale już tak się rozgadałam, że skróciłam ją do pięciu. Grałam kiedyś dużo w Pokemony. <em>Więc oto, jak uruchomić te stare gry na dowolnym urządzeniu za darmo.</em> Chciałam się tym podzielić z moimi przyjaciółmi, jeśli się nudzicie, nawet jeśli nigdy wcześniej nie graliście w przenośne gry. To jest zabawne, uwierzcie mi. Nawet nie potrzebujecie żadnych kartridży.<!-- more -->
 
@@ -20,3 +20,11 @@ Uwielbiałam moje przenośne urządzenia jako dziecko. Nie miałam smartfona aż
 <li><p style="font-family: gentle; display: initial;">Kliknij bezpośrednio na plik .gba, a wybrany emulator powinien zacząć działać z pożądaną grą.</p> Jeśli nie, otwórz swój emulator i znajdź, gdzie możesz otworzyć pliki. Na Macu powinno to być na pasku na górze ekranu. Jeśli gra porusza się dla ciebie zbyt wolno, jestem pewna, że możesz przyspieszyć prędkość ruchu w grze gdzieś w opcjach emulatora. To zawsze robiłam. Miłej zabawy!</li></ol>
 <img style="margin: auto;" src="/images/nonsense/addicted.png">
 <p>Zauważ, że ten przewodnik nie obejmuje, jak uruchomić gry PC na Macu. Nie sądzę, że to zasugerowałam, ale powinnam rozważyć napisanie tego. Zrobię to, jeśli kiedykolwiek poczuję taką potrzebę.</p>
+
+---
+
+*Ten post został przetłumaczony z języka angielskiego. [Przeczytaj oryginał]({{ page.original_post }})*
+
+---
+
+*Ten post został przetłumaczony z języka angielskiego. [Przeczytaj oryginał]({{ page.original_post }})*

@@ -1,14 +1,22 @@
 ---
-layout: "post"
-title: "Kocham"
-date: "2025-02-14 13:46:02 -0500"
-categories: "sweet-lovin"
-tags: "[Identity, Coding, Work, Sex, Emotional Clarity]"
-comments: "false"
-lang: "pl"
-original_post: "/2025-02-14 13:46:02 -0500-i-love"
+layout: post
+title: Kocham
+date: 2025-02-14 13:46:02 -0500
+categories: sweet-lovin
+tags: ["[Identity","Coding","Work","Sex","Emotional Clarity]"]
+comments: false
+lang: pl
+original_post: /love
 ---
 
-> *Ten post został przetłumaczony z języka angielskiego. [Przeczytaj oryginał](/2025-02-14 13:46:02 -0500-i-love)*
+
 
 Uwielbiam to, co robię zawodowo. Zanurzenie się w kodzie przypomina mi wtulenie się w kogoś, kogo kocham; chaotyczne, nieznane, czasem przerażające. Ale jednak w pewien sposób przewidywalne… Kiedy spojrzysz na elementy z jasnym umysłem, wszystkie do siebie pasują.
+
+---
+
+*Ten post został przetłumaczony z języka angielskiego. [Przeczytaj oryginał]({{ page.original_post }})*
+
+---
+
+*Ten post został przetłumaczony z języka angielskiego. [Przeczytaj oryginał]({{ page.original_post }})*

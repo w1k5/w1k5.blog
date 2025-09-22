@@ -1,15 +1,15 @@
 ---
-layout: "post"
-title: "Jak Zawsze Powtarzam..."
-subtitle: "Lista motywujących haseł"
-date: "2020-06-09 14:54:33 -0500"
-categories: "contact"
-comments: "true"
-lang: "pl"
-original_post: "/2020-06-09 14:54:33 -0500-as-i-always-say"
+layout: post
+title: Jak Zawsze Powtarzam...
+subtitle: Lista motywujących haseł
+date: 2020-06-09 14:54:33 -0500
+categories: contact
+comments: true
+lang: pl
+original_post: /mottos
 ---
 
-> *Ten post został przetłumaczony z języka angielskiego. [Przeczytaj oryginał](/2020-06-09 14:54:33 -0500-as-i-always-say)*
+
 
 Jestem raczej niereligijna. Ale bez religii łatwo można ulec pokusom nihilizmu, który może łatwo wciągnąć kogoś w króliczą norę opartą na Złej Wierze. A taki sposób myślenia pozwala sercu ulec nienawiści. To nie jest zabawne. Dlatego zaczęłam tworzyć swoją własną małą listę wartości. Moja katolicka przyjaciółka nazwała je moimi Przykazaniami. Uważam, że ta nazwa jest zbyt autorytarna. To nigdy nie jest aż tak poważne. Dlatego nazywam je motta, po prostu coś do powtarzania i wierzenia, gdy dni mijają. Mam nadzieję, że ta lista będzie rozwijana i pielęgnowana w miarę postępu tej strony. Oto, co mam do tej pory. <!-- more -->
 
@@ -48,3 +48,11 @@ Jestem raczej niereligijna. Ale bez religii łatwo można ulec pokusom nihilizmu
 <li>„Kiedy robi się ciężko, twardzi zaczynają działać.”</li>
 <li>„Różnorodność jest przyprawą życia.”</li>
 </ul>
+
+---
+
+*Ten post został przetłumaczony z języka angielskiego. [Przeczytaj oryginał]({{ page.original_post }})*
+
+---
+
+*Ten post został przetłumaczony z języka angielskiego. [Przeczytaj oryginał]({{ page.original_post }})*

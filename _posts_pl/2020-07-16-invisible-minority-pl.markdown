@@ -1,16 +1,16 @@
 ---
-layout: "post"
-subtitle: "Post na blogu o byciu niewidoczną mniejszością"
-title: "„Biali Ludzie Nie Mają Kultury”"
-date: "2020-07-15 11:27:02 -0500"
-categories: "politics"
-tags: "[poland, marcuse, polska, critical theory]"
-comments: "true"
-lang: "pl"
-original_post: "/2020-07-15 11:27:02 -0500-quotwhite-people-have-no-culturequot"
+layout: post
+title: „Biali Ludzie Nie Mają Kultury”
+subtitle: Post na blogu o byciu niewidoczną mniejszością
+date: 2020-07-15 11:27:02 -0500
+categories: politics
+tags: ["[poland","marcuse","polska","critical theory]"]
+comments: true
+lang: pl
+original_post: /invisible-minority
 ---
 
-> *Ten post został przetłumaczony z języka angielskiego. [Przeczytaj oryginał](/2020-07-15 11:27:02 -0500-quotwhite-people-have-no-culturequot)*
+
 
 Wierzcie lub nie, mówię tak, jak piszę. Przyznaję, że z racji tego, że piszę, moje myśli są bardziej wyrafinowane i precyzyjne, ale sposób, w jaki je wyrażam, odzwierciedla moją pretensjonalną rozwlekłość i długie zdania. Za to obwiniam moje wielojęzyczne wychowanie, mówiąc wyłącznie po polsku w domu, po angielsku wśród przyjaciół i ucząc się łaciny przez wszystkie cztery lata liceum. Czasami sposób, w jaki wymawiam słowa, też jest dziwny, ponieważ jako dziecko, będąc nieśmiałą, spędzałam więcej czasu na czytaniu niż na mówieniu. Wielu moich polskojęzycznych przyjaciół ma akcenty lub dziwne nawyki językowe, nawet jeśli całe życie spędzili w Stanach Zjednoczonych. Ja też. Chociaż nie mówię często o mojej etniczności na mojej stronie, uważam, że w języku i pochodzeniu etnicznym tkwi ogromna siła.<!-- more -->
 
@@ -25,3 +25,11 @@ Często wymienianą irytacją na profilach randkowych są osoby, które klaszcz�
 Moja publiczna persona jest obecnie zdecydowanie anty-SJW. Nie chodzi o to, że mam problem z samą sprawiedliwością społeczną, ale bardziej z agresywną kulturą, która ją otacza, i sposobem, w jaki zaczęli wyrządzać <a href="https://pages.gseis.ucla.edu/faculty/kellner/essays/newleftand1960s.pdf" target="_blank">wielką krzywdę</a> akademickim uczonym, którzy zainspirowali ich ruch na początku. W tym momencie <a href="https://en.wikipedia.org/wiki/Gadsden_flag" target="_blank">mam już dość większości ludzi</a>. Myślę, że wielu z nas tak ma. Jest takie polskie powiedzenie: "nie mój cyrk, nie moje małpy", które bezpośrednio tłumaczy się na „nie mój cyrk, nie moje małpy”, sugerując, że sytuacja przede mną nie jest moim problemem, ponieważ nie jest w mojej sferze zainteresowania. Nie jest egoistyczne skupiać się na własnych celach i marzeniach: jesteśmy tylko ludźmi, a w naszej naturze leży doskonalenie siebie i naszego życia na przyszłość, przynajmniej tak mnie nauczyli moi rodzice. <a href="{{ base.url }}/contact/2020/06/09/mottos/" target="_blank">Gdziekolwiek idziesz, tam jesteś</a>. Ale z drugiej strony, różne uderzenia dla różnych ludzi.
 
 Miałam bardziej postępowych przyjaciół, którzy wybuchali śmiechem, gdy poważnie wspominałam o doświadczaniu własnej formy „ksenofobii”, bo <a href="https://knowyourmeme.com/memes/white-people-have-no-culture" target="_blank">biali ludzie nie mają kultury</a>, prawda? Co za żart. <a href="https://nmaahc.si.edu/sites/default/files/styles/image_caption/public/images/captioned/whiteculture_info_1.png?itok=tO7RMVFi" target="_blank">To wszystko cholerny żart</a>. Nie wykonuję aktywnie mojej „polskości” dla "Punktów Mniejszości", mimo że grupa była <a href="https://en.wikipedia.org/wiki/Anti-Polish_sentiment" target="_blank">systematycznie uciskana</a>, <a href="https://www.tandfonline.com/doi/full/10.1080/1369183X.2018.1451308" target="_blank">i tak dalej</a>, <a href="https://www.youtube.com/watch?v=B0c2LjKdqqw" target="_blank">i tak dalej</a>, ponieważ nie lubię mieć mentalności ofiary i nie lubię być infantylizowana. Świetliki świecą w ciągu dnia, nawet gdy ich nie widać.
+
+---
+
+*Ten post został przetłumaczony z języka angielskiego. [Przeczytaj oryginał]({{ page.original_post }})*
+
+---
+
+*Ten post został przetłumaczony z języka angielskiego. [Przeczytaj oryginał]({{ page.original_post }})*

@@ -1,16 +1,16 @@
 ---
-layout: "post"
-title: "Wpis do Dziennika: Zagubiona w Labiryncie, Goniąc za Pięknem"
-date: "2015-08-08 14:27:02 -0500"
-subtitle: "O bogactwie, dorastaniu i odnajdywaniu własnej drogi"
-categories: "contact"
-tags: "[teen life, self-reflection, personal growth, NYC experiences, family dynamics, ambition, envy, finding beauty, journaling, teenage perspective, growing up, introspection, life lessons, creative expression]"
-comments: "true"
-lang: "pl"
-original_post: "/2015-08-08 14:27:02 -0500-journal-entry-lost-in-a-maze-chasing-beauty"
+layout: post
+title: Wpis do Dziennika: Zagubiona w Labiryncie, Goniąc za Pięknem
+subtitle: O bogactwie, dorastaniu i odnajdywaniu własnej drogi
+date: 2015-08-08 14:27:02 -0500
+categories: contact
+tags: ["[teen life","self-reflection","personal growth","NYC experiences","family dynamics","ambition","envy","finding beauty","journaling","teenage perspective","growing up","introspection","life lessons","creative expression]"]
+comments: true
+lang: pl
+original_post: /wealth
 ---
 
-> *Ten post został przetłumaczony z języka angielskiego. [Przeczytaj oryginał](/2015-08-08 14:27:02 -0500-journal-entry-lost-in-a-maze-chasing-beauty)*
+
 
 Dziś odwiedziłam wiejski dom mojego bogatego wujka. Jest ogromny—na tyle duży i wystawny, że aż opadła mi szczęka. Można by powiedzieć, że jestem zazdrosna, ale w pewien sposób mnie to motywuje. Zastanawiam się, co musiałabym zrobić, aby zdobyć taki dom.
 
@@ -41,3 +41,11 @@ Jestem zagubiona w labiryncie, ale jestem szczęśliwa. Przynajmniej staram się
 Za ścianami labiryntu jest szeroka, otwarta przestrzeń. Jest biała, pusta, pełna możliwości. Czeka, aż przybędę i stworzę coś w tej przestrzeni. Ale boję się, że nigdy tam nie dotrę.
 
 Muszę to osiągnąć. Nie mogę być tylko tą unoszącą się istotą, która nigdy nie potrafi stworzyć czegoś pięknego.
+
+---
+
+*Ten post został przetłumaczony z języka angielskiego. [Przeczytaj oryginał]({{ page.original_post }})*
+
+---
+
+*Ten post został przetłumaczony z języka angielskiego. [Przeczytaj oryginał]({{ page.original_post }})*

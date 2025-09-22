@@ -1,14 +1,14 @@
 ---
-layout: "post"
-title: "Siła Kobiety"
-date: "2020-04-14 00:23:15 -0500"
-categories: "politics"
-comments: "true"
-lang: "pl"
-original_post: "/2020-04-14 00:23:15 -0500-a-womans-power"
+layout: post
+title: Siła Kobiety
+date: 2020-04-14 00:23:15 -0500
+categories: politics
+comments: true
+lang: pl
+original_post: /a-womans-power
 ---
 
-> *Ten post został przetłumaczony z języka angielskiego. [Przeczytaj oryginał](/2020-04-14 00:23:15 -0500-a-womans-power)*
+
 
 Mówią mi, że jestem bardzo otwarta na temat swoich myśli i uczuć, kiedy piszę. Chyba to prawda i chyba nie wiem, jak mogłabym pisać inaczej. Kiedy mój przyjaciel przeglądał moje posty na Reddit, to właśnie powiedział o <a href="https://www.reddit.com/r/PurplePillDebate/comments/e4htnm/women_are_oversaturating_themselves/f9ermpv?utm_source=share&utm_medium=web2x" target="_blank">konkretnym komentarzu</a>. Oto, co napisałam:
 
@@ -29,3 +29,11 @@ Kobiety nie mogą przyznać się do swojej władzy, a mężczyźni powinni po pr
 Nie jestem idiotką. Nie lubię, kiedy kobiety odgrywają tak głupią, oczywistą kłamstwo, ignorując swoją władzę, kiedy dokładnie wiedzą, co robią. Myślę, że to po prostu część <a href="https://www.psychologytoday.com/us/blog/sex-sexuality-and-romance/201908/toxic-femininity" target="_blank">toksycznej kobiecości</a>, drugiej strony toksycznej męskości, narzuconej przez patriarchalną przeszłość naszego społeczeństwa. Myślę, że kobiety powinny naprawdę przyjąć kobiecość i całą władzę, która się z nią wiąże. I nie zrozum mnie źle, uwielbiam też występować, ale przynajmniej jestem naprawdę szczera wobec siebie, kim jestem i jaką mam władzę: sposób, w jaki się ubieram, maluję, chodzę, noszę się, patrzę na rzeczy, mówię, używam gestów rąk, itd. Powiedziano mi, że jestem trochę <a href="https://en.wikipedia.org/wiki/Succubus" target="_blank">sukkubem</a>, biorąc pod uwagę, jak noszę swoją władzę. Nie przeszkadza mi to.
 
 Wszystko jest występem, zwłaszcza w erze mediów społecznościowych i zwłaszcza, gdy społeczeństwo jest w sieci. Czy bawisz się dobrze w 2020 roku? Ja na pewno tak.
+
+---
+
+*Ten post został przetłumaczony z języka angielskiego. [Przeczytaj oryginał]({{ page.original_post }})*
+
+---
+
+*Ten post został przetłumaczony z języka angielskiego. [Przeczytaj oryginał]({{ page.original_post }})*

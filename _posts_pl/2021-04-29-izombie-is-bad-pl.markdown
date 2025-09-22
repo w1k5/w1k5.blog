@@ -1,16 +1,16 @@
 ---
-layout: "post"
-title: "iZombie to głupi serial"
-date: "2021-04-29 12:38:15 -0500"
-categories: "self-care"
-tags: "[television, media, nerd, geek, tv, series, netflix, dumb show, dumb shows]"
-subtitle: "To jeden z moich ulubionych."
-comments: "true"
-lang: "pl"
-original_post: "/2021-04-29 12:38:15 -0500-izombie-is-a-dumb-show"
+layout: post
+title: iZombie to głupi serial
+subtitle: To jeden z moich ulubionych.
+date: 2021-04-29 12:38:15 -0500
+categories: self-care
+tags: ["[television","media","nerd","geek","tv","series","netflix","dumb show","dumb shows]"]
+comments: true
+lang: pl
+original_post: /izombie-is-bad
 ---
 
-> *Ten post został przetłumaczony z języka angielskiego. [Przeczytaj oryginał](/2021-04-29 12:38:15 -0500-izombie-is-a-dumb-show)*
+
 
 Naprawdę lubię <a href="https://www.netflix.com/watch/80027159?source=35" target="_blank">iZombie</a>. Oglądam to pewnie tak, jak większość ludzi ogląda jakiś serial jak The Office. Podoba mi się, że jest geekowski, zabawny i mroczny: rezonuje ze mną, tak jak większość rzeczy, które ktoś lubi, ma tendencję do tego. To nie jest dzieło sztuki czy coś w tym stylu, ale jest funkcjonalne i spełnia swoje zadanie. Przynajmniej mi się podoba. Możesz go znaleźć na Netflixie, jeśli się zastanawiałaś.
 
@@ -34,3 +34,11 @@ Rzeczywiste zagadki, które rozwiązują Liv i inni bohaterowie, są wystarczaj�
 Serial jest dość zabawny i uroczy, ale również wpisuje się w gatunek sci-fi horroru, co oznacza, że mieści się w kategorii "czarnego humoru". Osobiście uważam, że większość humoru jest z natury dość mroczna, po prostu dlatego, że jest zasadniczo przeznaczona do pomagania ludziom w radzeniu sobie z nieszczęściem, ale to już inna sprawa. Serial balansuje między postaciami robiącymi rzeczywiste żarty w formie komentarzy, a także humorem sytuacyjnym, związanym z okolicznościami ofiar i spotkaniami między różnymi postaciami z komicznymi rezultatami, z tematem śmierci subtelnie zawsze obecnym w tle.
 
 Mogę powiedzieć, że serial jest stworzony przez geeków, dla geeków. iZombie początkowo było <a href="https://www.dccomics.com/blog/2018/10/30/vertigo-for-the-dc-fan-izombie-by-chris-roberson-and-mike-allred" target="_blank">serią komiksową</a> wydaną przez <a href="https://en.wikipedia.org/wiki/Vertigo_Comics" target="_blank">DC Vertigo</a>, na której serial był luźno oparty, a co zabawne, Vertigo było wielokrotnie wspominane w całej serii, ale tym razem jako odniesienie do <a href="https://en.wikipedia.org/wiki/Vertigo_(film)" target="_blank">filmu Hitchcocka</a>. iZombie odnosi się do cosplayu, Dungeons & Dragons, gier wideo, komiksów i wszelkiego rodzaju stereotypowo geekowskich rzeczy, co przemawia do mnie na jakimś niejasnym, aktywnym poziomie. W każdym razie, teraz poważnie rozważam zainwestowanie 50 dolarów w zakup drukowanej kopii omnibusu iZombie, po prostu dlatego, że jestem frajerką na punkcie zombie, dramedi i książek w druku.
+
+---
+
+*Ten post został przetłumaczony z języka angielskiego. [Przeczytaj oryginał]({{ page.original_post }})*
+
+---
+
+*Ten post został przetłumaczony z języka angielskiego. [Przeczytaj oryginał]({{ page.original_post }})*

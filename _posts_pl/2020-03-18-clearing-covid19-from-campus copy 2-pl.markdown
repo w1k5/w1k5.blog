@@ -1,14 +1,14 @@
 ---
-layout: "post"
-title: "Usuwanie COVID-19 z Kampusu"
-date: "2020-03-18 00:01:49 -0500"
-categories: "sweet-lovin"
-comments: "true"
-lang: "pl"
-original_post: "/2020-03-18 00:01:49 -0500-clearing-covid-19-from-campus"
+layout: post
+title: Usuwanie COVID-19 z Kampusu
+date: 2020-03-18 00:01:49 -0500
+categories: sweet-lovin
+comments: true
+lang: pl
+original_post: /clearing-covid19-from-campus copy 2
 ---
 
-> *Ten post został przetłumaczony z języka angielskiego. [Przeczytaj oryginał](/2020-03-18 00:01:49 -0500-clearing-covid-19-from-campus)*
+
 
 „Czy ja cię znam?”
 
@@ -21,3 +21,11 @@ Wyrzucenie z kampusu było nagłe. Byliśmy w środku intensywnej pracy, czołga
 Dano nam bardzo krótkie powiadomienie i było to dziwne, bo nagle wszyscy ci ludzie, z którymi myśleliśmy, że porozmawiamy później w roku, zniknęli. Widziałam to na własne oczy, jak ludzie, którzy zwykle nie mogli spojrzeć mi w oczy, nagle mieli odwagę otworzyć usta i nie tylko powiedzieć „cześć”, ale także zapytać, jak się mam. Jeśli chodzi o scenę imprezową, wydawało się, że wszyscy przyjęli postawę „carpe diem”, którą noszę ze sobą od pierwszego dnia na kampusie. Jak zawsze mówię, życie jest zbyt krótkie, by było nudne. Nawet graffiti zaczęło pojawiać się na kampusie: osobiście jestem fanką „Strzeż się id marcowych” na Faye i rysunku statku kosmicznego na budynku Spencer Art. Doceniam ironię <a href="https://williamsrecord.com/2020/03/do-you-see-a-blank-canvas-using-student-art-to-engage-the-college-community/" target="_blank">felietonu Wahla</a> opublikowanego w tym tygodniu w Record, dotyczącego potrzeby bardziej ekspresyjnej, studenckiej architektury i projektowania budynków na kampusie. Myślę, że w jakiś sposób dostał to, czego chciał.
 
 „Nie, nie sądzę, że cię znam,” powiedział wysoki mężczyzna w masce z uśmiechem na balu maskowym. Szkoda, prawda?
+
+---
+
+*Ten post został przetłumaczony z języka angielskiego. [Przeczytaj oryginał]({{ page.original_post }})*
+
+---
+
+*Ten post został przetłumaczony z języka angielskiego. [Przeczytaj oryginał]({{ page.original_post }})*

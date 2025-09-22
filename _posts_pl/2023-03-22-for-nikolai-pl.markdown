@@ -1,15 +1,15 @@
 ---
-layout: "post"
-title: "Dla Nikołaja"
-date: "2023-03-22 14:27:02 -0500"
-categories: "contact"
-tags: "[nikolai, journal]"
-comments: "true"
-lang: "pl"
-original_post: "/2023-03-22 14:27:02 -0500-for-nikolai"
+layout: post
+title: Dla Nikołaja
+date: 2023-03-22 14:27:02 -0500
+categories: contact
+tags: ["[nikolai","journal]"]
+comments: true
+lang: pl
+original_post: /for-nikolai
 ---
 
-> *Ten post został przetłumaczony z języka angielskiego. [Przeczytaj oryginał](/2023-03-22 14:27:02 -0500-for-nikolai)*
+
 
 Nikolai Muchegian zmarł w listopadzie 2022 roku. Nie wiedziałam, że umarł, aż do pięciu miesięcy po tym, jak to się stało. Po prostu myślałam, że nie chce już ze mną rozmawiać. Nie mamy <a href="/images/nik/photos.PNG" target="_blank">żadnych zdjęć</a> razem, ale był ważną częścią mojego życia i mojego rozwoju od <a href="/images/nik/04-01-2020.jpeg" target="_blank">momentu, gdy go poznałam</a>. Chyba piszę ten esej jako zapis moich wspomnień, aby uzupełnić brakujące fotografie. Jego śmierć była dla mnie szokiem i przypuszczam, że ten esej jest pewnego rodzaju mową pogrzebową. Nigdy wcześniej nie straciłam kogoś w ten sposób i jest to... w najlepszym wypadku niewygodne, a w najgorszym przerażające. Chciałabym móc pójść na pogrzeb lub chociaż wiedzieć, gdzie został pochowany. Ale nie wiem, więc radzę sobie z tym na swój sposób.<!-- more -->
 
@@ -30,3 +30,11 @@ Ostatnią rzeczą, którą mi wysłał, była seria wiadomości — jedna z nich
 Napisałam do niego ponownie w listopadzie, próbując dowiedzieć się, co u niego słychać i jak się ma. Znowu nie odpowiedział — i zauważ, że zazwyczaj opisuję siebie jako złą dziewczynę; na pewno mam temperament. Z powodu braku odpowiedzi, zdecydowałam, że musiał już o mnie nie dbać i że skończył z naszą przyjaźnią. Czułam się zraniona — a tego rodzaju rzeczy od mężczyzn zazwyczaj mnie nie ruszają, ale tym razem tak. Usunęłam naszą rozmowę z mojego telefonu; z perspektywy czasu zdaję sobie sprawę, że to pokazuje, jak bardzo mi na nim zależało, niezależnie od tego, czy byłam gotowa to przyznać w tamtym czasie. A teraz wiem, że po prostu go nie ma i nie mógłby do mnie wrócić, nawet gdyby chciał.
 
 Jestem zła, ponieważ uważam większość ludzi za jednorazowych, ale Nikolai taki nie był. Myślę, że świat — lub przynajmniej ja — potrzebował jego uroku, intelektu i osobowości, i to jest tak głęboko niesprawiedliwe, że teraz go nie ma. Nikolai ukształtował mnie jako osobę i był przyczyną <a href="/images/nik/mentor.PNG" target="_blank">pierwszej iskry</a>, która zainspirowała moją miłość do informatyki. Terminy "a fun fuck" i "mindshare" na zawsze pozostaną w moim słownictwie dzięki jego użyciu, a jego ambicja udzieliła się mi, i dzięki niemu odkryłam głębokie uznanie dla geekowskich koszulek. Tak bardzo miałam nadzieję, że może on i ja moglibyśmy przeżyć więcej przygód w życiu, lub przynajmniej żyć przez siebie nawzajem. To było życie przerwane zbyt wcześnie. Wciąż było tyle do zrobienia... Ale Bóg zdecydował, że tak miało być, i tak jest. W najgorszych momentach żałoby boję się, że też zostanę porwana przez ocean. Przeskakuję między różnymi etapami żałoby, ale wiem, że na końcu nie pozostaje mi nic innego, jak tylko być wdzięczną za to, że kiedykolwiek miałam okazję go poznać i uwielbiać. A może napisać esej o tym, jak bardzo za nim tęsknię.
+
+---
+
+*Ten post został przetłumaczony z języka angielskiego. [Przeczytaj oryginał]({{ page.original_post }})*
+
+---
+
+*Ten post został przetłumaczony z języka angielskiego. [Przeczytaj oryginał]({{ page.original_post }})*

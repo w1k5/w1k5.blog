@@ -1,16 +1,16 @@
 ---
-layout: "post"
-title: "Być albo nie być matką"
-date: "2020-11-22 14:27:02 -0500"
-subtitle: "Ważne jest, aby trzymać się kogoś lub czegoś... Myślę, że ktoś jest lepszy niż coś."
-tags: "[love, motherhood, affection, moms, pregnancy, suffering, purpose]"
-comments: "true"
-categories: "sweet-lovin"
-lang: "pl"
-original_post: "/2020-11-22 14:27:02 -0500-to-be-or-not-to-be-a-mother"
+layout: post
+title: Być albo nie być matką
+subtitle: Ważne jest, aby trzymać się kogoś lub czegoś... Myślę, że ktoś jest lepszy niż coś.
+date: 2020-11-22 14:27:02 -0500
+categories: sweet-lovin
+tags: ["[love","motherhood","affection","moms","pregnancy","suffering","purpose]"]
+comments: true
+lang: pl
+original_post: /motherhood
 ---
 
-> *Ten post został przetłumaczony z języka angielskiego. [Przeczytaj oryginał](/2020-11-22 14:27:02 -0500-to-be-or-not-to-be-a-mother)*
+
 
 Spędzamy życie, szukając Tego Jedynego. A może nie: niektórzy po prostu chcą kręcić się na karuzeli przez resztę życia, przeskakując z konika na konika. Ale po pewnym czasie nie mogę sobie wyobrazić, jak wolno trzeba by się poruszać, żeby nie zauważyć, że jazda na większości koników jest dość podobna do jazdy na każdym innym: jak mówi przysłowie, „Jesteś wyjątkowy, tak jak wszyscy inni." Powiedziałabym, że twoje własne dzieci są jednak inne, fundamentalnie, po prostu dlatego, że są częściowo tobą, aż do ich DNA. Jesteś z nimi związana tak, jak twoi rodzice są związani z tobą.<!-- more -->
 
@@ -23,3 +23,11 @@ Po głębokim zastanowieniu, myślę, że chciałabym starzeć się z wdziękiem
 Mówi mi, że powinnam wstrzymać się z posiadaniem dzieci. Nie sądzę, żeby to był dobry pomysł. Nie chcę. Im więcej czasu inwestuję w karierę, tym mocniej bym się jej trzymała. Wolałabym mocno trzymać się moich dzieci. To one są przyszłością, prawda? Ludzie martwią się, że nie zostawią swojego śladu na świecie. Jaki bardziej potężny ślad można zostawić na świecie, niż wychowanie dziecka prawdziwie, fundamentalnie jako swoje własne, rozstępy i wszystko?
 
 <img src="/images/mom.png" style="margin: auto; max-width: 300px;">
+
+---
+
+*Ten post został przetłumaczony z języka angielskiego. [Przeczytaj oryginał]({{ page.original_post }})*
+
+---
+
+*Ten post został przetłumaczony z języka angielskiego. [Przeczytaj oryginał]({{ page.original_post }})*

@@ -1,16 +1,16 @@
 ---
-layout: "post"
-title: "Znajome Nieznajome"
-subtitle: "Między tym, co pokazujemy, a tym, czego nie możemy powstrzymać"
-date: "2025-08-22 05:46:02 -0500"
-categories: "self-care"
-tags: "[Transformation, Identity, Reflection, Self-Discovery, Vulnerability, Introspection, Existentialism, Personal Growth, Emotional Clarity]"
-comments: "true"
-lang: "pl"
-original_post: "/2025-08-22 05:46:02 -0500-familiar-strangers"
+layout: post
+title: Znajome Nieznajome
+subtitle: Między tym, co pokazujemy, a tym, czego nie możemy powstrzymać
+date: 2025-08-22 05:46:02 -0500
+categories: self-care
+tags: ["[Transformation","Identity","Reflection","Self-Discovery","Vulnerability","Introspection","Existentialism","Personal Growth","Emotional Clarity]"]
+comments: true
+lang: pl
+original_post: /familiar-strangers
 ---
 
-> *Ten post został przetłumaczony z języka angielskiego. [Przeczytaj oryginał](/2025-08-22 05:46:02 -0500-familiar-strangers)*
+
 
 Ostatnio usłyszałam więcej niż raz, że przechodzę przez szeroki wachlarz emocji. Na początku się śmiałam — czyż nie każdy tak ma? Ale im dłużej o tym myślałam, tym bardziej uświadamiałam sobie, że istnieje różnica między uczuciami a emocjami. Uczucia to surowe, prymitywne sygnały, które dała nam ewolucja: głód, obrzydzenie, satysfakcja, irytacja. Pomagają nam przetrwać. Emocje jednak są inne. Są warstwowe i ludzkie, kształtowane przez pamięć, wyobraźnię i znaczenie. Łączą nas z historią, z innymi i z nami samymi. Doświadczanie emocji to widzenie nie tylko powierzchni rzeczy, ale ich głębi — tego, jak miliardy lat zmian doprowadziły do tego momentu i do faktu, że możemy to w ogóle odczuwać.<!-- more -->
 
@@ -27,3 +27,11 @@ Ostatnio ludzie na ulicy wydają mi się znajomi, nawet jeśli nigdy ich wcześn
 A jednak uwaga to nie to samo co kontrola. To jest granica, na którą natrafiamy: bez względu na to, jak uważnie zauważamy, nie możemy zmusić ludzi do zmiany. Nie możesz poprosić kogoś, by był bardziej komunikatywny, bardziej ambitny, bardziej kochający i oczekiwać, że się ugnie. Ludzie przysięgają, że się zmienią, a potem pozostają sobą. Żądać inaczej jest nieracjonalne, a jednak wciąż próbujemy. Bot, oczywiście, jest posłuszny. Ale jego posłuszeństwo jest zbyt płaskie, zbyt bez życia. Ludzie się opierają. Zaprzeczają sobie. Odmawiają schludności. I może ta odmowa jest całym sednem — tym, co czyni nas prawdziwymi.
 
 Może to właśnie oznacza być człowiekiem teraz: trzymać zarówno klarowność maszyn, jak i chaos uczuć, i szukać sensu gdzieś pomiędzy. W erze posłusznych botów i kuratorowanych jaźni, to nasze niespójności, nasze sprzeczności, nasza znajoma dziwność nas definiują. Jeśli maszyny dają nam klarowność, to chaos jest ceną życia — i jego darem. I może, tylko może, właśnie dlatego odczuwanie zbyt wiele nie jest wadą, ale najprawdziwszą miarą samego życia.
+
+---
+
+*Ten post został przetłumaczony z języka angielskiego. [Przeczytaj oryginał]({{ page.original_post }})*
+
+---
+
+*Ten post został przetłumaczony z języka angielskiego. [Przeczytaj oryginał]({{ page.original_post }})*

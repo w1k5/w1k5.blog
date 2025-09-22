@@ -1,0 +1,23 @@
+---
+layout: "post"
+title: "Słonecznie i 75: Wiosenne Wakacje 2022"
+date: "2022-03-22 14:27:02 -0500"
+subtitle: "Napisane w samolocie"
+tags: "[journal, diary, mexico, travel, plane, graduating, senior]"
+comments: "true"
+categories: "self-care"
+lang: "pl"
+original_post: "/2022-03-22 14:27:02 -0500-sunny-and-75-spring-break-2022"
+---
+
+> *Ten post został przetłumaczony z języka angielskiego. [Przeczytaj oryginał](/2022-03-22 14:27:02 -0500-sunny-and-75-spring-break-2022)*
+
+Nigdy nie byłam w miejscu, gdzie zawsze jest ciepło. Nigdy też nie byłam na wakacjach z własnego wyboru, aż do teraz. Zawsze były to wakacje rodzinne, na które nie miałam wpływu, gdzie jedziemy i co robimy; zazwyczaj kończyliśmy w Bumblefuck, w Polsce lub gdzieś w północnej części stanu Nowy Jork. Nie sądziłam, że mogę sobie pozwolić na tropikalne wakacje samodzielnie, ale potem uświadomiłam sobie, że moja pracoholicka natura faktycznie przyniosła mi pieniądze podczas stażu, który odbyłam zeszłego lata, i przypomniałam sobie, że pieniądze zarabia się po to, by je wydawać. Cieszę się, że miałam przyjaciółkę, z którą mogłam pojechać — gdyby nie jej zachęta, wątpię, czy kiedykolwiek znalazłabym odwagę, by opuścić moją piwnicę. Wiosenna przerwa to taki ważny kamień milowy w każdym doświadczeniu studenckim, a jako seniorka, najwyższy czas, by dosłownie poszerzyć swoje horyzonty.<!-- more -->
+
+Jednak dla tych, którzy urodzili się z pieniędzmi, których rodzice ciągnęli po całym świecie do różnych tropikalnych miejsc na wakacje rodzinne od urodzenia, przypuszczam, że to się powtarza; pewna apatia pojawia się, gdy zdajesz sobie sprawę, że tropikalny zachód słońca zawsze ma w roli głównej to samo słońce. Jeśli chodzi o moje plany na wiosenną przerwę, jeden z moich kolegów z klasy dość apatycznie powiedział: „Och, Cabo jest fajne.” Nigdy tam nie byłam, więc nie mogę się wypowiedzieć, ale aplikacja Pogoda na moim telefonie mówi mi, że przez cały tydzień będzie <a href="https://youtu.be/hZwVvwp8i-M" target="_blank">Słonecznie i 75</a>. Nie mogę się doczekać.
+
+Choć wakacje mają być czasem relaksu i leniuchowania, ja po prostu nie mogę tego robić. Po prostu staję się apatyczna i znudzona. Zbyt bardzo kocham swoje hobby. Zbyt bardzo kocham prawdziwe doświadczenia. Zbyt bardzo lubię chwytać życie za rogi, by po prostu patrzeć, jak mi umyka, więc zabrałam ze sobą szkicownik i ołówki, a już piszę ten esej w samolocie. Nie spałam zbyt wiele przez ostatnie dni, po prostu dlatego, że miałam jeszcze ostatnie zadania do ukończenia, ale wiedziałam też, że będę miała tylko dwa dni w Nowym Jorku, zanim wyruszymy do Cabo. Oczywiście, zasadniczo przedłużyłam swoje szkolne zmagania, biorąc dwa dni opóźnienia na zadanie, ale wiedziałam, że wolę spędzić czas ciesząc się miastem, zamiast kończyć głupie zadanie. Wow, to się nazywa Senioritis. Nie mogę też spać w samolocie, bo myślę, że jestem po prostu zbyt podekscytowana. Poza tym, te silniki są naprawdę głośne.
+
+Jeden z moich profesorów dosłownie powiedział mi, że reszta roku akademickiego po wiosennej przerwie tak naprawdę nie istnieje — osobiście nigdy tak się nie czułam, ale nigdy nie miałam prawdziwej wiosennej przerwy i nigdy nie byłam seniorką na uczelni, więc może nie wiem lepiej. Widzę jednak zmianę w postawach moich rówieśników, gdy zbliża się koniec roku szkolnego. Przyjaźnie, które mam z ludźmi, z którymi ostatnio się kłóciłam, nie wydają się mnie zbytnio przejmować, i wydaje się, że oni też nie mają ochoty podsycać konfliktu. Lepiej zakończyć na pozytywnej nucie czy coś, prawda? A może oboje mamy ostatnio lepsze miejsca, w które możemy włożyć swoją energię. Jeśli chodzi o moje relacje z mężczyznami z mojego roku na kampusie, nagle wydają się traktować mnie z dużo większym szacunkiem niż lata temu — nie wiem, czy to dlatego, że wyglądam i radzę sobie lepiej, czy dlatego, że zdają sobie sprawę, że kończy im się czas, jeśli kiedykolwiek chcą mnie poznać.
+
+Jeden chłopak, w którym się kiedyś podkochiwałam, powiedział mi całkiem szczerze i od niechcenia na imprezie, że jestem jedną z najciekawszych osób, jakie kiedykolwiek spotkał, ale biorąc pod uwagę, jak wielki to komplement, zapytałam, czy jest pewien. Przypominając sobie, z kim rozmawia, nieco wycofał się z tego stwierdzenia, mówiąc, że jestem jedną z najciekawszych osób, jakie spotkał, konkretnie na kampusie. Dawać komuś wszystko, czego chce od razu, nigdy nie jest naprawdę najmądrzejszą taktyką — wiem to. Gdyby tylko nie przespał się z moją dobrą przyjaciółką tydzień wcześniej.

@@ -1,0 +1,15 @@
+---
+layout: "post"
+title: "Historia Dee"
+date: "2020-01-29 14:27:02 -0500"
+subtitle: "Mój pierwszy dynamiczny kod"
+tags: "[coding, code, cs, computer science, video games, hobby]"
+comments: "true"
+categories: "contact"
+lang: "pl"
+original_post: "/2020-01-29 14:27:02 -0500-the-story-of-dee"
+---
+
+> *Ten post został przetłumaczony z języka angielskiego. [Przeczytaj oryginał](/2020-01-29 14:27:02 -0500-the-story-of-dee)*
+
+<center><iframe src="https://www.lexaloffle.com/bbs/widget.php?pid=thestoryofdee" allowfullscreen width="621" height="513" style="border:none; overflow:hidden"></iframe></center>

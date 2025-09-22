@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Dziennik: Radość, Smutek i Wszystko Pomiędzy
+title: "Dziennik: Radość, Smutek i Wszystko Pomiędzy"
 subtitle: Niezdecydowana nastolatka szukająca więzi
-date: 2015-09-08 14:27:02 -0500
+date: "2015-09-08 14:27:02 -0500"
 categories: contact
-tags: ["[teen emotions","teenage reflections","personal journaling","adolescent thoughts","friendship struggles","Arctic Monkeys","self-discovery","emotional writing","happiness and sadness","introspection","teen life","coping with stress","teenage identity","music and emotions]"]
+tags: 
 comments: false
 lang: pl
 original_post: /uncertainty
@@ -37,6 +37,22 @@ Zwykle nie okazuję zbyt wiele emocji. Zwykle po prostu bez końca rozprawiam, p
 ---
 
 **SEO Tags (CSV):**
+
+---
+
+*Ten post został przetłumaczony z języka angielskiego. [Przeczytaj oryginał]({{ page.original_post }})*
+
+---
+
+*Ten post został przetłumaczony z języka angielskiego. [Przeczytaj oryginał]({{ page.original_post }})*
+
+---
+
+*Ten post został przetłumaczony z języka angielskiego. [Przeczytaj oryginał]({{ page.original_post }})*
+
+---
+
+*Ten post został przetłumaczony z języka angielskiego. [Przeczytaj oryginał]({{ page.original_post }})*
 
 ---
 

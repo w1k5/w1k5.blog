@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Zadurzenie
-date: 2019-11-24 14:15:33 -0500
+date: "2019-11-24 14:15:33 -0500"
 categories: sweet-lovin
 comments: true
 lang: pl
@@ -23,6 +23,22 @@ Położyła swoje rzeczy naprzeciwko [REDACTED] i przez chwilę z nim żartował
 13:28-- Powiadomienie z WhatsApp od mojej najlepszej przyjaciółki: „Jesteś taka zdenerwowana”
 
 O małych płomieniach w Williams: jesteśmy tu tylko na cztery lata. Zbieramy się tutaj z całych Stanów Zjednoczonych i niepraktyczne jest oczekiwanie czegoś trwałego. Ale jest zimno. Potrzebuję małych płomyków. Śnieg pada za oknem Sawyer. On wciąż siedzi naprzeciwko mnie.
+
+---
+
+*Ten post został przetłumaczony z języka angielskiego. [Przeczytaj oryginał]({{ page.original_post }})*
+
+---
+
+*Ten post został przetłumaczony z języka angielskiego. [Przeczytaj oryginał]({{ page.original_post }})*
+
+---
+
+*Ten post został przetłumaczony z języka angielskiego. [Przeczytaj oryginał]({{ page.original_post }})*
+
+---
+
+*Ten post został przetłumaczony z języka angielskiego. [Przeczytaj oryginał]({{ page.original_post }})*
 
 ---
 

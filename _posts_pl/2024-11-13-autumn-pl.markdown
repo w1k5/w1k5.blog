@@ -1,10 +1,10 @@
 ---
 layout: post
 title: Kształt Mnie (Ale Zrób to Skomplikowane)
-subtitle: Bo po co zadowalać się prostotą, skoro można być kosmiczną zagadką?
-date: 2024-11-13 13:46:02 -0500
+subtitle: "Bo po co zadowalać się prostotą, skoro można być kosmiczną zagadką?"
+date: "2024-11-13 13:46:02 -0500"
 categories: sweet-lovin
-tags: ["[Transformation","Identity","Reflection","Self-Discovery","Vulnerability","Introspection","Existentialism","Personal Growth","Emotional Clarity]"]
+tags: 
 comments: true
 lang: pl
 original_post: /autumn
@@ -36,13 +36,29 @@ Trzeba odwagi, by iść dalej. Rozczarowanie boli w sposób trudny do opisania, 
 
 I wciąż próbujesz się zmieniać i ulepszać, mając nadzieję, że będziesz wystarczająca dla tej osoby. Ale ich to nie obchodzi. Naprawdę ich to nie obchodzi. Bo gdyby zależało im na tobie jako osobie, a wszystkie twoje inne cechy naprawdę miały dla nich znaczenie, to by nie odeszli. Albo nie zignorowali cię. Albo nie zdecydowali się nie przeprosić. Szacunek nie jest gestem uprzejmości, ale uznaniem, rodzajem walidacji, która sprawia, że czujesz się cała.
 
-Ale zaczynam myśleć, że może bycie "wystarczającą" dla kogoś innego nie jest właściwym celem. Staram się nie być nudna. Chcę być czymś więcej niż tylko ładną twarzą czy ulotną myślą. Chcę być czymś znaczącym, czymś, co pozostaje — więcej niż chwilowym błyskiem, więcej niż tylko smugą złapaną w wiatry losu. Chcę być dźwiękiem, który dzwoni w twoich uszach, czymś potężnym i niepodważalnym.
+Ale zaczynam myśleć, że może bycie wystarczającą dla kogoś innego nie jest właściwym celem. Staram się nie być nudna. Chcę być czymś więcej niż tylko ładną twarzą czy ulotną myślą. Chcę być czymś znaczącym, czymś, co pozostaje — więcej niż chwilowym błyskiem, więcej niż tylko smugą złapaną w wiatry losu. Chcę być dźwiękiem, który dzwoni w twoich uszach, czymś potężnym i niepodważalnym.
 
 Są chwile, kiedy wszystko jest tak jasne, jak dźwięk małych wybuchających petard, których tak bardzo nienawidzę. Każda emocja jest ostra i żywa. I uświadamiam sobie, że chcę być czymś więcej niż moją cielesną formą, czymś poza samym ciałem i kośćmi. Chcę świecić jasno, jak gwiazda zakrzywiająca czas i przestrzeń wokół siebie, przyciągając wszystko bliżej jednego punktu. Może wtedy nie musiałabym szukać walidacji od nikogo poza sobą.
 
 * * *
 
 Każde z tych uczuć — pragnienie bycia widzianą, tęsknota za połączeniem i nostalgia za tym, co umknęło — są kawałkami większej całości. Nie są oddzielne; krążą we mnie, wciąż na nowo, jak zmieniające się pory roku. To tak, jakbym była sumą wszystkich tych sprzecznych części, każda z nich informuje o innej, tworząc życie, które jest zarówno piękne, jak i boleśnie przemijające. Może nigdy nie będę miała pełnej jasności, ale może o to właśnie chodzi. W końcu nie potrzebuję jasności, ale odwagi, by objąć niepewność i żyć każdą porą roku, jaką przynosi. Pisanie to tylko zabawny efekt uboczny.
+
+---
+
+*Ten post został przetłumaczony z języka angielskiego. [Przeczytaj oryginał]({{ page.original_post }})*
+
+---
+
+*Ten post został przetłumaczony z języka angielskiego. [Przeczytaj oryginał]({{ page.original_post }})*
+
+---
+
+*Ten post został przetłumaczony z języka angielskiego. [Przeczytaj oryginał]({{ page.original_post }})*
+
+---
+
+*Ten post został przetłumaczony z języka angielskiego. [Przeczytaj oryginał]({{ page.original_post }})*
 
 ---
 

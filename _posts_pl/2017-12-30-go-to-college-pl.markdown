@@ -2,9 +2,9 @@
 layout: post
 title: Idź na studia
 subtitle: List motywacyjny, który zapewnił mi miejsce w najlepszej uczelni humanistycznej w kraju
-date: 2017-12-30 14:27:02 -0500
+date: "2017-12-30 14:27:02 -0500"
 categories: contact
-tags: ["[SAT","exams","poland","school","college","cancel","nationalism","tradition]"]
+tags: 
 comments: true
 lang: pl
 original_post: /go-to-college
@@ -25,6 +25,22 @@ Pomimo tego wpływu, gdy nieuchronnie stykam się z nowymi ideami, instynktownie
 Lato, które spędziłam na stażu w Parlamencie Europejskim, ujawniło mi niuanse Unii Europejskiej. W domu z rodzicami eurosceptycyzm był wyraźny, a propozycja, że kiedyś przeciwnicy mogą współpracować dzięki komunikacji i zaufaniu, wydawała się absurdalna. A jednak znalazłam się w tym świecie: światowi liderzy rozmawiający swobodnie, niebojący się niezgody i dyskusji. Żyli bez kulturowych ograniczeń, i zdałam sobie sprawę, że wkrótce znajdę się w akademickiej stołówce równie zróżnicowanej, jeśli nie bardziej, niż ta, pełnej opinii innych niż moje. Byłam pocieszona taktownością sytuacji przede mną i zdecydowałam, że mogę i będę to odzwierciedlać w moich przyszłych interakcjach.
 
 Chcę mieć wolną wolę i możliwość wyboru. Aby to mieć, nauczyłam się, że muszę być plastyczna i eksploracyjna. Moje tradycje mają wartość, ale porzuciłam to najwyższe oddanie, które mi wpajano. Teraz czuję pragnienie, by rzucić się w morze tego, co różni się ode mnie, aby móc się uczyć, rozwijać i być wystawioną na piękno i złożoność świata. Patrzę na moją matkę, chichoczę i mówię: „Słyszę, co mówisz, mamo, ale osobiście się nie zgadzam.” Ciepłe światło lampy sufitowej wieczorem jest kojące, i czuję się usatysfakcjonowana moim dyplomatycznym stwierdzeniem sprzeciwu.
+
+---
+
+*Ten post został przetłumaczony z języka angielskiego. [Przeczytaj oryginał]({{ page.original_post }})*
+
+---
+
+*Ten post został przetłumaczony z języka angielskiego. [Przeczytaj oryginał]({{ page.original_post }})*
+
+---
+
+*Ten post został przetłumaczony z języka angielskiego. [Przeczytaj oryginał]({{ page.original_post }})*
+
+---
+
+*Ten post został przetłumaczony z języka angielskiego. [Przeczytaj oryginał]({{ page.original_post }})*
 
 ---
 

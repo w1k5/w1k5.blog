@@ -2,9 +2,9 @@
 layout: post
 title: Obliczeniowa dynamika Tomb Raidera
 subtitle: Złożoność PSPACE w ewolucji gier
-date: 2024-07-15 16:46:02 -0500
+date: "2024-07-15 16:46:02 -0500"
 categories: self-care
-tags: ["[tech","programming","theory","cs","computer_science]"]
+tags: 
 comments: true
 lang: pl
 original_post: /theory-computation-tr
@@ -37,7 +37,7 @@ Różnice i podobieństwa w rozwoju gier w połowie lat 90. i połowie lat 2000.
 Początki środowisk 3D
 ---------------------
 
-Oryginalny Tomb Raider był jedną z pierwszych popularnych gier, które w pełni wykorzystywały model 3D w świecie generowanym w 3D. Ze względu na ograniczenia przetwarzania konsoli Sega Saturn (dla której gra została pierwotnie stworzona), zastosowano bardzo specyficzną funkcję, aby umożliwić tworzenie ogromnych środowisk 3D – wszystkie poziomy zostały stworzone w systemie [siatki](https://www.pcgamer.com/the-history-of-tomb-raider/). Ten wirtualny świat został skonstruowany przy użyciu podstawowych kształtów geometrycznych lub "bloków", które stanowiły podstawowe jednostki budowlane do tworzenia środowisk i struktur w grze, a ruchy Lary były ograniczone do określonych liczby bloków: Lara mogła skakać pionowo i sięgać krawędzi dokładnie jednego bloku powyżej niej, skakać poziomo na dwa bloki, a z rozbiegu mogła skakać na trzy bloki.
+Oryginalny Tomb Raider był jedną z pierwszych popularnych gier, które w pełni wykorzystywały model 3D w świecie generowanym w 3D. Ze względu na ograniczenia przetwarzania konsoli Sega Saturn (dla której gra została pierwotnie stworzona), zastosowano bardzo specyficzną funkcję, aby umożliwić tworzenie ogromnych środowisk 3D – wszystkie poziomy zostały stworzone w systemie [siatki](https://www.pcgamer.com/the-history-of-tomb-raider/). Ten wirtualny świat został skonstruowany przy użyciu podstawowych kształtów geometrycznych lub bloków, które stanowiły podstawowe jednostki budowlane do tworzenia środowisk i struktur w grze, a ruchy Lary były ograniczone do określonych liczby bloków: Lara mogła skakać pionowo i sięgać krawędzi dokładnie jednego bloku powyżej niej, skakać poziomo na dwa bloki, a z rozbiegu mogła skakać na trzy bloki.
 
 Ze względu na ograniczenia sprzętowe i technologii graficznej w połowie lat 90., tworzenie bezszwowych i bardzo szczegółowych środowisk było wyzwaniem, więc często używano powtarzających się wzorów tekstur, aby pokryć duże powierzchnie i stworzyć iluzję szczegółowości bez potrzeby nadmiernych zasobów obliczeniowych. Gdy gracze stawali się bardziej zaznajomieni z grą i jej stylem wizualnym, rozwijali intuicję do rozpoznawania wzorów i zrozumienia ograniczeń technologii graficznej. Rozwijanie poczucia, jak elementy wizualne były skonstruowane i jak gracz mógł z nimi interagować, kształtowało podejmowanie decyzji związanych z grą, demonstrując skomplikowaną interakcję między zrozumieniem przez gracza ograniczeń wizualnych gry a strategicznymi wyborami podejmowanymi podczas rozgrywki.
 
@@ -75,6 +75,22 @@ Główne cechy tunelu #1 to ruchoma skrzynia, korytarz wypełniony wirującymi o
 W środkowym korytarzu znajduje się para dużych wirujących ostrzy, które wychodzą z boków tunelu. Na każdej stronie tunelu znajduje się tor, na którym para ostrzy jest umieszczona w ścianie. Ostrza wirują i poruszają się tam i z powrotem w tunelu. [\[1\]](#ftnt1) To pozwala na ruch ostrzy, co okaże się przydatne później. Ostrza wirują wystarczająco szybko, zajmują szeroki odcinek tunelu i są umieszczone w taki sposób, że Lara nie może przeskoczyć nad ostrzami, przykucnąć pod nimi ani przejść przez nie bez odniesienia obrażeń i śmierci. W naszym poziomie ostrza są śmiertelne, więc każdy kontakt zabije Larę. ![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXfb2qBqXsBxFfMsA-uvbCZWrctfej8dSSlf8-kO8BXiN1nFLRKZTdURHHoAckgq3Q_bVaYn9zBpf2dKImB61He9Y3Y5KohFMJmY-Qm61LcPRnxxOGMKvsfvcCLrlex1Xp42HiUiq7LwzXHUZX0W?key=gsd_dwRg7Ob3d3qc7sHmeA){: .rounded-white-bkg}
 
 Kolejną cechą jest ruchomy blok, który można pchać tylko od tyłu. W stanie 1, blok jest umieszczony po stronie lokalizacji A. Jedynym sposobem, w jaki Lara Croft może przejść przez wirujące ostrza, jest pchanie tego bloku przed sobą, gdy przechodzi przez środek tunelu. Umieszczając blok przed sobą, Lara skutecznie używa bloku jako tarczy, ponieważ blokuje on ostrza i uniemożliwia im obrót. Ponieważ każde ostrze jest umieszczone na torze, gdy zostaną zatrzymane na bloku, można je przesuwać do przodu, gdy Lara pcha blok w kierunku lokalizacji B, jak pokazano [tutaj](https://youtube.com/clip/UgkxleRUMdtkTjiPcyetoalO8hjXBYV6ENzX). Ostrza na tym poziomie gry działają dokładnie tak samo jak te na klipie. Jednak na tym poziomie gry pamiętaj, że jest ich wystarczająco dużo, że Lara może przejść przez środkową część tylko pchając blok przez wszystkie ostrza, tzn. nie może wystarczająco dobrze wyczuć czasu, aby prze
+
+---
+
+*Ten post został przetłumaczony z języka angielskiego. [Przeczytaj oryginał]({{ page.original_post }})*
+
+---
+
+*Ten post został przetłumaczony z języka angielskiego. [Przeczytaj oryginał]({{ page.original_post }})*
+
+---
+
+*Ten post został przetłumaczony z języka angielskiego. [Przeczytaj oryginał]({{ page.original_post }})*
+
+---
+
+*Ten post został przetłumaczony z języka angielskiego. [Przeczytaj oryginał]({{ page.original_post }})*
 
 ---
 

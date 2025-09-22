@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Wpis do Dziennika: Zagubiona w Labiryncie, Goniąc za Pięknem
+title: "Wpis do Dziennika: Zagubiona w Labiryncie, Goniąc za Pięknem"
 subtitle: O bogactwie, dorastaniu i odnajdywaniu własnej drogi
-date: 2015-08-08 14:27:02 -0500
+date: "2015-08-08 14:27:02 -0500"
 categories: contact
-tags: ["[teen life","self-reflection","personal growth","NYC experiences","family dynamics","ambition","envy","finding beauty","journaling","teenage perspective","growing up","introspection","life lessons","creative expression]"]
+tags: 
 comments: true
 lang: pl
 original_post: /wealth
@@ -41,6 +41,22 @@ Jestem zagubiona w labiryncie, ale jestem szczęśliwa. Przynajmniej staram się
 Za ścianami labiryntu jest szeroka, otwarta przestrzeń. Jest biała, pusta, pełna możliwości. Czeka, aż przybędę i stworzę coś w tej przestrzeni. Ale boję się, że nigdy tam nie dotrę.
 
 Muszę to osiągnąć. Nie mogę być tylko tą unoszącą się istotą, która nigdy nie potrafi stworzyć czegoś pięknego.
+
+---
+
+*Ten post został przetłumaczony z języka angielskiego. [Przeczytaj oryginał]({{ page.original_post }})*
+
+---
+
+*Ten post został przetłumaczony z języka angielskiego. [Przeczytaj oryginał]({{ page.original_post }})*
+
+---
+
+*Ten post został przetłumaczony z języka angielskiego. [Przeczytaj oryginał]({{ page.original_post }})*
+
+---
+
+*Ten post został przetłumaczony z języka angielskiego. [Przeczytaj oryginał]({{ page.original_post }})*
 
 ---
 

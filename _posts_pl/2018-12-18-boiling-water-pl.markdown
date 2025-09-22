@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Gotująca Woda
-date: 2018-12-18 00:00:02 -0500
+date: "2018-12-18 00:00:02 -0500"
 categories: sweet-lovin
 comments: true
 lang: pl
@@ -35,6 +35,22 @@ poruszyła cię.<br>
 Poddałaś się na chwilę<br>
 i potrzebujesz chwili, by dojść do siebie,<br>
 sama.
+
+---
+
+*Ten post został przetłumaczony z języka angielskiego. [Przeczytaj oryginał]({{ page.original_post }})*
+
+---
+
+*Ten post został przetłumaczony z języka angielskiego. [Przeczytaj oryginał]({{ page.original_post }})*
+
+---
+
+*Ten post został przetłumaczony z języka angielskiego. [Przeczytaj oryginał]({{ page.original_post }})*
+
+---
+
+*Ten post został przetłumaczony z języka angielskiego. [Przeczytaj oryginał]({{ page.original_post }})*
 
 ---
 

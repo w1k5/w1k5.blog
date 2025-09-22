@@ -1,9 +1,9 @@
 ---
 layout: post
-title: KLIPY: Seria Pozornie Wyreżyserowanych Wydarzeń
-date: 2020-09-04 18:27:02 -0500
+title: "KLIPY: Seria Pozornie Wyreżyserowanych Wydarzeń"
+date: "2020-09-04 18:27:02 -0500"
 categories: contact
-tags: ["[poverty","money","nyc","life","stories","clips]"]
+tags: 
 comments: true
 lang: pl
 original_post: /staged-clip
@@ -23,7 +23,23 @@ Wciska jej banknot, a ona się oddala, zasadniczo. Z moją przyjaciółką idzie
 
 Wyjaśniamy, a oni kiwają głowami ze zrozumieniem, twierdząc, że wszystko wydawało się dziwnie zaaranżowane. My również kiwamy głowami w zgodzie. Co za dziwna seria wydarzeń: myślę, że to dzisiejsze Słowo Dnia — dziwne. Inny mężczyzna przy stole odpowiada nam z niezwykłym poziomem delikatnej empatii, powtarzając nasze własne doświadczenie. Jego dialog zawierał wiele słów, ale wydawały się one życzliwe. A potem powiedzieli nam, że nie powinniśmy czuć, że ta seria wydarzeń była naszą winą.
 
-To było trochę dziwne, bo nie czułyśmy, że to nasza wina... <a href="{{ base.url }}/contact/2020/06/09/mottos/" target="_blank">ludzie robią tylko to, co chcą</a>. Zastanawiałyśmy się, czy ta piękna grupa ludzi to prawdziwi, urodzeni i wychowani nowojorczycy. Nie wyglądało na to. Nie byliby tak empatyczni, gdyby byli.
+To było trochę dziwne, bo nie czułyśmy, że to nasza wina... <a href={{ base.url }}/contact/2020/06/09/mottos/ target=_blank>ludzie robią tylko to, co chcą</a>. Zastanawiałyśmy się, czy ta piękna grupa ludzi to prawdziwi, urodzeni i wychowani nowojorczycy. Nie wyglądało na to. Nie byliby tak empatyczni, gdyby byli.
+
+---
+
+*Ten post został przetłumaczony z języka angielskiego. [Przeczytaj oryginał]({{ page.original_post }})*
+
+---
+
+*Ten post został przetłumaczony z języka angielskiego. [Przeczytaj oryginał]({{ page.original_post }})*
+
+---
+
+*Ten post został przetłumaczony z języka angielskiego. [Przeczytaj oryginał]({{ page.original_post }})*
+
+---
+
+*Ten post został przetłumaczony z języka angielskiego. [Przeczytaj oryginał]({{ page.original_post }})*
 
 ---
 

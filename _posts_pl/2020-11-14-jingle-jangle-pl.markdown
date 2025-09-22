@@ -2,9 +2,9 @@
 layout: post
 title: O noszeniu drobnych pieniędzy
 subtitle: „Choć czas leczy rany, nie wyobrażam sobie, że chciałabyś, aby leczył je w niewłaściwy sposób.”
-date: 2020-11-14 14:27:02 -0500
+date: "2020-11-14 14:27:02 -0500"
 categories: sweet-lovin
-tags: ["[love","romance","affection","marron","tinder","emotion","suffering]"]
+tags: 
 comments: true
 lang: pl
 original_post: /jingle-jangle
@@ -21,6 +21,22 @@ I nie chodzi o to, że musisz opowiadać światu o swoim smutku: szczerze mówi�
 Zawsze jestem gotowa słuchać, kiwać głową i wymieniać się pomysłami z tobą... Lubię cię, lubię cię słuchać i zależy mi na tobie... Chcę, żebyś był szczęśliwy. Choć czas leczy wszystkie rany, nie mogę sobie wyobrazić, że chciałbyś, aby goiły się w niewłaściwy sposób. Moja mama kiedyś przecięła sobie palec do kości, gdy była w moim wieku; miała zaplanowaną wycieczkę i naprawdę chciała pojechać, więc zamiast iść do szpitala, owinęła go sama gazą i teraz jest na stałe zgięty w jednym ze stawów. Niezbyt ładne.
 
 Końcowa uwaga -- to krótszy tekst, ale jak powiedział Einstein, jeśli nie potrafisz wyjaśnić czegoś w prosty sposób, to znaczy, że nie rozumiesz tego wystarczająco dobrze.
+
+---
+
+*Ten post został przetłumaczony z języka angielskiego. [Przeczytaj oryginał]({{ page.original_post }})*
+
+---
+
+*Ten post został przetłumaczony z języka angielskiego. [Przeczytaj oryginał]({{ page.original_post }})*
+
+---
+
+*Ten post został przetłumaczony z języka angielskiego. [Przeczytaj oryginał]({{ page.original_post }})*
+
+---
+
+*Ten post został przetłumaczony z języka angielskiego. [Przeczytaj oryginał]({{ page.original_post }})*
 
 ---
 

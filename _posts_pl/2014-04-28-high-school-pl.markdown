@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Dziennik: Nadzieja, Zagłada i Liceum
+title: "Dziennik: Nadzieja, Zagłada i Liceum"
 subtitle: Refleksje zmęczonej dziewczyny próbującej zrozumieć wszystko
-date: 2014-04-28 14:27:02 -0500
+date: "2014-04-28 14:27:02 -0500"
 categories: contact
-tags: ["[teen life","high school struggles","teenage angst","personal reflection","journaling","self-discovery","hope and motivation","school stress","social anxiety","adolescent thoughts","emotional writing","introspection","teenage identity","friendship","participation struggles]"]
+tags: 
 comments: true
 lang: pl
 original_post: /high-school
@@ -24,11 +24,27 @@ To na tym teraz próbuję się skupić: na nadziei. Wszyscy mamy tyle potencjał
 
 Heh, spójrz na mnie. Brzmię jak jakiś coach motywacyjny. Śmieszne. Nie powinnam być coachem motywacyjnym. To nie jest wystarczająco cool dla mnie. Moja praca powinna być cool, albo pełna blasku, coś, co zaimponuje moim wnukom. Zastanawiam się, jacy oni będą.
 
-Pamiętam, jak byłam dziś w kościele i wyobrażałam sobie siebie z dzieckiem, rozczulając się i płacząc, gdy zrobią coś wspaniałego. Siadają na moich kolanach i pytają, dlaczego płaczę, a ja po prostu powiem: "Jesteś niesamowity, i tak bardzo cię kocham." A oni mnie przytulą i powiedzą: "Wiem, wiem." Westchnienie.
+Pamiętam, jak byłam dziś w kościele i wyobrażałam sobie siebie z dzieckiem, rozczulając się i płacząc, gdy zrobią coś wspaniałego. Siadają na moich kolanach i pytają, dlaczego płaczę, a ja po prostu powiem: Jesteś niesamowity, i tak bardzo cię kocham. A oni mnie przytulą i powiedzą: Wiem, wiem. Westchnienie.
 
 Wciąż chciałabym, żeby ktoś ze mną porozmawiał. Jestem w parku, siedzę na ławce, po prostu piszę. Zastanawiam się, czy ktoś kiedykolwiek zastanawia się, co piszę. Ale kogo to obchodzi? Myślą, że są tacy cholernie cool. Nienawidzę ich.
 
 Jak zawsze, jestem kulą miłości z małym rdzeniem nienawiści. Ale wciąż chciałabym, żeby ktoś z nich ze mną porozmawiał. Myślę, że to smutne. Jestem smutną osobą. Chciałabym, żeby ktoś mógł powiedzieć cześć, skomplementować mnie, albo po prostu zacząć rozmowę. Może jestem zastraszająca. Nie wiem. Nienawidzę ludzi, którzy trzymają się swoich wyznaczonych społecznych klik.
+
+---
+
+*Ten post został przetłumaczony z języka angielskiego. [Przeczytaj oryginał]({{ page.original_post }})*
+
+---
+
+*Ten post został przetłumaczony z języka angielskiego. [Przeczytaj oryginał]({{ page.original_post }})*
+
+---
+
+*Ten post został przetłumaczony z języka angielskiego. [Przeczytaj oryginał]({{ page.original_post }})*
+
+---
+
+*Ten post został przetłumaczony z języka angielskiego. [Przeczytaj oryginał]({{ page.original_post }})*
 
 ---
 

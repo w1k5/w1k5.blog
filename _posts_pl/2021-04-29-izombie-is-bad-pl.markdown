@@ -2,9 +2,9 @@
 layout: post
 title: iZombie to głupi serial
 subtitle: To jeden z moich ulubionych.
-date: 2021-04-29 12:38:15 -0500
+date: "2021-04-29 12:38:15 -0500"
 categories: self-care
-tags: ["[television","media","nerd","geek","tv","series","netflix","dumb show","dumb shows]"]
+tags: 
 comments: true
 lang: pl
 original_post: /izombie-is-bad
@@ -12,28 +12,44 @@ original_post: /izombie-is-bad
 
 
 
-Naprawdę lubię <a href="https://www.netflix.com/watch/80027159?source=35" target="_blank">iZombie</a>. Oglądam to pewnie tak, jak większość ludzi ogląda jakiś serial jak The Office. Podoba mi się, że jest geekowski, zabawny i mroczny: rezonuje ze mną, tak jak większość rzeczy, które ktoś lubi, ma tendencję do tego. To nie jest dzieło sztuki czy coś w tym stylu, ale jest funkcjonalne i spełnia swoje zadanie. Przynajmniej mi się podoba. Możesz go znaleźć na Netflixie, jeśli się zastanawiałaś.
+Naprawdę lubię <a href=https://www.netflix.com/watch/80027159?source=35 target=_blank>iZombie</a>. Oglądam to pewnie tak, jak większość ludzi ogląda jakiś serial jak The Office. Podoba mi się, że jest geekowski, zabawny i mroczny: rezonuje ze mną, tak jak większość rzeczy, które ktoś lubi, ma tendencję do tego. To nie jest dzieło sztuki czy coś w tym stylu, ale jest funkcjonalne i spełnia swoje zadanie. Przynajmniej mi się podoba. Możesz go znaleźć na Netflixie, jeśli się zastanawiałaś.
 
-<a href="https://www.netflix.com/watch/80027159?source=35"><img src="https://pa1.narvii.com/6879/23b6da6d2fb2836ae55c8d1503416a8ce25873f5r1-500-250_hq.gif" style="margin-top: 1rem; margin-left: auto; margin-right: auto;"></a>
+<a href=https://www.netflix.com/watch/80027159?source=35><img src=https://pa1.narvii.com/6879/23b6da6d2fb2836ae55c8d1503416a8ce25873f5r1-500-250_hq.gif style=margin-top: 1rem; margin-left: auto; margin-right: auto;></a>
 
-Kiedy wpiszesz tytuł serialu w Google, wyszukiwarka wyrzuca coś w rodzaju "panelu wiedzy", cokolwiek to znaczy:
+Kiedy wpiszesz tytuł serialu w Google, wyszukiwarka wyrzuca coś w rodzaju panelu wiedzy, cokolwiek to znaczy:
 
-<div style="padding: 1em; background-color: white; color: #4d5156; font-family: Roboto, arial; margin-bottom: 1em;"><h5 style="font-family: Roboto, arial; color: #202124; font-size: 20pt; margin-top: 0;">O serialu</h5>Kiedy ambitna rezydentka medycyny Liv Moore uczestniczy w imprezie, która zamienia się w zombie ucztę, dołącza do szeregów żywych trupów. Zdeterminowana, by uchodzić za człowieka mimo swojej bladej aparycji i nowo nabytej apatii, Liv opracowuje plan, by oprzeć się pragnieniu spożywania świeżych ludzkich mózgów, podejmując pracę w biurze koronera, gdzie może potajemnie podjadać mózgi dostarczanych tam zwłok. Wkrótce odkrywając, że absorbuje wspomnienia tych, na których się żywi, znajduje nowy cel, udając medium i współpracując z detektywem, aby pomóc rozwiązać ich morderstwa.</div>
+<div style=padding: 1em; background-color: white; color: #4d5156; font-family: Roboto, arial; margin-bottom: 1em;><h5 style=font-family: Roboto, arial; color: #202124; font-size: 20pt; margin-top: 0;>O serialu</h5>Kiedy ambitna rezydentka medycyny Liv Moore uczestniczy w imprezie, która zamienia się w zombie ucztę, dołącza do szeregów żywych trupów. Zdeterminowana, by uchodzić za człowieka mimo swojej bladej aparycji i nowo nabytej apatii, Liv opracowuje plan, by oprzeć się pragnieniu spożywania świeżych ludzkich mózgów, podejmując pracę w biurze koronera, gdzie może potajemnie podjadać mózgi dostarczanych tam zwłok. Wkrótce odkrywając, że absorbuje wspomnienia tych, na których się żywi, znajduje nowy cel, udając medium i współpracując z detektywem, aby pomóc rozwiązać ich morderstwa.</div>
 
-Przyznam, że opis brzmi okropnie; to jak połączenie <a href="https://knowyourmeme.com/photos/1165176-cosplay" target="_blank">"Steampunk, Joker w wersji gender swap, w kapeluszu Willy'ego Wonki..."</a> i fabuły jednej z tych tandetnych oper mydlanych, które moja mama lubi oglądać. Ale z drugiej strony, jestem dość przekonana, że większość science fiction jest trochę taka: jak inaczej można by stworzyć coś interesującego, jeśli nie przez mieszanie różnych, nieco interesujących rzeczy? Pomijając myśl, że może twórcy serialu za bardzo się starali, założenie jest jednak interesujące.
+Przyznam, że opis brzmi okropnie; to jak połączenie <a href=https://knowyourmeme.com/photos/1165176-cosplay target=_blank>Steampunk, Joker w wersji gender swap, w kapeluszu Willy'ego Wonki...</a> i fabuły jednej z tych tandetnych oper mydlanych, które moja mama lubi oglądać. Ale z drugiej strony, jestem dość przekonana, że większość science fiction jest trochę taka: jak inaczej można by stworzyć coś interesującego, jeśli nie przez mieszanie różnych, nieco interesujących rzeczy? Pomijając myśl, że może twórcy serialu za bardzo się starali, założenie jest jednak interesujące.
 
-Myślę, że najbardziej w serialu podoba mi się występ Olivii "Liv" Moore (granej przez <a href="https://en.wikipedia.org/wiki/Rose_McIver" target="_blank">Rose McIver</a>). Chociaż postacie są spójne, osobowość i zachowanie Liv zmieniają się drastycznie z odcinka na odcinek, co pokazuje talent McIver jako aktorki i utrzymuje widzów w ciekawości, co do kolejnej zmiany Liv w następnym odcinku. Jedną z moich ulubionych person jest ta z drugiego odcinka pierwszego sezonu, kiedy depresyjna Liv zamienia się w emocjonalną, seksualnie napędzaną malarkę. Zastanawiam się dlaczego. Podobała mi się także persona agorafobicznego, grającego w piwnicy maniaka (sezon 1, odcinek 6) oraz dominatrix (sezon 3, odcinek 5). Ale jakkolwiek różnorodne i interesujące mogą być persony Liv, zawsze wraca do swojej prawdziwej, niefortunnej kondycji: częściowo żywego trupa, zmuszonego do jedzenia ludzkiego mózgu, aby nie stać się zombie w stylu George'a Romero.
+Myślę, że najbardziej w serialu podoba mi się występ Olivii Liv Moore (granej przez <a href=https://en.wikipedia.org/wiki/Rose_McIver target=_blank>Rose McIver</a>). Chociaż postacie są spójne, osobowość i zachowanie Liv zmieniają się drastycznie z odcinka na odcinek, co pokazuje talent McIver jako aktorki i utrzymuje widzów w ciekawości, co do kolejnej zmiany Liv w następnym odcinku. Jedną z moich ulubionych person jest ta z drugiego odcinka pierwszego sezonu, kiedy depresyjna Liv zamienia się w emocjonalną, seksualnie napędzaną malarkę. Zastanawiam się dlaczego. Podobała mi się także persona agorafobicznego, grającego w piwnicy maniaka (sezon 1, odcinek 6) oraz dominatrix (sezon 3, odcinek 5). Ale jakkolwiek różnorodne i interesujące mogą być persony Liv, zawsze wraca do swojej prawdziwej, niefortunnej kondycji: częściowo żywego trupa, zmuszonego do jedzenia ludzkiego mózgu, aby nie stać się zombie w stylu George'a Romero.
 
 Czy widziałaś te filmy Tasty w mediach społecznościowych? Te, gdzie widzisz z góry, jak jakieś ręce gotują jakiś posiłek? Te są obecne praktycznie w każdym odcinku, z wyjątkiem tych, w których nie ma ochoty gotować. Z tym że zamiast wagu beef, gwiazdą programu jest ludzki mózg. Szczerze mówiąc, nadal jest to dość satysfakcjonujące do oglądania.
-<img src="https://i.imgur.com/6Xkliem.gif?noredirect" id="fixedwidth" style="margin-top: 1rem; margin-left: auto; margin-right: auto;">
+<img src=https://i.imgur.com/6Xkliem.gif?noredirect id=fixedwidth style=margin-top: 1rem; margin-left: auto; margin-right: auto;>
 
 Mówiąc o dość satysfakcjonujących rzeczach, w serialu jest wiele ujęć półnagich mężczyzn i pięknych kształtów aktorek, podkreślających to, czego Liv (i my jako widzowie) nie możemy mieć. Co bardzo mi się podoba. Seks i miłość są tematami przewodnimi fabuły serialu, co jest dość zaskakujące, głównie dlatego, że zombie mogą potencjalnie przenosić wirusa na swoich ludzkich kochanków, ograniczając liczbę związków seksualnych i romantycznych, jakie nasza bohaterka może mieć. A kiedy Liv ma okazję uprawiać seks, scena jest na tyle prowokacyjna, że byłabym dość zawstydzona, gdyby moi rodzice weszli i usłyszeli i/lub zobaczyli to. Trzyma mnie to w napięciu, wiesz?
 
 Rzeczywiste zagadki, które rozwiązują Liv i inni bohaterowie, są wystarczająco interesujące, podkreślone przez połączenie Liv z ofiarą poprzez dosłowne spożycie ich mózgu. Lubię kryminały, nie dlatego, że lubię zgadywać, kto to jest i mieć rację, ale z powodu procesu poznawania scenariusza i obserwowania, jak zachowują się podejrzani, jak reagują nasi bohaterowie i ich interakcji między sobą. Liv jest zadziorna i pewna siebie, dosłownie zyskując wgląd w życie ofiar morderstw poprzez ich wspomnienia, a Clyde, jej partner policjant, trzyma ją moralnie i mentalnie na ziemi. Ravi, szef Liv w kostnicy, jest również uroczy, brytyjski i uroczo nerdowski. Podoba mi się również główny obiekt miłosny Liv, Major, po prostu dlatego, że jest taki przystojny i radosny. Fajnie się to ogląda.
 
-Serial jest dość zabawny i uroczy, ale również wpisuje się w gatunek sci-fi horroru, co oznacza, że mieści się w kategorii "czarnego humoru". Osobiście uważam, że większość humoru jest z natury dość mroczna, po prostu dlatego, że jest zasadniczo przeznaczona do pomagania ludziom w radzeniu sobie z nieszczęściem, ale to już inna sprawa. Serial balansuje między postaciami robiącymi rzeczywiste żarty w formie komentarzy, a także humorem sytuacyjnym, związanym z okolicznościami ofiar i spotkaniami między różnymi postaciami z komicznymi rezultatami, z tematem śmierci subtelnie zawsze obecnym w tle.
+Serial jest dość zabawny i uroczy, ale również wpisuje się w gatunek sci-fi horroru, co oznacza, że mieści się w kategorii czarnego humoru. Osobiście uważam, że większość humoru jest z natury dość mroczna, po prostu dlatego, że jest zasadniczo przeznaczona do pomagania ludziom w radzeniu sobie z nieszczęściem, ale to już inna sprawa. Serial balansuje między postaciami robiącymi rzeczywiste żarty w formie komentarzy, a także humorem sytuacyjnym, związanym z okolicznościami ofiar i spotkaniami między różnymi postaciami z komicznymi rezultatami, z tematem śmierci subtelnie zawsze obecnym w tle.
 
-Mogę powiedzieć, że serial jest stworzony przez geeków, dla geeków. iZombie początkowo było <a href="https://www.dccomics.com/blog/2018/10/30/vertigo-for-the-dc-fan-izombie-by-chris-roberson-and-mike-allred" target="_blank">serią komiksową</a> wydaną przez <a href="https://en.wikipedia.org/wiki/Vertigo_Comics" target="_blank">DC Vertigo</a>, na której serial był luźno oparty, a co zabawne, Vertigo było wielokrotnie wspominane w całej serii, ale tym razem jako odniesienie do <a href="https://en.wikipedia.org/wiki/Vertigo_(film)" target="_blank">filmu Hitchcocka</a>. iZombie odnosi się do cosplayu, Dungeons & Dragons, gier wideo, komiksów i wszelkiego rodzaju stereotypowo geekowskich rzeczy, co przemawia do mnie na jakimś niejasnym, aktywnym poziomie. W każdym razie, teraz poważnie rozważam zainwestowanie 50 dolarów w zakup drukowanej kopii omnibusu iZombie, po prostu dlatego, że jestem frajerką na punkcie zombie, dramedi i książek w druku.
+Mogę powiedzieć, że serial jest stworzony przez geeków, dla geeków. iZombie początkowo było <a href=https://www.dccomics.com/blog/2018/10/30/vertigo-for-the-dc-fan-izombie-by-chris-roberson-and-mike-allred target=_blank>serią komiksową</a> wydaną przez <a href=https://en.wikipedia.org/wiki/Vertigo_Comics target=_blank>DC Vertigo</a>, na której serial był luźno oparty, a co zabawne, Vertigo było wielokrotnie wspominane w całej serii, ale tym razem jako odniesienie do <a href=https://en.wikipedia.org/wiki/Vertigo_(film) target=_blank>filmu Hitchcocka</a>. iZombie odnosi się do cosplayu, Dungeons & Dragons, gier wideo, komiksów i wszelkiego rodzaju stereotypowo geekowskich rzeczy, co przemawia do mnie na jakimś niejasnym, aktywnym poziomie. W każdym razie, teraz poważnie rozważam zainwestowanie 50 dolarów w zakup drukowanej kopii omnibusu iZombie, po prostu dlatego, że jestem frajerką na punkcie zombie, dramedi i książek w druku.
+
+---
+
+*Ten post został przetłumaczony z języka angielskiego. [Przeczytaj oryginał]({{ page.original_post }})*
+
+---
+
+*Ten post został przetłumaczony z języka angielskiego. [Przeczytaj oryginał]({{ page.original_post }})*
+
+---
+
+*Ten post został przetłumaczony z języka angielskiego. [Przeczytaj oryginał]({{ page.original_post }})*
+
+---
+
+*Ten post został przetłumaczony z języka angielskiego. [Przeczytaj oryginał]({{ page.original_post }})*
 
 ---
 

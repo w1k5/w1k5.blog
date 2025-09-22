@@ -2,7 +2,7 @@
 layout: post
 title: Jak Zawsze Powtarzam...
 subtitle: Lista motywujących haseł
-date: 2020-06-09 14:54:33 -0500
+date: "2020-06-09 14:54:33 -0500"
 categories: contact
 comments: true
 lang: pl
@@ -13,7 +13,7 @@ original_post: /mottos
 
 Jestem raczej niereligijna. Ale bez religii łatwo można ulec pokusom nihilizmu, który może łatwo wciągnąć kogoś w króliczą norę opartą na Złej Wierze. A taki sposób myślenia pozwala sercu ulec nienawiści. To nie jest zabawne. Dlatego zaczęłam tworzyć swoją własną małą listę wartości. Moja katolicka przyjaciółka nazwała je moimi Przykazaniami. Uważam, że ta nazwa jest zbyt autorytarna. To nigdy nie jest aż tak poważne. Dlatego nazywam je motta, po prostu coś do powtarzania i wierzenia, gdy dni mijają. Mam nadzieję, że ta lista będzie rozwijana i pielęgnowana w miarę postępu tej strony. Oto, co mam do tej pory. <!-- more -->
 
-<ul style="font-family: gentle;"><li>„Życie jest zbyt krótkie, by było nudne.”</li>
+<ul style=font-family: gentle;><li>„Życie jest zbyt krótkie, by było nudne.”</li>
 <li>„Ludzie robią tylko to, co chcą.”</li>
 <li>„Ludzie poświęcają się dla rzeczy, których pragną.”</li>
 <li>„Stąpaj ostrożnie i noś duży kij.”</li>
@@ -26,7 +26,7 @@ Jestem raczej niereligijna. Ale bez religii łatwo można ulec pokusom nihilizmu
 <li>„Natura życia to cierpienie.”</li>
 <li>„Każde grabie do siebie grabią.”</li>
 <li>„Czyż nie jesteśmy tylko zwierzętami?”</li>
-<li>„Czy <a href="/self-care/2019/07/10/on-desire/">uległaś</a>?"</li>
+<li>„Czy <a href=/self-care/2019/07/10/on-desire/>uległaś</a>?"</li>
 <li>„Czas leczy wszystkie rany.”</li>
 <li>„Nie zawsze dostajesz to, czego chcesz.”</li>
 <li>„Zawsze mogłoby być gorzej.”</li>
@@ -39,7 +39,7 @@ Jestem raczej niereligijna. Ale bez religii łatwo można ulec pokusom nihilizmu
 <li>„Kiedy ktoś cię rani, prawdopodobnie ma swoje własne problemy.”</li>
 <li>„Rób, co chcesz, i ciesz się tym, co robisz.”</li>
 <li>„Gdziekolwiek pójdziesz, tam jesteś.”</li>
-<li>„<a href="https://en.wiktionary.org/wiki/birds_of_a_feather_flock_together#Synonyms" target="_blank">Swój do swego ciągnie</a>.”</li>
+<li>„<a href=https://en.wiktionary.org/wiki/birds_of_a_feather_flock_together#Synonyms target=_blank>Swój do swego ciągnie</a>.”</li>
 <li>„Pieprzyć ten hałas.”</li>
 <li>„Bądź szybka, ale się nie spiesz.”</li>
 <li>„Jest zabawnie, dopóki nie jest.”</li>
@@ -48,6 +48,22 @@ Jestem raczej niereligijna. Ale bez religii łatwo można ulec pokusom nihilizmu
 <li>„Kiedy robi się ciężko, twardzi zaczynają działać.”</li>
 <li>„Różnorodność jest przyprawą życia.”</li>
 </ul>
+
+---
+
+*Ten post został przetłumaczony z języka angielskiego. [Przeczytaj oryginał]({{ page.original_post }})*
+
+---
+
+*Ten post został przetłumaczony z języka angielskiego. [Przeczytaj oryginał]({{ page.original_post }})*
+
+---
+
+*Ten post został przetłumaczony z języka angielskiego. [Przeczytaj oryginał]({{ page.original_post }})*
+
+---
+
+*Ten post został przetłumaczony z języka angielskiego. [Przeczytaj oryginał]({{ page.original_post }})*
 
 ---
 

@@ -1,10 +1,10 @@
 ---
 layout: post
 title: Rysunki Postaci Węglem
-subtitle: Jesień 2018: Rysunek I
-date: 2018-09-27 14:27:02 -0500
+subtitle: "Jesień 2018: Rysunek I"
+date: "2018-09-27 14:27:02 -0500"
 categories: contact
-tags: ["[porn","emotion","feeling","sex","feminism","art","charcoal","drawing","creativity]"]
+tags: 
 comments: true
 lang: pl
 original_post: /charcoal
@@ -13,27 +13,43 @@ image: /images/charcoal/making-fire.jpeg
 
 
 
-Podczas mojego pierwszego semestru na uczelni, co wtorek i czwartek od 20:00 do 21:00, chodziłam na zajęcia z rysunku aktu, głównie dlatego, że mój profesor sztuki mnie do tego zachęcał. Pamiętam, jak po raz pierwszy weszłam do sali, było tam już kilku starszych mężczyzn z miasteczka, a jeden z nich od razu się do mnie zwrócił i zapytał: "Czy jesteś modelką?". Nie byłam, choć pewnie życzyłby sobie, żebym nią była. Czy to nie zabawne?
+Podczas mojego pierwszego semestru na uczelni, co wtorek i czwartek od 20:00 do 21:00, chodziłam na zajęcia z rysunku aktu, głównie dlatego, że mój profesor sztuki mnie do tego zachęcał. Pamiętam, jak po raz pierwszy weszłam do sali, było tam już kilku starszych mężczyzn z miasteczka, a jeden z nich od razu się do mnie zwrócił i zapytał: Czy jesteś modelką?. Nie byłam, choć pewnie życzyłby sobie, żebym nią była. Czy to nie zabawne?
 <!-- more -->
-<div class="row">
-  <div class="column">
-    <img src="/images/charcoal/drama.jpeg">
-    <img src="/images/charcoal/meditate.jpeg">
-    <img src="/images/charcoal/hungover.jpeg">
+<div class=row>
+  <div class=column>
+    <img src=/images/charcoal/drama.jpeg>
+    <img src=/images/charcoal/meditate.jpeg>
+    <img src=/images/charcoal/hungover.jpeg>
   </div>
-  <div class="column">
-    <img src="/images/charcoal/sweet-dreams.jpeg">
-    <img src="/images/charcoal/shirley.jpeg">
-    <img src="/images/charcoal/nude.jpeg">
+  <div class=column>
+    <img src=/images/charcoal/sweet-dreams.jpeg>
+    <img src=/images/charcoal/shirley.jpeg>
+    <img src=/images/charcoal/nude.jpeg>
   </div>
-  <div class="column">
-    <img src="/images/charcoal/lounging.jpeg">
-    <img src="/images/charcoal/book.jpeg">
-    <img src="/images/charcoal/sitting.jpeg">
-    <img src="/images/charcoal/making-fire.jpeg">
+  <div class=column>
+    <img src=/images/charcoal/lounging.jpeg>
+    <img src=/images/charcoal/book.jpeg>
+    <img src=/images/charcoal/sitting.jpeg>
+    <img src=/images/charcoal/making-fire.jpeg>
   </div>
 </div>
 <br>
+
+---
+
+*Ten post został przetłumaczony z języka angielskiego. [Przeczytaj oryginał]({{ page.original_post }})*
+
+---
+
+*Ten post został przetłumaczony z języka angielskiego. [Przeczytaj oryginał]({{ page.original_post }})*
+
+---
+
+*Ten post został przetłumaczony z języka angielskiego. [Przeczytaj oryginał]({{ page.original_post }})*
+
+---
+
+*Ten post został przetłumaczony z języka angielskiego. [Przeczytaj oryginał]({{ page.original_post }})*
 
 ---
 

@@ -1,8 +1,8 @@
 ---
 layout: post
 title: COVID-19 i myśl heglistyczna, chyba
-subtitle: Mój egzamin końcowy z PSCI 203: Dialog
-date: 2020-05-22 22:27:02 -0500
+subtitle: "Mój egzamin końcowy z PSCI 203: Dialog"
+date: "2020-05-22 22:27:02 -0500"
 categories: politics
 comments: true
 lang: pl
@@ -11,9 +11,9 @@ original_post: /covid-and-hegelian-thought
 
 
 
-Na mój <a href="https://catalog.williams.edu/psci/detail/?strm=&cn=203&crsid=011923&req_year=0" target="_blank">PSCI 203</a> egzamin końcowy, miałam okazję napisać dialog. Oto zadanie:
+Na mój <a href=https://catalog.williams.edu/psci/detail/?strm=&cn=203&crsid=011923&req_year=0 target=_blank>PSCI 203</a> egzamin końcowy, miałam okazję napisać dialog. Oto zadanie:
 
-<i>"Frantz Fanon, Audra Simpson, Karl Marx i Bill Connolly wchodzą do baru. Jesteś barmanką. Rozpoczyna się dyskusja, w której barmanka jest pełnoprawną uczestniczką. Napisz dialog."</i>
+<i>Frantz Fanon, Audra Simpson, Karl Marx i Bill Connolly wchodzą do baru. Jesteś barmanką. Rozpoczyna się dyskusja, w której barmanka jest pełnoprawną uczestniczką. Napisz dialog.</i>
 
 Oto rezultat. Myślę, że jest umiarkowanie zabawny.<!-- more -->
 
@@ -21,7 +21,7 @@ Oto rezultat. Myślę, że jest umiarkowanie zabawny.<!-- more -->
 
 [Ekran przechodzi z czerni do ukazania scenerii. To dosłownie bar z Cheers. Jest późno, bar nawet nie wydaje się być otwarty (dlaczego miałby być podczas globalnej pandemii?), ale młoda blondynka siedzi za nim na stołku barowym, drzemiąc, jak widzimy z bliskiego ujęcia. Trzymanie stóp na barze prawdopodobnie nie jest zbyt higieniczne. Czasami po prostu miło jest usiąść w miejscu wypełnionym energią rozmów i towarzyskich spotkań, nawet jeśli nikogo tam nie ma. Powoli otwiera oczy, zmieniamy ujęcie na szersze i teraz widzimy, że przed nią siedzi czterech gości. Mruga wielokrotnie. Postacie są ułożone według ich szczytowych lat. MARX, FANON, CONNOLLEY i SIMPSON siedzą na stołkach barowych przed WIKS, od lewej do prawej. Postacie są nieruchome, absolutnie neutralne, i nagle ożywają, przesuwając się w bardziej wygodne pozycje, ich oczy świadome i żywe. MARX marszczy brwi na widok dziewczyny przed nim. Młodzi ludzie zawsze są tacy aroganccy.]
 
-WIKS: Mój Boże, to <a href="https://www.youtube.com/watch?v=rVVZ38O-wsQ" target="_blank">gromada</a> lewicowców.
+WIKS: Mój Boże, to <a href=https://www.youtube.com/watch?v=rVVZ38O-wsQ target=_blank>gromada</a> lewicowców.
 
 CONNOLLEY: [Śmieje się.] To zabawne określenie.
 
@@ -75,7 +75,7 @@ WIKS: Czytałam twoje prace, Audra. Czyż nie o tym pisałaś? Osadnicza koloniz
 
 CONNOLLEY: Czy sugerujesz, że rasistowskie, faszystowskie skłonności są moralnie akceptowalne?
 
-FANON: To wszystko mentalność kolonizatora! Stary biały człowiek, o którym wspominasz, wywierał swoją kolonizatorską władzę nad Afroamerykanami i to właśnie czyni go zasługującym na przemoc związaną z tłumieniem jego rasistowskiego zachowania! To przemoc popełniona przez samego oprawcę od początku, która skutkuje wyzwalającą siłą pozwalającą uciskanym na odpowiedź przemocą! Nie widzisz związku między "edukacyjnymi" kampaniami a próbą ustanowienia kolonialnych wartości i postaw, maskowanych jako dekolonizacja?
+FANON: To wszystko mentalność kolonizatora! Stary biały człowiek, o którym wspominasz, wywierał swoją kolonizatorską władzę nad Afroamerykanami i to właśnie czyni go zasługującym na przemoc związaną z tłumieniem jego rasistowskiego zachowania! To przemoc popełniona przez samego oprawcę od początku, która skutkuje wyzwalającą siłą pozwalającą uciskanym na odpowiedź przemocą! Nie widzisz związku między edukacyjnymi kampaniami a próbą ustanowienia kolonialnych wartości i postaw, maskowanych jako dekolonizacja?
 
 [WIKS rozgląda się, by wchłonąć nowe otoczenie.]
 
@@ -87,7 +87,7 @@ WIKS: Po prostu myślę o Ciemności w południe Arthura Koestlera, naprawdę. C
 
 CONNOLLEY: [Gestykuluje rękami, mówiąc wyraźnie i głośno.] Faszyzm? Trump marzy o byciu faszystą! Jego działania często odzwierciedlają zachowania i przywództwo Hitlera, ostatecznego faszysty! Czy wydaje ci się, że ma szczególnie spójną ideologię? Jest faszystą bez ideologii!
 
-WIKS: Cóż, na początek, myślę, że słowo "faszysta" jest rzucane zbyt często. Praktycznie wszyscy o tym mówicie. Jest prawie bez znaczenia w tym momencie. Każdy, kto kiedykolwiek narzuca swoją władzę na coś lub kogoś innego, mógłby być uznany za faszystę, nawet jeśli to tylko prośba o zaangażowanie się w rozmowę, biorąc pod uwagę, że dosłownie popełnienie jakiejkolwiek akcji wiąże się z dominacją i propagowaniem własnej ideologii, która jest nieodłącznie związana z twoją rasą, narodowością, etnicznością itp., z natury tych wszystkich będących społecznie skonstruowanymi, w które jesteś socjalizowany. Więc teraz wszystko jest polityczne. Osobiste jest polityczne. Nawet Marx to mówi. Nie wydaje się to zbyt zabawne, jednak.
+WIKS: Cóż, na początek, myślę, że słowo faszysta jest rzucane zbyt często. Praktycznie wszyscy o tym mówicie. Jest prawie bez znaczenia w tym momencie. Każdy, kto kiedykolwiek narzuca swoją władzę na coś lub kogoś innego, mógłby być uznany za faszystę, nawet jeśli to tylko prośba o zaangażowanie się w rozmowę, biorąc pod uwagę, że dosłownie popełnienie jakiejkolwiek akcji wiąże się z dominacją i propagowaniem własnej ideologii, która jest nieodłącznie związana z twoją rasą, narodowością, etnicznością itp., z natury tych wszystkich będących społecznie skonstruowanymi, w które jesteś socjalizowany. Więc teraz wszystko jest polityczne. Osobiste jest polityczne. Nawet Marx to mówi. Nie wydaje się to zbyt zabawne, jednak.
 
 MARX: [Gładzi tę bujną brodę.] Rzeczywiście to mówię.
 
@@ -106,6 +106,22 @@ CONNOLLEY: Masz fantastyczny styl Jordana Petersona unikania pytań.
 [Wyraźnie WIKS nie radzi sobie zbyt dobrze z temperamentem od czasu izolacji od rówieśników.]
 
 WIKS: Przyznaję się do wartości waszych prac! Słuchaj, rozbierając wszystkie wasze pomysły, zawsze można je sprowadzić do stałej mentalności my kontra oni, nieustannie w konflikcie i przekazywanej z pokolenia na pokolenie. Macie różne pomysły na to, jak możemy u
+
+---
+
+*Ten post został przetłumaczony z języka angielskiego. [Przeczytaj oryginał]({{ page.original_post }})*
+
+---
+
+*Ten post został przetłumaczony z języka angielskiego. [Przeczytaj oryginał]({{ page.original_post }})*
+
+---
+
+*Ten post został przetłumaczony z języka angielskiego. [Przeczytaj oryginał]({{ page.original_post }})*
+
+---
+
+*Ten post został przetłumaczony z języka angielskiego. [Przeczytaj oryginał]({{ page.original_post }})*
 
 ---
 

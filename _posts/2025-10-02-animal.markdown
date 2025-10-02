@@ -20,4 +20,4 @@ Perhaps this is why family feels urgent. It is beyond ideology, beyond societal 
 
 Perhaps that is what I mean when I say I want to escape the overly articulated, hyper-performed world and be an animal– not to abandon humanity altogether, but to return to the oldest form of being seen: the look of someone who loves you because you are theirs, not because you've performed yourself into legibility. Pull me out of this structured society. Stomp my feet into the dirt. Let the firelight see me– animal, fully, truly seen.
 
-<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/3zoOdidUm5XfGCCwTrGSdL?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<center><p><iframe src="https://open.spotify.com/embed/track/3zoOdidUm5XfGCCwTrGSdL?utm_source=generator" width="300" height="80" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe></p></center>

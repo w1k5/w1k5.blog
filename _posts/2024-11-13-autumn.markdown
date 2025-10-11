@@ -1,7 +1,6 @@
 ---
 layout: post
-title: "The Shape of Me (But Make It Complicated)"
-subtitle: "Because why settle for simplicity when you can be a cosmic riddle?"
+title: "I Thought It Was the End, but It Was Just Another Season Turning"
 date: 2024-11-13 13:46:02 -0500
 categories: "sweet-lovin"
 tags: [Transformation, Identity, Reflection, Self-Discovery, Vulnerability, Introspection, Existentialism, Personal Growth, Emotional Clarity]

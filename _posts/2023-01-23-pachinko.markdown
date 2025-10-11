@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Love's Labyrinth"
+title: "Love’s Labyrinth, The Stable Marriage Problem, and Other Modern Tragedies"
 subtitle: "Reverse Engineering Dating as a Game Of Pachinko"
 date: 2023-01-23 16:46:02 -0500
 categories: "sweet-lovin"

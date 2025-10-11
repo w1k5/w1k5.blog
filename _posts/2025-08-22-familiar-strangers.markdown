@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Familiar Strangers"
-subtitle: Between What We Show and What We Can’t Contain
+title: "Attention Is Just Math Until Someone Feels Something, and Suddenly the World Looks Alive Again"
+subtitle: Familiar Strangers
 date: 2025-08-22 05:46:02 -0500
 categories: "self-care"
 tags: [Transformation, Identity, Reflection, Self-Discovery, Vulnerability, Introspection, Existentialism, Personal Growth, Emotional Clarity]

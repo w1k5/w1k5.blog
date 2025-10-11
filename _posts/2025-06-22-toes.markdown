@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Ode to Toes"
-subtitle: "Silly little poem"
+title: "Ten Reasons to Stay Grounded"
+subtitle: "Ode to Toes"
 date: 2025-06-22 22:52:02 -0500
 categories: "self-care"
 tags: [poem, poetry, toes]

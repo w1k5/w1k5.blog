@@ -1,0 +1,115 @@
+---
+layout: post
+title: "labor loablor"
+subtitle: About Work, Artificial Intelligence, and Investor Delusion
+date: 2025-12-06 10:06:04 -0400
+categories: "personal"
+tags: [AI, automation, labor economics, white-collar jobs, determinism, P-vs-NP, theory of computation, LLMs, investor hype, data centers, outsourcing, analysts, factory work, NP-complete, human judgment, creativity, consciousness]
+comments: true
+---
+
+AI isn’t coming for your job; it’s coming for the deterministic bullshit
+  you mistake for one.<!-- more --> 
+
+## I. The Easy Jobs Problem
+
+Most jobs, especially white-collar jobs, are not hard. Not even close. And I don’t mean this in the performative hustle-culture way where everyone pretends their deliverables are some heroic effort. I mean it in the computational sense: **most white-collar work is[deterministic](https://en.wikipedia.org/wiki/Determinism), finite, and [embarrassingly algorithmic](https://en.wikipedia.org/wiki/Knowledge_worker).**
+
+Finance guys spend all day making slide decks. Analysts click through dashboards like they’re playing a point-and-click adventure game designed for toddlers. Even people in my own field rarely impress me unless they display some weird cocktail of humility, paranoia, and genuine multitasking talent. And even then, you usually need those traits in combination for them to actually register.
+
+The stress of these jobs is real, sure. But the _work_? It’s procedural, step-based, and predictable. [P-class problems](https://en.wikipedia.org/wiki/P_\(complexity\)) disguised as careers.
+
+This is why AI is such a threat to these roles – _not_ because AI will “replace people,” but because most [people aren’t doing work](https://en.wikipedia.org/wiki/The_Culture_of_the_New_Capitalism) that requires anything like human judgment or creativity in the first place. They’re just executing [a script with a human face](https://en.wikipedia.org/wiki/Bullshit_Jobs).
+
+## II. Theory of Computation as Labor Economics
+
+One of my favorite courses in school was theory of computation. Not because the problems were beautiful (though they were), but because it gave a brutally honest lens for the world: some problems are just easy, and some are fundamentally, terrifyingly hard. And many problems we romanticize as hard are actually trivial, just badly documented.
+
+[This is the perfect way to understand labor.](https://en.wikipedia.org/wiki/P_versus_NP_problem)
+
+  *  **Problems in P** : solvable cleanly and efficiently; the realm of automatable workflows
+
+  *  **NP** : verifiable quickly, discoverable slowly; intuition helps
+
+  *  **NP-complete** : the ones with no clever shortcut; pure brute force or human insight
+
+
+Most white-collar work masquerades as NP-complete but is actually just P with bad documentation.
+
+Everything in the “analyst” universe (finance, consulting, operations, compliance, corporate reporting) consists of steps that can be formalized as an algorithm if someone is willing to do the tedious work of untangling them. [Computers are just implementations of algorithms](https://en.wikipedia.org/wiki/Computability_theory), and if the algorithm is clear, the computer does it better.
+
+The real tragedy is that human labor gets wasted pretending to solve NP-complete problems while actually performing deterministic workflows that a machine could do. Even the “hard” tasks are just P sprinkled with artificial chaos – half the time, the only reason they look hard is because someone built a process in 2004 and nobody wants to touch it.
+
+There’s something intoxicating about NP-complete problems because they resist compression. They resist being abstracted into a neat function. But most of the work of white-collar workers is the opposite: it’s compressible. It collapses under scrutiny.
+
+If a job can be solved algorithmically, it can be automated. If it can be automated, it doesn’t need a human. And if it doesn’t need a human, it becomes software. This is the real taxonomy of labor.
+
+## III. LLMs and the Myth of Replacement
+
+Is AI supposed to “replace” people? Absolutely fucking not.
+
+This is where the hype machine goes off the rails. Investors and commentators keep framing LLMs as “replacements” for human workers, but that’s silly. LLMs are incredible at producing code, documentation, and system diagrams – not at serving as the system themselves.
+
+LLMs are fantastic coders because code is testable. Code can be compiled. Code snaps into place. Honestly, that’s why I love my job. These are the kinds of tasks that actually _benefit_ from LLMs. A coding assistant without an LLM would essentially try to brute-force its way through every possible sequence of characters (see: [infinite monkey theorem](https://en.wikipedia.org/wiki/Infinite_monkey_theorem)), while an LLM can actually orient itself around a body of text – a conversation, a codebase, or an essay written by a sickly girl in bed on a Sunday afternoon. These systems thrive when their nondeterminism is paired with a structure that can constrain and correct them. But force that nondeterminism to operate a workflow directly? It becomes castration. It becomes enterprise software hell. Trying to force an LLM into a deterministic box is like putting a feral cat in a filing cabinet.
+
+These models aren’t substitutes for labor; they’re higher-order tools. Their strength lies in bootstrapping: analyzing tangled workflows, decomposing them, and generating the code that eliminates the human from the pipeline.
+
+Their nondeterminism is an asset only during this exploratory phase – think evolutionary mutation rather than production logic. But once a structure is discovered, enterprises demand determinism. So the model samples the space, produces a viable pattern, and that insight is immediately frozen into deterministic software. After that, the system has no reason to keep a stochastic model in the loop.
+
+You don’t need a chatbot UI doing cosplay as an employee. Most of these jobs are so dumbed down that you don’t need a chatbot interface at all. I fucking hate chatbots at this point. Just give me the app.
+
+## IV. The Analyst Class as White-Collar Factory Workers
+
+Finance illustrates this perfectly. The industry has spent two decades being “electronified,” abstracted away, stripped of its illusions. Beneath polished shoes and port-co audits, the work is a sequence of deterministic steps disguised as sophistication. Many finance jobs have already been hollowed out – not through AI, but through plain old distributed systems, vendor software, electronic markets, pipelines, OMS/EMS platforms, and straight-through processing.
+
+Analysts, especially, are [white-collar factory workers](https://en.wikipedia.org/wiki/Scientific_management). They move data around. They reformat CSVs. They reconcile numbers between systems that weren’t designed to talk to each other. They manually perform the logic that a computer should have been doing in the first place. It’s rope work. AI is not going to replace people, unless their jobs involve the kind of rope work that’s just the white-collar equivalent of factory labor. And yes, that sometimes includes software engineers.
+
+We’ve already seen this story with [outsourcing and consultancies](https://en.wikipedia.org/wiki/Business_process_outsourcing): armies of humans brought in to untangle legacy systems and glue workflows together. LLMs are just a cheaper, faster, investor-subsidized variant of the same thing. And just like with outsourcing, the set of companies and workflows that actually need this kind of cleanup is finite. Automation isn’t a bottomless pit. Electronification has a boundary. Once AI has refactored all the P-class labor, there is no more P-class labor to refactor. The next generation of systems will be AI-native, where appropriate (hopefully).
+
+[![Call Center Pointers for Applicants and Newbies | juliomiguel3](https://substackcdn.com/image/fetch/$s_!OT3w!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3e606029-53de-4716-837a-365173648c76_600x410.jpeg)](https://substackcdn.com/image/fetch/$s_!OT3w!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3e606029-53de-4716-837a-365173648c76_600x410.jpeg)Call centers are a great use case for LLMs, which are often outsourced.
+
+Yet companies cling to their archaic processes because incentives are misaligned: bureaucracy protects itself ([Parkinson’s law](https://en.wikipedia.org/wiki/Parkinson%27s_law),[ Peter Principle](https://en.wikipedia.org/wiki/Peter_principle)), and executives prefer “roadmaps” to actual disruption ([Innovator’s Dilemma](https://en.wikipedia.org/wiki/The_Innovator%27s_Dilemma)).
+
+But the long arc is clear: the analyst class is doomed.
+
+## V. The Investor Fantasy and the Data-Center Delusion
+
+And here’s the part nobody in investor-land wants to hear: the AI boom is being priced as if LLMs will run every workflow forever. Endless inference. Endless prompts. Endless racks in the desert slurping power like dehydrated horses.
+
+But that assumption only holds if LLMs become the workers. And they won’t.
+
+LLMs don’t _do_ work – they describe work, refactor work, and most importantly, eliminate work. Their highest economic value is not performing tasks but deleting tasks by crystallizing them into deterministic code. You don’t need a trillion-parameter model to push a button. You need the model once to build the system that pushes the button. And then the model can fuck off.
+
+Investors are betting on recurring inference. Reality is pointing toward one-shot automation.
+
+So why the data-center arms race? Because investors are extrapolating human labor economics – where “more workers” means “more output” – onto a technology whose endgame is zero workers. They’re building compute as if LLMs will become the labor force, when the real trajectory is that LLMs write themselves out of the labor loop entirely.
+
+There is a finite surface area of P-class, deterministic work in the world. Once that’s automated, demand for LLM inference doesn’t scale linearly– it collapses. Data centers are being built for a world where AI becomes a permanent worker. But the correct computational analogy says: AI is the temporary bootloader for actual automation.
+
+[We’ve been here before.](https://en.wikipedia.org/wiki/Dot-com_bubble) The evangelists of the _[New Economy](https://en.wikipedia.org/wiki/New_economy)_ promised a permanently transformed landscape where old constraints (labor, infrastructure, capital) simply stopped mattering. Now we’re replaying the same fantasy with GPUs instead of fiber-optic cables. Investors talk like compute demand will grow forever, as if the physical world won’t push back. But the last time we built for infinite digital work, we ended up with empty server farms and telecom wreckage littering the balance sheets. The AI boom is just the new economy with better branding and hotter chips.
+
+We’re constructing a global GPU cathedral to worship a workload that, if used correctly, should eventually shrink.
+
+## VI. The Hard Problems AI Still Cannot Touch
+
+This leads back to the NP boundary. Humans operate in a space that is irreducibly messy: the domain of intuition, judgment, desire, aesthetics, ethics, politics, stakes. [True nondeterminism, but with agency behind it.](https://en.wikipedia.org/wiki/Bounded_rationality)
+
+This is the final line that matters: LLMs lack will. They lack desire. They lack the impulse to act without being prompted. They don’t even move unless someone sends a prompt.
+
+Nondeterminism is not agency. [Stochasticity is not consciousness](https://en.wikipedia.org/wiki/Chinese_room). Sampling is not judgment.
+
+The brute-force search of the human mind (the intuitive leaps, the appetite for risk, the self-directed pursuit of meaning) is NP-complete in the truest, most beautifully chaotic sense. Humans act without instructions. They change their own objective functions. They reshape the problem itself.
+
+LLMs do none of this. They don’t wake up in the morning wanting anything. This is why AI won’t replace humans. It will replace the deterministic workflows humans tolerate but never truly inhabit. The real work – the non-algorithmic work, the nonlinear work, the work born from willpower and intuition – remains stubbornly, beautifully human.
+
+## VII. Conclusion: The NP Boundary of Labor
+
+AI won’t replace humans; it will replace all deterministic jobs by generating the code that automates them, leaving only NP-complete, human-driven, judgment-based work. Investor hype misunderstands this boundary and overestimates AI’s permanence.
+
+[![](https://substackcdn.com/image/fetch/$s_!ppKR!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff3facbc7-c84f-4340-a8ff-5e254f5c61ca_750x523.jpeg)](https://substackcdn.com/image/fetch/$s_!ppKR!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff3facbc7-c84f-4340-a8ff-5e254f5c61ca_750x523.jpeg)Reconsider labor. Reconsider consciousness.
+
+The tasks left after automation – the real judgment calls, the negotiations, the politics, the ethics, the creative leaps, the moves that require intuition and stakes and responsibility – those are the NP-complete domains where humans live.
+
+We are the ones who brute-force life through non-computable bullshit: emotion, ambition, negotiation, conflict, invention, stubbornness, hope. The work that remains, the NP-complete business of being human, is still ours.
+
+Human problem solving is “algorithmic” only in the hand-wavy sense; most of what we call intuition would be NP-hard or even undecidable if formalized. Computational feasibility, not theoretical algorithmicity, is what determines automatable labor.

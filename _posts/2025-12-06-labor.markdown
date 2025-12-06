@@ -13,7 +13,7 @@ AI isn’t coming for your job; it’s coming for the deterministic bullshit
 
 ## I. The Easy Jobs Problem
 
-Most jobs, especially white-collar jobs, are not hard. Not even close. And I don’t mean this in the performative hustle-culture way where everyone pretends their deliverables are some heroic effort. I mean it in the computational sense: **most white-collar work is[deterministic](https://en.wikipedia.org/wiki/Determinism), finite, and [embarrassingly algorithmic](https://en.wikipedia.org/wiki/Knowledge_worker).**
+Most jobs, especially white-collar jobs, are not hard. Not even close. And I don’t mean this in the performative hustle-culture way where everyone pretends their deliverables are some heroic effort. I mean it in the computational sense: most white-collar work is [deterministic](https://en.wikipedia.org/wiki/Determinism), finite, and [embarrassingly algorithmic](https://en.wikipedia.org/wiki/Knowledge_worker).
 
 Finance guys spend all day making slide decks. Analysts click through dashboards like they’re playing a point-and-click adventure game designed for toddlers. Even people in my own field rarely impress me unless they display some weird cocktail of humility, paranoia, and genuine multitasking talent. And even then, you usually need those traits in combination for them to actually register.
 
@@ -27,11 +27,11 @@ One of my favorite courses in school was theory of computation. Not because the 
 
 [This is the perfect way to understand labor.](https://en.wikipedia.org/wiki/P_versus_NP_problem)
 
-  *  **Problems in P** : solvable cleanly and efficiently; the realm of automatable workflows
+  *  _Problems in P_: solvable cleanly and efficiently; the realm of automatable workflows
 
-  *  **NP** : verifiable quickly, discoverable slowly; intuition helps
+  *  _NP_: verifiable quickly, discoverable slowly; intuition helps
 
-  *  **NP-complete** : the ones with no clever shortcut; pure brute force or human insight
+  *  _NP-complete_: the ones with no clever shortcut; pure brute force or human insight
 
 
 Most white-collar work masquerades as NP-complete but is actually just P with bad documentation.
@@ -65,8 +65,6 @@ Finance illustrates this perfectly. The industry has spent two decades being “
 Analysts, especially, are [white-collar factory workers](https://en.wikipedia.org/wiki/Scientific_management). They move data around. They reformat CSVs. They reconcile numbers between systems that weren’t designed to talk to each other. They manually perform the logic that a computer should have been doing in the first place. It’s rope work. AI is not going to replace people, unless their jobs involve the kind of rope work that’s just the white-collar equivalent of factory labor. And yes, that sometimes includes software engineers.
 
 We’ve already seen this story with [outsourcing and consultancies](https://en.wikipedia.org/wiki/Business_process_outsourcing): armies of humans brought in to untangle legacy systems and glue workflows together. LLMs are just a cheaper, faster, investor-subsidized variant of the same thing. And just like with outsourcing, the set of companies and workflows that actually need this kind of cleanup is finite. Automation isn’t a bottomless pit. Electronification has a boundary. Once AI has refactored all the P-class labor, there is no more P-class labor to refactor. The next generation of systems will be AI-native, where appropriate (hopefully).
-
-[![Call Center Pointers for Applicants and Newbies | juliomiguel3](https://substackcdn.com/image/fetch/$s_!OT3w!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3e606029-53de-4716-837a-365173648c76_600x410.jpeg)](https://substackcdn.com/image/fetch/$s_!OT3w!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3e606029-53de-4716-837a-365173648c76_600x410.jpeg)Call centers are a great use case for LLMs, which are often outsourced.
 
 Yet companies cling to their archaic processes because incentives are misaligned: bureaucracy protects itself ([Parkinson’s law](https://en.wikipedia.org/wiki/Parkinson%27s_law),[ Peter Principle](https://en.wikipedia.org/wiki/Peter_principle)), and executives prefer “roadmaps” to actual disruption ([Innovator’s Dilemma](https://en.wikipedia.org/wiki/The_Innovator%27s_Dilemma)).
 
@@ -105,8 +103,6 @@ LLMs do none of this. They don’t wake up in the morning wanting anything. This
 ## VII. Conclusion: The NP Boundary of Labor
 
 AI won’t replace humans; it will replace all deterministic jobs by generating the code that automates them, leaving only NP-complete, human-driven, judgment-based work. Investor hype misunderstands this boundary and overestimates AI’s permanence.
-
-[![](https://substackcdn.com/image/fetch/$s_!ppKR!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff3facbc7-c84f-4340-a8ff-5e254f5c61ca_750x523.jpeg)](https://substackcdn.com/image/fetch/$s_!ppKR!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff3facbc7-c84f-4340-a8ff-5e254f5c61ca_750x523.jpeg)Reconsider labor. Reconsider consciousness.
 
 The tasks left after automation – the real judgment calls, the negotiations, the politics, the ethics, the creative leaps, the moves that require intuition and stakes and responsibility – those are the NP-complete domains where humans live.
 

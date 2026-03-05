@@ -49,9 +49,6 @@ Sovereign debt doesn’t have many exits. It’s less a strategy problem and mor
 
   *  **Growth miracle:** The fun one. Rare enough to be folklore.
 
-
-
-
 Nobody chooses default unless forced. Austerity is political self-immolation. Growth miracles don’t arrive on schedule. That leaves inflationary erosion—currency debasement. Not dramatic. Not Weimar. Just persistent dilution.
 
 Debasement doesn’t have to be dramatic. Sovereign debt rarely explodes; it metastasizes bureaucratically—refinanced, extended, reclassified, losses shifted from “realized” to “held to maturity,” timelines stretched, and optics smoothed. There is a name for this broader pattern: financial repression. Rates are kept below inflation, institutions are steered toward sovereign debt, and time (assisted by mild currency decay) does most of the work. Savers often don’t notice at first, and when they do, it’s often already embedded.

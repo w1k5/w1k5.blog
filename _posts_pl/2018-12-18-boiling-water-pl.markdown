@@ -5,10 +5,8 @@ date: "2018-12-18 00:00:02 -0500"
 categories: sweet-lovin
 comments: true
 lang: pl
-original_post: /boiling-water
+original_post: /self-care/2018/12/18/boiling-water/
 ---
-
-
 
 <!-- more -->
 Zamykasz oczy:<br>
@@ -35,27 +33,3 @@ poruszyła cię.<br>
 Poddałaś się na chwilę<br>
 i potrzebujesz chwili, by dojść do siebie,<br>
 sama.
-
----
-
-*Ten post został przetłumaczony z języka angielskiego. [Przeczytaj oryginał]({{ page.original_post }})*
-
----
-
-*Ten post został przetłumaczony z języka angielskiego. [Przeczytaj oryginał]({{ page.original_post }})*
-
----
-
-*Ten post został przetłumaczony z języka angielskiego. [Przeczytaj oryginał]({{ page.original_post }})*
-
----
-
-*Ten post został przetłumaczony z języka angielskiego. [Przeczytaj oryginał]({{ page.original_post }})*
-
----
-
-*Ten post został przetłumaczony z języka angielskiego. [Przeczytaj oryginał]({{ page.original_post }})*
-
----
-
-*Ten post został przetłumaczony z języka angielskiego. [Przeczytaj oryginał]({{ page.original_post }})*

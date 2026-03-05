@@ -16,6 +16,17 @@ name:             "WIKS"
 excerpt_separator: "<!-- more -->"
 paginate:         5
 
+# Multilingual support
+collections:
+  posts_pl:
+    output: true
+    permalink: /:name/
+    sort_by: date
+    sort_order: reverse
+
+# Default language
+default_lang: en
+
 # Custom vars
 version:          2.1.0
 repo:           https://github.com/w1k5/w1k5.github.io

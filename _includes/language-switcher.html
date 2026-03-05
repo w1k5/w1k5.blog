@@ -1,0 +1,89 @@
+<!-- Language Switcher -->
+<div class="language-switcher" style="margin: 1rem 0; padding: 0.5rem 0; border-top: 1px solid #eee; border-bottom: 1px solid #eee;">
+  <div style="display: flex; gap: 0.5rem; align-items: center; justify-content: center;">
+    <span style="font-size: 0.9rem; color: #666;">Language:</span>
+    
+    {% if page.lang == 'pl' %}
+      <!-- Currently viewing Polish post -->
+      <a href="{{ page.original_post }}" 
+         class="lang-link"
+         style="padding: 0.25rem 0.5rem; text-decoration: none; border-radius: 3px; font-size: 0.85rem; transition: all 0.2s;">
+        🇺🇸 English
+      </a>
+      
+      <a href="{{ page.url }}" 
+         class="lang-link active"
+         style="padding: 0.25rem 0.5rem; text-decoration: none; border-radius: 3px; font-size: 0.85rem; transition: all 0.2s;">
+        🇵🇱 Polski
+      </a>
+    {% else %}
+      <!-- Currently viewing English post or page -->
+      {% if page.collection == 'posts' %}
+        <!-- Find corresponding Polish post -->
+        {% assign polish_post = site.posts_pl | where: "original_post", page.url | first %}
+        {% if polish_post %}
+          <a href="{{ page.url }}" 
+             class="lang-link active"
+             style="padding: 0.25rem 0.5rem; text-decoration: none; border-radius: 3px; font-size: 0.85rem; transition: all 0.2s;">
+            🇺🇸 English
+          </a>
+          
+          <a href="{{ polish_post.url }}" 
+             class="lang-link"
+             style="padding: 0.25rem 0.5rem; text-decoration: none; border-radius: 3px; font-size: 0.85rem; transition: all 0.2s;">
+            🇵🇱 Polski
+          </a>
+        {% else %}
+          <!-- No Polish version available -->
+          <a href="{{ page.url }}" 
+             class="lang-link active"
+             style="padding: 0.25rem 0.5rem; text-decoration: none; border-radius: 3px; font-size: 0.85rem; transition: all 0.2s;">
+            🇺🇸 English
+          </a>
+          
+          <span class="lang-link disabled"
+                style="padding: 0.25rem 0.5rem; color: #ccc; font-size: 0.85rem;">
+            🇵🇱 Polski
+          </span>
+        {% endif %}
+      {% else %}
+        <!-- Non-post page -->
+        <a href="{{ page.url }}" 
+           class="lang-link active"
+           style="padding: 0.25rem 0.5rem; text-decoration: none; border-radius: 3px; font-size: 0.85rem; transition: all 0.2s;">
+          🇺🇸 English
+        </a>
+        
+        <span class="lang-link disabled"
+              style="padding: 0.25rem 0.5rem; color: #ccc; font-size: 0.85rem;">
+          🇵🇱 Polski
+        </span>
+      {% endif %}
+    {% endif %}
+  </div>
+</div>
+
+<style>
+.lang-link {
+  color: #666;
+  border: 1px solid transparent;
+}
+
+.lang-link:hover {
+  color: #333;
+  background-color: #f5f5f5;
+  border-color: #ddd;
+}
+
+.lang-link.active {
+  color: #333;
+  background-color: #e8f4f8;
+  border-color: #007acc;
+  font-weight: 500;
+}
+
+.lang-link.disabled {
+  color: #ccc;
+  cursor: not-allowed;
+}
+</style>

@@ -7,10 +7,8 @@ categories: contact
 tags: 
 comments: false
 lang: pl
-original_post: /uncertainty
+original_post: /self-care/2017/09/07/uncertainty/
 ---
-
-
 
 Jestem zadowolona. Myślę, że jestem szczęśliwa. Wciąż nie mam nikogo, z kim mogłabym porozmawiać. Chyba po prostu będę dalej pisać do Ciebie.
 
@@ -34,30 +32,4 @@ Zwykle nie okazuję zbyt wiele emocji. Zwykle po prostu bez końca rozprawiam, p
 
 Życie jest tak ekscytujące i niesamowite. Radość można znaleźć we wszystkim wokół nas. Ktoś przychodzi do szkoły—to powód do radości. Ta osoba żyje, jest w szkole, nie robi złych rzeczy. To naprawdę niesamowite. Po prostu kocham wszystkich i wszystko, mimo że czasami znajduję warstwę nienawiści pod całą tą miłością. Ale prawdopodobnie jest więcej miłości pod spodem, a ja jestem pewnie tylko zestresowana.
 
----
-
 **SEO Tags (CSV):**
-
----
-
-*Ten post został przetłumaczony z języka angielskiego. [Przeczytaj oryginał]({{ page.original_post }})*
-
----
-
-*Ten post został przetłumaczony z języka angielskiego. [Przeczytaj oryginał]({{ page.original_post }})*
-
----
-
-*Ten post został przetłumaczony z języka angielskiego. [Przeczytaj oryginał]({{ page.original_post }})*
-
----
-
-*Ten post został przetłumaczony z języka angielskiego. [Przeczytaj oryginał]({{ page.original_post }})*
-
----
-
-*Ten post został przetłumaczony z języka angielskiego. [Przeczytaj oryginał]({{ page.original_post }})*
-
----
-
-*Ten post został przetłumaczony z języka angielskiego. [Przeczytaj oryginał]({{ page.original_post }})*

@@ -18,14 +18,19 @@
   class ThemeSwitcher {
     constructor() {
       this.currentTheme = this.getStoredTheme() || defaultTheme;
+      this.followOS = this.getStoredFollowOS() !== false; // Default to true
+      this.currentOSTheme = null;
+      this.osThemePollInterval = null;
       this.init();
     }
 
     // Initialize the theme switcher
     init() {
       this.createToggleButton();
+      this.createOSFollowToggle();
       this.applyTheme(this.currentTheme);
       this.bindEvents();
+      this.startOSThemeWatcher();
     }
 
     // Create the theme toggle button

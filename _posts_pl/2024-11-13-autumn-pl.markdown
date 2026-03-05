@@ -7,10 +7,8 @@ categories: sweet-lovin
 tags: 
 comments: true
 lang: pl
-original_post: /autumn
+original_post: /self-care/2024/11/13/autumn/
 ---
-
-
 
 Uczę się, że bycie człowiekiem oznacza życie z wewnętrznymi sprzecznościami. Jest to ból, nieustanny głód bycia dostrzeganą, ale także silna potrzeba ochrony najdelikatniejszych części siebie. Chcę być całkowicie tu, a jednocześnie nieskrępowana, wolna. I jakoś wciąż odnajduję kawałki siebie w miejscach, które myślałam, że zostawiłam za sobą — w ludziach, o których prawie zapomniałam, w dymie dawno minionych nocy i w słowach, którymi próbuję to wszystko otoczyć. Jestem kształtem w ruchu, opowieścią, która nie chce się skończyć, nieustannie zmieniającą się, sezon po sezonie.<!-- more -->
 
@@ -43,27 +41,3 @@ Są chwile, kiedy wszystko jest tak jasne, jak dźwięk małych wybuchających p
 * * *
 
 Każde z tych uczuć — pragnienie bycia widzianą, tęsknota za połączeniem i nostalgia za tym, co umknęło — są kawałkami większej całości. Nie są oddzielne; krążą we mnie, wciąż na nowo, jak zmieniające się pory roku. To tak, jakbym była sumą wszystkich tych sprzecznych części, każda z nich informuje o innej, tworząc życie, które jest zarówno piękne, jak i boleśnie przemijające. Może nigdy nie będę miała pełnej jasności, ale może o to właśnie chodzi. W końcu nie potrzebuję jasności, ale odwagi, by objąć niepewność i żyć każdą porą roku, jaką przynosi. Pisanie to tylko zabawny efekt uboczny.
-
----
-
-*Ten post został przetłumaczony z języka angielskiego. [Przeczytaj oryginał]({{ page.original_post }})*
-
----
-
-*Ten post został przetłumaczony z języka angielskiego. [Przeczytaj oryginał]({{ page.original_post }})*
-
----
-
-*Ten post został przetłumaczony z języka angielskiego. [Przeczytaj oryginał]({{ page.original_post }})*
-
----
-
-*Ten post został przetłumaczony z języka angielskiego. [Przeczytaj oryginał]({{ page.original_post }})*
-
----
-
-*Ten post został przetłumaczony z języka angielskiego. [Przeczytaj oryginał]({{ page.original_post }})*
-
----
-
-*Ten post został przetłumaczony z języka angielskiego. [Przeczytaj oryginał]({{ page.original_post }})*

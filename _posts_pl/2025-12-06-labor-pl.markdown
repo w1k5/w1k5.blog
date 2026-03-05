@@ -1,0 +1,111 @@
+---
+layout: "post"
+title: "Praca"
+subtitle: "O pracy, sztucznej inteligencji i złudzeniach inwestorów"
+date: "2025-12-06 10:06:04 -0400"
+categories: "personal"
+tags: "[AI, automation, labor economics, white-collar jobs, determinism, P-vs-NP, theory of computation, LLMs, investor hype, data centers, outsourcing, analysts, factory work, NP-complete, human judgment, creativity, consciousness]"
+comments: "true"
+lang: "pl"
+original_post: /personal/2025/12/06/labor/
+---
+
+AI nie przychodzi po twoją pracę; przychodzi po deterministyczne bzdury, które mylisz z pracą.
+
+## I. Problem Łatwych Prac
+
+Większość prac, zwłaszcza tych biurowych, nie jest trudna. Nawet blisko. I nie mówię tego w performatywny sposób kultury harówki, gdzie wszyscy udają, że ich zadania są jakimś heroicznym wysiłkiem. Mówię to w sensie obliczeniowym: większość pracy biurowej jest [deterministyczna](https://en.wikipedia.org/wiki/Determinism), skończona i [żenująco algorytmiczna](https://en.wikipedia.org/wiki/Knowledge_worker).
+
+Finansiści spędzają cały dzień na tworzeniu prezentacji. Analitycy klikają przez dashboardy, jakby grali w przygodową grę point-and-click zaprojektowaną dla maluchów. Nawet ludzie w mojej własnej dziedzinie rzadko mnie imponują, chyba że wykazują dziwną mieszankę pokory, paranoi i prawdziwego talentu do wielozadaniowości. I nawet wtedy, zazwyczaj potrzebujesz tych cech w kombinacji, aby rzeczywiście się wyróżniały.
+
+Stres związany z tymi pracami jest realny, oczywiście. Ale _praca_? Jest proceduralna, krokowa i przewidywalna. [Problemy klasy P](https://en.wikipedia.org/wiki/P_\(complexity\)) przebrane za kariery.
+
+To dlatego AI stanowi takie zagrożenie dla tych ról – _nie_ dlatego, że AI „zastąpi ludzi”, ale dlatego, że większość [ludzi nie wykonuje pracy](https://en.wikipedia.org/wiki/The_Culture_of_the_New_Capitalism), która wymaga czegokolwiek podobnego do ludzkiego osądu czy kreatywności na pierwszym miejscu. Po prostu wykonują [scenariusz z ludzką twarzą](https://en.wikipedia.org/wiki/Bullshit_Jobs).
+
+## II. Teoria Obliczeń jako Ekonomia Pracy
+
+Jednym z moich ulubionych kursów w szkole była teoria obliczeń. Nie dlatego, że problemy były piękne (choć były), ale dlatego, że dawała brutalnie szczery obraz świata: niektóre problemy są po prostu łatwe, a niektóre są fundamentalnie, przerażająco trudne. I wiele problemów, które romantyzujemy jako trudne, jest w rzeczywistości trywialnych, tylko źle udokumentowanych.
+
+[To jest idealny sposób na zrozumienie pracy.](https://en.wikipedia.org/wiki/P_versus_NP_problem)
+
+  *  _Problemy w P_: rozwiązywalne czysto i efektywnie; domena automatyzowalnych przepływów pracy
+
+  *  _NP_: weryfikowalne szybko, odkrywalne powoli; intuicja pomaga
+
+  *  _NP-zupełne_: te bez sprytnego skrótu; czysta siła brutto lub ludzki wgląd
+
+Większość pracy biurowej udaje, że jest NP-zupełna, ale w rzeczywistości jest tylko P z złą dokumentacją.
+
+Wszystko w uniwersum „analityka” (finanse, konsulting, operacje, zgodność, raportowanie korporacyjne) składa się z kroków, które można sformalizować jako algorytm, jeśli ktoś jest gotów wykonać żmudną pracę ich rozplątywania. [Komputery to tylko implementacje algorytmów](https://en.wikipedia.org/wiki/Computability_theory), a jeśli algorytm jest jasny, komputer robi to lepiej.
+
+Prawdziwa tragedia polega na tym, że ludzka praca jest marnowana na udawanie rozwiązywania problemów NP-zupełnych, podczas gdy w rzeczywistości wykonuje deterministyczne przepływy pracy, które maszyna mogłaby zrobić. Nawet „trudne” zadania są tylko P posypane sztucznym chaosem – połowa czasu, jedyny powód, dla którego wyglądają na trudne, to fakt, że ktoś zbudował proces w 2004 roku i nikt nie chce go dotknąć.
+
+Jest coś upajającego w problemach NP-zupełnych, ponieważ opierają się kompresji. Opierają się abstrakcji do zgrabnej funkcji. Ale większość pracy pracowników biurowych jest odwrotna: jest kompresowalna. Zapada się pod lupą.
+
+Jeśli pracę można rozwiązać algorytmicznie, można ją zautomatyzować. Jeśli można ją zautomatyzować, nie potrzebuje człowieka. A jeśli nie potrzebuje człowieka, staje się oprogramowaniem. To jest prawdziwa taksonomia pracy.
+
+## III. LLM i Mit Zastąpienia
+
+Czy AI ma „zastąpić” ludzi? Absolutnie nie.
+
+To tutaj maszyna hype'u schodzi z torów. Inwestorzy i komentatorzy wciąż przedstawiają LLM jako „zastępstwa” dla pracowników, ale to głupie. LLM są niesamowite w produkcji kodu, dokumentacji i diagramów systemowych – nie w pełnieniu roli samego systemu.
+
+LLM są fantastycznymi koderami, ponieważ kod jest testowalny. Kod można skompilować. Kod pasuje na swoje miejsce. Szczerze mówiąc, dlatego kocham swoją pracę. To są rodzaje zadań, które rzeczywiście _korzystają_ z LLM. Asystent kodowania bez LLM zasadniczo próbowałby siłowo przejść przez każdą możliwą sekwencję znaków (patrz: [teoria nieskończonego małpy](https://en.wikipedia.org/wiki/Infinite_monkey_theorem)), podczas gdy LLM może rzeczywiście zorientować się wokół tekstu – rozmowy, bazy kodu czy eseju napisanego przez chorą dziewczynę w łóżku w niedzielne popołudnie. Te systemy prosperują, gdy ich niedeterministyczność jest połączona ze strukturą, która może je ograniczyć i poprawić. Ale zmusić tę niedeterministyczność do bezpośredniego operowania przepływem pracy? To staje się kastracją. To staje się piekłem oprogramowania korporacyjnego. Próba wciśnięcia LLM do deterministycznego pudełka jest jak włożenie dzikiego kota do szafki na akta.
+
+Te modele nie są substytutami pracy; są narzędziami wyższego rzędu. Ich siła leży w bootstrapowaniu: analizowaniu splątanych przepływów pracy, dekomponowaniu ich i generowaniu kodu, który eliminuje człowieka z procesu.
+
+Ich niedeterministyczność jest atutem tylko w tej fazie eksploracyjnej – pomyśl o ewolucyjnej mutacji, a nie logice produkcyjnej. Ale gdy struktura zostanie odkryta, przedsiębiorstwa wymagają deterministyczności. Więc model próbuje przestrzeń, produkuje wykonalny wzorzec, a ten wgląd jest natychmiast zamrażany w deterministycznym oprogramowaniu. Po tym, system nie ma powodu, by trzymać stochastyczny model w pętli.
+
+Nie potrzebujesz interfejsu chatbotowego udającego pracownika. Większość tych prac jest tak uproszczona, że nie potrzebujesz w ogóle interfejsu chatbotowego. Nienawidzę chatbotów w tym momencie. Po prostu daj mi aplikację.
+
+## IV. Klasa Analityków jako Białokolorowi Pracownicy Fabryczni
+
+Finanse ilustrują to doskonale. Przemysł spędził dwie dekady na „elektronifikacji”, abstrakcji, pozbawieniu iluzji. Pod eleganckimi butami i audytami port-co, praca to sekwencja deterministycznych kroków przebranych za wyrafinowanie. Wiele prac w finansach zostało już wydrążonych – nie przez AI, ale przez zwykłe rozproszone systemy, oprogramowanie dostawców, rynki elektroniczne, pipeline'y, platformy OMS/EMS i przetwarzanie bezpośrednie.
+
+Analitycy, zwłaszcza, są [białokolorowymi pracownikami fabrycznymi](https://en.wikipedia.org/wiki/Scientific_management). Przenoszą dane. Przekształcają CSV. Rekoncyliują liczby między systemami, które nie zostały zaprojektowane do komunikacji ze sobą. Ręcznie wykonują logikę, którą komputer powinien był wykonywać od początku. To praca na linie. AI nie zastąpi ludzi, chyba że ich praca polega na tego rodzaju pracy na linie, która jest tylko białokolorowym odpowiednikiem pracy fabrycznej. I tak, czasami obejmuje to inżynierów oprogramowania.
+
+Już widzieliśmy tę historię z [outsourcingiem i konsultacjami](https://en.wikipedia.org/wiki/Business_process_outsourcing): armie ludzi sprowadzane do rozplątywania systemów dziedzictwa i sklejania przepływów pracy. LLM są tylko tańszą, szybszą, subsydiowaną przez inwestorów wersją tego samego. I tak jak w przypadku outsourcingu, zestaw firm i przepływów pracy, które rzeczywiście potrzebują tego rodzaju sprzątania, jest skończony. Automatyzacja nie jest bezdenną przepaścią. Elektronifikacja ma granicę. Gdy AI zrefaktoryzuje całą pracę klasy P, nie ma więcej pracy klasy P do refaktoryzacji. Następna generacja systemów będzie natywna dla AI, tam gdzie to odpowiednie (mam nadzieję).
+
+Jednak firmy trzymają się swoich archaicznych procesów, ponieważ bodźce są źle ustawione: biurokracja chroni siebie ([prawo Parkinsona](https://en.wikipedia.org/wiki/Parkinson%27s_law),[ zasada Petera](https://en.wikipedia.org/wiki/Peter_principle)), a kierownictwo woli „mapy drogowe” od rzeczywistego zakłócenia ([Dylemat Innowatora](https://en.wikipedia.org/wiki/The_Innovator%27s_Dilemma)).
+
+Ale długi łuk jest jasny: klasa analityków jest skazana.
+
+## V. Fantazja Inwestora i Iluzja Centrum Danych
+
+I oto część, której nikt w krainie inwestorów nie chce słyszeć: boom AI jest wyceniany tak, jakby LLM miały prowadzić każdy przepływ pracy na zawsze. Nieskończone wnioskowanie. Nieskończone zapytania. Nieskończone regały na pustyni pochłaniające moc jak odwodnione konie.
+
+Ale to założenie trzyma się tylko wtedy, gdy LLM staną się pracownikami. A tak się nie stanie.
+
+LLM nie _wykonują_ pracy – opisują pracę, refaktoryzują pracę, a co najważniejsze, eliminują pracę. Ich najwyższa wartość ekonomiczna nie polega na wykonywaniu zadań, ale na usuwaniu zadań przez krystalizację ich w deterministyczny kod. Nie potrzebujesz modelu z bilionem parametrów, aby nacisnąć przycisk. Potrzebujesz modelu raz, aby zbudować system, który naciska przycisk. A potem model może sobie pójść.
+
+Inwestorzy stawiają na powtarzające się wnioskowanie. Rzeczywistość wskazuje na jednorazową automatyzację.
+
+Więc po co wyścig zbrojeń w centrach danych? Ponieważ inwestorzy ekstrapolują ekonomię pracy ludzkiej – gdzie „więcej pracowników” oznacza „więcej produkcji” – na technologię, której końcowym celem jest zero pracowników. Budują moc obliczeniową, jakby LLM miały stać się siłą roboczą, podczas gdy prawdziwa trajektoria jest taka, że LLM same się wykluczają z pętli pracy.
+
+Istnieje skończona powierzchnia pracy deterministycznej klasy P na świecie. Gdy to zostanie zautomatyzowane, popyt na wnioskowanie LLM nie skaluje się liniowo – on się załamuje. Centra danych są budowane dla świata, w którym AI staje się stałym pracownikiem. Ale poprawna analogia obliczeniowa mówi: AI to tymczasowy bootloader dla rzeczywistej automatyzacji.
+
+[Już tu byliśmy.](https://en.wikipedia.org/wiki/Dot-com_bubble) Ewangelicy _[Nowej Gospodarki](https://en.wikipedia.org/wiki/New_economy)_ obiecywali trwale przekształcony krajobraz, gdzie stare ograniczenia (praca, infrastruktura, kapitał) po prostu przestają mieć znaczenie. Teraz odgrywamy tę samą fantazję z GPU zamiast światłowodów. Inwestorzy mówią, jakby popyt na moc obliczeniową miał rosnąć w nieskończoność, jakby fizyczny świat nie miał się sprzeciwić. Ale ostatnim razem, gdy budowaliśmy dla nieskończonej pracy cyfrowej, skończyliśmy z pustymi farmami serwerów i wrakami telekomunikacyjnymi zaśmiecającymi bilanse. Boom AI to tylko nowa gospodarka z lepszym brandingiem i gorętszymi chipami.
+
+Budujemy globalną katedrę GPU, aby czcić obciążenie, które, jeśli używane poprawnie, powinno ostatecznie się skurczyć.
+
+## VI. Trudne Problemy, Których AI Wciąż Nie Może Dotknąć
+
+To prowadzi z powrotem do granicy NP. Ludzie operują w przestrzeni, która jest nieodwracalnie chaotyczna: domena intuicji, osądu, pragnienia, estetyki, etyki, polityki, stawki. [Prawdziwa niedeterministyczność, ale z agencją za nią.](https://en.wikipedia.org/wiki/Bounded_rationality)
+
+To jest ostateczna linia, która ma znaczenie: LLM brakuje woli. Brakuje im pragnienia. Brakuje im impulsu do działania bez wywołania. Nie poruszają się nawet, chyba że ktoś wyśle zapytanie.
+
+Niedeterministyczność nie jest agencją. [Stochastyczność nie jest świadomością](https://en.wikipedia.org/wiki/Chinese_room). Próbkowanie nie jest osądem.
+
+Brutalna siła wyszukiwania ludzkiego umysłu (intuicyjne skoki, apetyt na ryzyko, samodzielne dążenie do znaczenia) jest NP-zupełna w najprawdziwszym, najpiękniej chaotycznym sensie. Ludzie działają bez instrukcji. Zmieniają swoje własne funkcje celu. Przekształcają sam problem.
+
+LLM nie robią tego. Nie budzą się rano, chcąc czegokolwiek. To dlatego AI nie zastąpi ludzi. Zastąpi deterministyczne przepływy pracy, które ludzie tolerują, ale nigdy naprawdę nie zamieszkują. Prawdziwa praca – praca niealgorytmiczna, praca nieliniowa, praca zrodzona z siły woli i intuicji – pozostaje upartą, pięknie ludzką.
+
+## VII. Zakończenie: Granica NP Pracy
+
+AI nie zastąpi ludzi; zastąpi wszystkie deterministyczne prace, generując kod, który je zautomatyzuje, pozostawiając tylko pracę NP-zupełną, kierowaną przez ludzi, opartą na osądzie. Hype inwestorów błędnie rozumie tę granicę i przecenia trwałość AI.
+
+Zadania, które pozostaną po automatyzacji – prawdziwe decyzje, negocjacje, polityka, etyka, kreatywne skoki, ruchy wymagające intuicji i stawki oraz odpowiedzialności – to domeny NP-zupełne, w których żyją ludzie.
+
+To my jesteśmy tymi, którzy brutalnie forsują życie przez nieobliczalne bzdury: emocje, ambicje, negocjacje, konflikty, wynalazki, upór, nadzieję. Praca, która pozostaje, NP-zupełny biznes bycia człowiekiem, wciąż należy do nas.
+
+Ludzkie rozwiązywanie problemów jest „algorytmiczne” tylko w sensie machnięcia ręką; większość tego, co nazywamy intuicją, byłaby NP-trudna lub nawet nierozstrzygalna, gdyby została sformalizowana. Wykonalność obliczeniowa, a nie teoretyczna algorytmiczność, to to, co determinuje automatyzowalną pracę.

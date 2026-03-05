@@ -7,33 +7,7 @@ categories: contact
 tags: 
 comments: true
 lang: pl
-original_post: /dee
+original_post: /self-care/2020/01/29/dee/
 ---
 
-
-
-<center><iframe src=https://www.lexaloffle.com/bbs/widget.php?pid=thestoryofdee allowfullscreen width=621 height=513 style=border:none; overflow:hidden></iframe></center>
-
----
-
-*Ten post został przetłumaczony z języka angielskiego. [Przeczytaj oryginał]({{ page.original_post }})*
-
----
-
-*Ten post został przetłumaczony z języka angielskiego. [Przeczytaj oryginał]({{ page.original_post }})*
-
----
-
-*Ten post został przetłumaczony z języka angielskiego. [Przeczytaj oryginał]({{ page.original_post }})*
-
----
-
-*Ten post został przetłumaczony z języka angielskiego. [Przeczytaj oryginał]({{ page.original_post }})*
-
----
-
-*Ten post został przetłumaczony z języka angielskiego. [Przeczytaj oryginał]({{ page.original_post }})*
-
----
-
-*Ten post został przetłumaczony z języka angielskiego. [Przeczytaj oryginał]({{ page.original_post }})*
+<center><iframe src="https://www.lexaloffle.com/bbs/widget.php?pid=thestoryofdee" allowfullscreen width=621 height=513 style="border:none; overflow:hidden"></iframe></center>

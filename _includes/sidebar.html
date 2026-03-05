@@ -37,6 +37,10 @@
 
     </nav>
 
+    {% if page.collection == 'posts' or page.collection == 'posts_pl' %}
+    {% include language-switcher.html %}
+    {% endif %}
+
     <p class="sidebar-footer">&copy; {{ site.time | date: '%Y' }}. All rights reserved. <a href="https://wiks.wiki/feed.xml"><img src="/images/rss.png" alt="rss feed" style="height: 0.8rem; display: inline; margin: 0; border-radius: 0;"></a></p>
   </div>
 </div>

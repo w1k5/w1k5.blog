@@ -1,0 +1,32 @@
+{
+  "name": "wiks-blog-translator",
+  "version": "1.0.0",
+  "description": "AI-powered Polish translation for wiks.wiki blog posts",
+  "main": "translate-posts.js",
+  "scripts": {
+    "translate": "node translate-posts.js",
+    "translate-single": "node translate-single.js"
+  },
+  "dependencies": {
+    "openai": "^4.20.0"
+  },
+  "engines": {
+    "node": ">=16.0.0"
+  },
+  "keywords": [
+    "translation",
+    "jekyll",
+    "blog",
+    "polish",
+    "ai"
+  ],
+  "author": "WIKS",
+  "license": "MIT"
+}
+
+
+
+
+
+
+

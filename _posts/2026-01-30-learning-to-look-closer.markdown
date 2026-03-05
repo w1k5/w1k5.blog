@@ -24,8 +24,6 @@ This is where the transplant thought shows up, and I don’t like admitting it. 
 
 But the deeper claim isn’t about who gets to claim New York. It’s about what belonging actually is.
 
-[![Figure in a Room' | Francis Bacon](https://substackcdn.com/image/fetch/$s_!oEOg!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff18f9129-e626-43c8-94df-d6a84dd16b65_322x450.bin)](https://substackcdn.com/image/fetch/$s_!oEOg!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff18f9129-e626-43c8-94df-d6a84dd16b65_322x450.bin) _Figure In a Room,_ Francis Bacon (1958)
-
 New York doesn’t ask to be loved. It asks to be survived. It doesn’t care about origin stories or sincerity or how carefully you explain yourself. It cares whether you can read a moment fast enough to stay upright inside it. Belonging isn’t permission; it’s endurance. It’s making a thousand small calls with incomplete information and paying for the ones you get wrong. You don’t get a clean answer. You get a detail, a glance, a tight feeling in your stomach, and then the city keeps moving.
 
 New York doesn’t care where you’re from. It cares whether you look closer. And it collects the cost whether you consent or not.

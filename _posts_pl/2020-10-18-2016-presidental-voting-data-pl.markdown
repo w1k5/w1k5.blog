@@ -7,13 +7,11 @@ categories: politics
 tags: 
 comments: true
 lang: pl
-original_post: /2016-presidental-voting-data
+original_post: /self-care/2020/10/18/2016-presidental-voting-data/
 image: /images/thumbnails/couldbeworse.png
 ---
 
-
-
-Dzięki uprzejmości <a href=https://secretnyc.co/map-shows-nyc-neighborhood-voted/ target=_blank>SecretNYC</a>, początkowo zaczerpnięte z <a href=https://www.dnainfo.com/new-york/numbers/clinton-trump-president-vice-president-every-neighborhood-map-election-results-voting-general-primary-nyc/ target=_blank>DNAInfo</a>, które obecnie jest niedostępne.<!-- more -->
+Dzięki uprzejmości <a href="https://secretnyc.co/map-shows-nyc-neighborhood-voted/" target="_blank">SecretNYC</a>, początkowo zaczerpnięte z <a href="https://www.dnainfo.com/new-york/numbers/clinton-trump-president-vice-president-every-neighborhood-map-election-results-voting-general-primary-nyc/" target="_blank">DNAInfo</a>, które obecnie jest niedostępne.<!-- more -->
 <table>
 <thead>
   <tr>
@@ -469,27 +467,3 @@ Dzięki uprzejmości <a href=https://secretnyc.co/map-shows-nyc-neighborhood-vot
   <tr>
     <td>Rugby-Remsen Village</td>
     <td>15,384</td>
-
----
-
-*Ten post został przetłumaczony z języka angielskiego. [Przeczytaj oryginał]({{ page.original_post }})*
-
----
-
-*Ten post został przetłumaczony z języka angielskiego. [Przeczytaj oryginał]({{ page.original_post }})*
-
----
-
-*Ten post został przetłumaczony z języka angielskiego. [Przeczytaj oryginał]({{ page.original_post }})*
-
----
-
-*Ten post został przetłumaczony z języka angielskiego. [Przeczytaj oryginał]({{ page.original_post }})*
-
----
-
-*Ten post został przetłumaczony z języka angielskiego. [Przeczytaj oryginał]({{ page.original_post }})*
-
----
-
-*Ten post został przetłumaczony z języka angielskiego. [Przeczytaj oryginał]({{ page.original_post }})*

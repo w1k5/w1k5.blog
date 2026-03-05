@@ -6,12 +6,10 @@ date: "2020-05-22 22:27:02 -0500"
 categories: politics
 comments: true
 lang: pl
-original_post: /covid-and-hegelian-thought
+original_post: /self-care/2020/05/22/covid-and-hegelian-thought/
 ---
 
-
-
-Na mój <a href=https://catalog.williams.edu/psci/detail/?strm=&cn=203&crsid=011923&req_year=0 target=_blank>PSCI 203</a> egzamin końcowy, miałam okazję napisać dialog. Oto zadanie:
+Na mój <a href="https://catalog.williams.edu/psci/detail/?strm=&cn=203&crsid=011923&req_year=0" target="_blank">PSCI 203</a> egzamin końcowy, miałam okazję napisać dialog. Oto zadanie:
 
 <i>Frantz Fanon, Audra Simpson, Karl Marx i Bill Connolly wchodzą do baru. Jesteś barmanką. Rozpoczyna się dyskusja, w której barmanka jest pełnoprawną uczestniczką. Napisz dialog.</i>
 
@@ -21,7 +19,7 @@ Oto rezultat. Myślę, że jest umiarkowanie zabawny.<!-- more -->
 
 [Ekran przechodzi z czerni do ukazania scenerii. To dosłownie bar z Cheers. Jest późno, bar nawet nie wydaje się być otwarty (dlaczego miałby być podczas globalnej pandemii?), ale młoda blondynka siedzi za nim na stołku barowym, drzemiąc, jak widzimy z bliskiego ujęcia. Trzymanie stóp na barze prawdopodobnie nie jest zbyt higieniczne. Czasami po prostu miło jest usiąść w miejscu wypełnionym energią rozmów i towarzyskich spotkań, nawet jeśli nikogo tam nie ma. Powoli otwiera oczy, zmieniamy ujęcie na szersze i teraz widzimy, że przed nią siedzi czterech gości. Mruga wielokrotnie. Postacie są ułożone według ich szczytowych lat. MARX, FANON, CONNOLLEY i SIMPSON siedzą na stołkach barowych przed WIKS, od lewej do prawej. Postacie są nieruchome, absolutnie neutralne, i nagle ożywają, przesuwając się w bardziej wygodne pozycje, ich oczy świadome i żywe. MARX marszczy brwi na widok dziewczyny przed nim. Młodzi ludzie zawsze są tacy aroganccy.]
 
-WIKS: Mój Boże, to <a href=https://www.youtube.com/watch?v=rVVZ38O-wsQ target=_blank>gromada</a> lewicowców.
+WIKS: Mój Boże, to <a href="https://www.youtube.com/watch?v=rVVZ38O-wsQ" target="_blank">gromada</a> lewicowców.
 
 CONNOLLEY: [Śmieje się.] To zabawne określenie.
 
@@ -106,27 +104,3 @@ CONNOLLEY: Masz fantastyczny styl Jordana Petersona unikania pytań.
 [Wyraźnie WIKS nie radzi sobie zbyt dobrze z temperamentem od czasu izolacji od rówieśników.]
 
 WIKS: Przyznaję się do wartości waszych prac! Słuchaj, rozbierając wszystkie wasze pomysły, zawsze można je sprowadzić do stałej mentalności my kontra oni, nieustannie w konflikcie i przekazywanej z pokolenia na pokolenie. Macie różne pomysły na to, jak możemy u
-
----
-
-*Ten post został przetłumaczony z języka angielskiego. [Przeczytaj oryginał]({{ page.original_post }})*
-
----
-
-*Ten post został przetłumaczony z języka angielskiego. [Przeczytaj oryginał]({{ page.original_post }})*
-
----
-
-*Ten post został przetłumaczony z języka angielskiego. [Przeczytaj oryginał]({{ page.original_post }})*
-
----
-
-*Ten post został przetłumaczony z języka angielskiego. [Przeczytaj oryginał]({{ page.original_post }})*
-
----
-
-*Ten post został przetłumaczony z języka angielskiego. [Przeczytaj oryginał]({{ page.original_post }})*
-
----
-
-*Ten post został przetłumaczony z języka angielskiego. [Przeczytaj oryginał]({{ page.original_post }})*

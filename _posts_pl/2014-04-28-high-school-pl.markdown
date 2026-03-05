@@ -7,10 +7,8 @@ categories: contact
 tags: 
 comments: true
 lang: pl
-original_post: /high-school
+original_post: /self-care/2014/04/28/high-school/
 ---
-
-
 
 Ciągle czuję, że robię tak dużo, a prawie nie widzę żadnych rezultatów.<!-- more -->
 
@@ -29,27 +27,3 @@ Pamiętam, jak byłam dziś w kościele i wyobrażałam sobie siebie z dzieckiem
 Wciąż chciałabym, żeby ktoś ze mną porozmawiał. Jestem w parku, siedzę na ławce, po prostu piszę. Zastanawiam się, czy ktoś kiedykolwiek zastanawia się, co piszę. Ale kogo to obchodzi? Myślą, że są tacy cholernie cool. Nienawidzę ich.
 
 Jak zawsze, jestem kulą miłości z małym rdzeniem nienawiści. Ale wciąż chciałabym, żeby ktoś z nich ze mną porozmawiał. Myślę, że to smutne. Jestem smutną osobą. Chciałabym, żeby ktoś mógł powiedzieć cześć, skomplementować mnie, albo po prostu zacząć rozmowę. Może jestem zastraszająca. Nie wiem. Nienawidzę ludzi, którzy trzymają się swoich wyznaczonych społecznych klik.
-
----
-
-*Ten post został przetłumaczony z języka angielskiego. [Przeczytaj oryginał]({{ page.original_post }})*
-
----
-
-*Ten post został przetłumaczony z języka angielskiego. [Przeczytaj oryginał]({{ page.original_post }})*
-
----
-
-*Ten post został przetłumaczony z języka angielskiego. [Przeczytaj oryginał]({{ page.original_post }})*
-
----
-
-*Ten post został przetłumaczony z języka angielskiego. [Przeczytaj oryginał]({{ page.original_post }})*
-
----
-
-*Ten post został przetłumaczony z języka angielskiego. [Przeczytaj oryginał]({{ page.original_post }})*
-
----
-
-*Ten post został przetłumaczony z języka angielskiego. [Przeczytaj oryginał]({{ page.original_post }})*

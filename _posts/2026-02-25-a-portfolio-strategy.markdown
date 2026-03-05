@@ -95,19 +95,11 @@ And the reliability tests are boring.[2](https://w1k55.substack.com/p/who-can-ru
 I’m not really a finance girl. I write code and watch systems fail for a living. So I ask different questions.
 
   * What does it mean when powerful institutions prefer assets outside the paper system?
-
   * What does it mean when U.S. debt keeps expanding while foreign appetite grows more conditional?
-
   * What does “safe” mean in a world where safety is political?
-
   * What happens when nominal gains don’t translate into real purchasing power?
 
-
-
-
 I ask them because they point to something real: the system is trying to do two contradictory things at once. It wants to maintain the appearance of normality while quietly changing what “trust” costs. And those two worlds don’t coexist forever.
-
-[![](https://substackcdn.com/image/fetch/$s_!w95N!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa637817d-1627-45ae-9147-0f9475d318cc_1536x999.png)](https://substackcdn.com/image/fetch/$s_!w95N!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa637817d-1627-45ae-9147-0f9475d318cc_1536x999.png)
 
 [1](https://w1k55.substack.com/p/who-can-ruin-this-for-me-a-portfolio#footnote-anchor-1-189089297)
 

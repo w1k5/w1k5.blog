@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Who can ruin this for me?
 subtitle: A portfolio strategy
 categories: "politics"

@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Learning to Look Closer
 subtitle: (and what it cost me)
 categories: "personal"

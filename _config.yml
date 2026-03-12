@@ -31,6 +31,9 @@ default_lang: en
 version:          2.1.0
 repo:           https://github.com/w1k5/w1k5.github.io
 
+# Exclude from site output
+exclude:          [scripts, node_modules, ".git", ".idea", Gemfile, Gemfile.lock, "*.gemspec", requirements.txt]
+
 # Plugins/Gems
 plugins:          [jekyll-paginate, jekyll-seo-tag, jekyll-last-modified-at, jekyll-sitemap, jekyll-feed, jekyll-algolia]
 last-modified-at:
